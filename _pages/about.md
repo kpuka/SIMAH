@@ -12,4 +12,4 @@ I am a Project Scientist at the Centre for Addiction and Mental Health (CAMH), a
 
 My research focuses on identifying modifiable factors of health outcomes and implementing pragmatic randomized trials. Specifically, my work has focused on modeling mental health outcomes over time and examining their interactions with clinical characteristics, family environment, health behaviors, and socioeconomic status. This work has been used to inform randomized control trials of behavioural interventions. 
 
-I also provide statistical and methodological consulting services, outlined [here](/consulting/) in further detail. 
+I also provide statistical and methodological consulting services at a nominal fee. For more information, click here [here](/consulting/). 

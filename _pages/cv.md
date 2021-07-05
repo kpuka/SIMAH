@@ -8,22 +8,20 @@ redirect_from: /resume
 
 {% include base_path %}
 
-# Complete CV
+# Complete CV:
 
 You can download a PDF copy of my complete CV [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf).
 
 
-# Abbreviated CV
+# Abbreviated CV:
 
 ## Education
-======
-* **HBSc** Psychology and Biology, University of Toronto, 2013
-* **PhD** Epidemiology and Biostatistics, Western University, 2021
+* **HBSc**, Psychology and Biology, University of Toronto, 2013
+* **PhD**, Epidemiology and Biostatistics, Western University, 2021
 
 
 
 ## Work experience
-======
 * **Project Scientist** (2021/03 - Present)
     * Institute for Mental Health Policy Research, Centre for Addiction and Mental Health
     * Toronto, ON 
@@ -43,7 +41,6 @@ You can download a PDF copy of my complete CV [here](http://kpuka.github.io/file
 
 
 ## Summary of Research Accomplishments
-======
 * Published 36 peer-reviewed manuscripts; first author of 24 publications
 * Published 7 book chapters; first author of 4 chapters
 * Presented in >40 national and international conferences 
@@ -53,7 +50,6 @@ You can download a PDF copy of my complete CV [here](http://kpuka.github.io/file
 
 
 ## Summary of Professional and Leadership Experience 
-======
 * Vice-Chair, Canadian Chapter of the Young Epilepsy Section (YES) of the International League Against Epilepsy (ILAE); 2019 - Present
 * Secretary/Treasurer, Canadian Paediatric Epilepsy Network; 2019 - Present
 * Chair, Epidemiology & Biostatistics Students' Council, Western University; 2017 - 2019 

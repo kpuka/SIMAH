@@ -20,16 +20,16 @@ For a complete publication list, click [here](http://kpuka.github.io/files/Klajd
 **Puka K**, Smith ML (2021). Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy. Developmental Medicine & Child Neurology. [Link](https://doi.org/10.1111/dmcn.14815)
 
 
-**Puka K**, Bax K, Andrade A, Campbell C, Devries-Rizzo M, Gangam H, Levin S, Nouri MN, Prasad AN, Secco M, Zou G, Speechley KN (2020). A Live-Online Mindfulness-based Intervention for Children Living with Epilepsy and their Families: Protocol for a Randomized Controlled Trial of Making Mindfulness Matter. Trials 21, 922. [Link](https://doi.org/10.1186/s13063-020-04792-3)
+**Puka K**, Bax K, ..., Speechley KN (2020). A Live-Online Mindfulness-based Intervention for Children Living with Epilepsy and their Families: Protocol for a Randomized Controlled Trial of Making Mindfulness Matter. Trials 21, 922. [Link](https://doi.org/10.1186/s13063-020-04792-3)
 
 
-**Puka K**, Ferro MA, Camfield CS, Levin SD, Smith ML, Wiebe S, Zou G, Anderson KK, Speechley KN (2020). Long-term quality of life trajectories among individuals diagnosed with epilepsy in childhood. Epilepsia 61, 1453-1463. [Link](https://doi.org/10.1111/epi.16579)
+**Puka K**, Ferro MA, ..., Speechley KN (2020). Long-term quality of life trajectories among individuals diagnosed with epilepsy in childhood. Epilepsia 61, 1453-1463. [Link](https://doi.org/10.1111/epi.16579)
 
 
 **Puka K**, Speechley KN, Ferro MA (2020). Convulsive status epilepticus in children recently diagnosed with epilepsy and long-term health-related quality of life. Seizure: European Journal of Epilepsy 80, 49-52. [Link](https://doi.org/10.1016/j.seizure.2020.05.025)
 
 
-**Puka K**, Goodwin SW, Ferro MA, Smith ML, Widjaja E, Anderson KK, Speechley KN (2020). Validation of the Quality of Life in Childhood Epilepsy Questionnaire (QOLCE-55 and QOLCE-16) for use by parents of young adults with childhood-onset epilepsy. Epilepsy & Behavior 104, 106904. [Link](https://doi.org/10.1016/j.yebeh.2020.106904)
+**Puka K**, Goodwin SW, ..., Speechley KN (2020). Validation of the Quality of Life in Childhood Epilepsy Questionnaire (QOLCE-55 and QOLCE-16) for use by parents of young adults with childhood-onset epilepsy. Epilepsy & Behavior 104, 106904. [Link](https://doi.org/10.1016/j.yebeh.2020.106904)
 
 
 **Puka K**, Tavares PT, Speechley KN (2019). Social outcomes of adults with childhood-onset epilepsy: a systematic review and meta-analysis. Epilepsy & Behavior 92, 297-305. [Link](http://doi.org/10.1016/j.yebeh.2019.01.012) 
@@ -56,7 +56,7 @@ For a complete publication list, click [here](http://kpuka.github.io/files/Klajd
 **Puka K**, Smith ML (2016). Where are they now? Psychosocial, educational and vocational outcomes after epilepsy surgery in childhood. Epilepsia, 57, 574-581. [Link](https://doi.org/10.1111/epi.13327)
 
 
-**Puka K**, Smith ML, Moineddin R, Snead OC, Widjaja E (2016). The influence of socio-economic status on health resource utilization in pediatric epilepsy in a universal health insurance system. Epilepsia, 57, 455-463. [Link](https://doi.org/10.1111/epi.13290) 
+**Puka K**, Smith ML, ..., Widjaja E (2016). The influence of socio-economic status on health resource utilization in pediatric epilepsy in a universal health insurance system. Epilepsia, 57, 455-463. [Link](https://doi.org/10.1111/epi.13290) 
 
 **Puka K**, Smith ML (2015). Predictors of long-term quality of life after pediatric epilepsy surgery. Epilepsia, 56, 873-881. [Link](https://doi.org/10.1111/epi.13004)
 

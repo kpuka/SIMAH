@@ -10,7 +10,9 @@ redirect_from: /resume
 
 # Complete CV:
 
-You can download a PDF version of my complete CV [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf){:target="_blank"}.
+<iframe src="/files/Klajdi Puka CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can download a PDF version of my complete CV [here](/files/Klajdi Puka CV.pdf){:target="_blank"}.
 
 
 

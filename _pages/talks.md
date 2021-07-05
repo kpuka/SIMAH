@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 
-1. **Long-term sequelae of childhood-onset epilepsy and epilepsy surgery; Psychiatric and psychosocial outcomes**
-  * December 2020. Neuropsychology Special Interests Group, American Epilepsy Society Annual Meeting, Seattle, WA, USA.
+1. **Long-term sequelae of childhood-onset epilepsy and epilepsy surgery; Psychiatric and psychosocial outcomes** \
+    Neuropsychology Special Interests Group, \
+    American Epilepsy Society Annual Meeting, Seattle, WA, USA.\
+    December 2020
 
 
 2. **Neuropsychology and epilepsy - what every clinician treating epilepsy should know in 2020**

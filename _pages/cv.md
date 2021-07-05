@@ -18,24 +18,24 @@ Education
 * **HBSc** Psychology and Biology, University of Toronto, 2013
 * **PhD** Epidemiology and Biostatistics, Western University, 2021
 
-
+======
 
 Work experience
 ======
-* **Project Scientist** (2021/03 - Present) \s\s
-    * Institute for Mental Health Policy Research, Centre for Addiction and Mental Health \s\s
+* **Project Scientist** (2021/03 - Present)
+    * Institute for Mental Health Policy Research, Centre for Addiction and Mental Health
     * Toronto, ON 
 
-* **Biostatistician** (2020/06 - Present) \s\s
-    * Brain Recovery Project s\s
+* **Biostatistician** (2020/06 - Present)
+    * Brain Recovery Project
     * Los Angeles, CA
  
-* **Biostatistician** (2018/07 - 2021/08) \s\s
-    * Department of Medicine, Western University \s\s
+* **Biostatistician** (2018/07 - 2021/08)
+    * Department of Medicine, Western University
     * London, ON
    
-* **Methodology and Statistical Consultant** (2017/01 - 2017/12) \s\s
-    * Epidemiology and Biostatistics, Western University \s\s
+* **Methodology and Statistical Consultant** (2017/01 - 2017/12)
+    * Epidemiology and Biostatistics, Western University
     * London, ON
 
 

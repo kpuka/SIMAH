@@ -12,7 +12,7 @@ redirect_from: /resume
 
 You can download a PDF copy of my complete CV [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf).
 
-# 
+
 
 # Abbreviated CV:
 

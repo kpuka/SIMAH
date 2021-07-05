@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=ulN-H0UAAAAJ&hl=en"
-  email            :
+  email            : "klajdi.puka@camh.ca"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true

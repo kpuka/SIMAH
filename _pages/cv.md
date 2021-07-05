@@ -34,20 +34,13 @@ Work experience
 
 
 
-|:--------------------|:---------------------------------------------------:|-------------------:|
-| 2021/03 - Present   | **Project Scientist**                               | Toronto, ON        |
-|                     | Institute for Mental Health Policy Research,        |                    |
-|                     | Centre for Addiction and Mental Health              |                    |
-|------------------------------------------------------------------------------------------------|
-| 2020/06 - Present   | **Biostatistician**                                 | Los Angeles, CA    |
-|                     | Brain Recovery Project                              |                    |
-|------------------------------------------------------------------------------------------------|
-| 2018/07 - 2021/08   | **Biostatistician**                                 | London, ON         |
-|                     | Department of Medicine, Western University          |                    |
-|------------------------------------------------------------------------------------------------|
-| 2017/01 - 2017-12   | **Methodology and Statistical Consultant**          | London, ON         |
-|                     | Epidemiology and Biostatistics, Western University  |                    |
-|------------------------------------------------------------------------------------------------|
+|:--------------------|:-----------------------------------------------------------------------------------------------------------:|-------------------:|
+|---------------------|-------------------------------------------------------------------------------------------------------------|--------------------|
+| 2021/03 - Present   | **Project Scientist**  Institute for Mental Health Policy Research,  Centre for Addiction and Mental Health | Toronto, ON        |
+| 2020/06 - Present   | **Biostatistician**  Brain Recovery Project                                                                 | Los Angeles, CA    |
+| 2018/07 - 2021/08   | **Biostatistician**   Department of Medicine, Western University                                            | London, ON         |
+| 2017/01 - 2017-12   | **Methodology and Statistical Consultant**   Epidemiology and Biostatistics, Western University             | London, ON         |
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------|
 
 
  

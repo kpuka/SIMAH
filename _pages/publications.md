@@ -14,7 +14,7 @@ My research focuses on the evaluation and treatment of the cognitive and mental 
 
 # Select Publications:	
 
-For a complete publication list, click [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf).\
+For a complete publication list, click [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf).
 
 
 **Puka K**, Smith ML (2021). Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy. Developmental Medicine & Child Neurology. [Link](https://doi.org/10.1111/dmcn.14815)

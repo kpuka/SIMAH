@@ -10,26 +10,26 @@ redirect_from: /resume
 
 Education
 ======
-**HBSc** Psychology and Biology, University of Toronto, 2013
-**PhD** Epidemiology and Biostatistics, Western University, 2021
+**HBSc** Psychology and Biology, University of Toronto, 2013 \s\s
+**PhD** Epidemiology and Biostatistics, Western University, 2021 \s\s
 
 
 Work experience
 ======
-* **Project Scientist** (2021/03 - Present)
-  Institute for Mental Health Policy Research, Centre for Addiction and Mental Health
-  Toronto, ON
+* **Project Scientist** (2021/03 - Present) \s\s
+  Institute for Mental Health Policy Research, Centre for Addiction and Mental Health \s\s
+  Toronto, ON 
 
-* **Biostatistician** (2020/06 - Present)
-  Brain Recovery Project
+* **Biostatistician** (2020/06 - Present) \s\s
+  Brain Recovery Project s\s
   Los Angeles, CA
  
-* **Biostatistician** (2018/07 - 2021/08)
-  Department of Medicine, Western University
+* **Biostatistician** (2018/07 - 2021/08) \s\s
+  Department of Medicine, Western University \s\s
   London, ON
   
-* **Methodology and Statistical Consultant** (2017/01 - 2017/12)
-  Epidemiology and Biostatistics, Western University
+* **Methodology and Statistical Consultant** (2017/01 - 2017/12) \s\s
+  Epidemiology and Biostatistics, Western University \s\s
   London, ON
 
 

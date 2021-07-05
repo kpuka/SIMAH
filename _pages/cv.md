@@ -17,34 +17,34 @@ You can download a PDF version of my complete CV [here](http://kpuka.github.io/f
 # Abbreviated CV:
 
 ## Education
-**PhD**, *Epidemiology and Biostatistics*, Western University, 2021\
-**HBSc**, *Psychology and Biology*, University of Toronto, 2013
+*PhD*, **Epidemiology and Biostatistics**, Western University, 2021\
+*HBSc*, **Psychology and Biology**, University of Toronto, 2013
 
 
 
 
 ## Work experience
-* **_Project Scientist_** (2021/03 - Present)\
+**_Project Scientist_** (2021/03 - Present)\
 Institute for Mental Health Policy Research,\
 Centre for Addiction and Mental Health\
-Toronto, ON 
+Toronto, ON\
 
-* **_Biostatistician_** (2020/06 - Present)\
+**_Biostatistician_** (2020/06 - Present)\
 Brain Recovery Project\
-Los Angeles, CA
+Los Angeles, CA\
  
-* **_Biostatistician_** (2018/07 - 2021/08)\
+**_Biostatistician_** (2018/07 - 2021/08)\
 Department of Medicine, Western University\
-London, ON
+London, ON\
    
-* **_Methodology and Statistical Consultant_** (2017/01 - 2017/12)\
+**_Methodology and Statistical Consultant_** (2017/01 - 2017/12)\
 Epidemiology and Biostatistics, Western University\
-London, ON
+London, ON\
 
 
-* **_Clinical Research Project Coordinator_** (2012/05 - 2016/08)\
+**_Clinical Research Project Coordinator_** (2012/05 - 2016/08)\
 Department of Psychology, Hospital for Sick Children\
-Toronto, ON
+Toronto, ON\
 
 
 

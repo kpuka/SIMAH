@@ -11,16 +11,16 @@ author_profile: true
     
 
 # Workshops
-* Data management and analysis using SAS (2019/07)
-  * Epidemiology & Biostatistics 2019 Summer Workshop Series
+* Data management and analysis using SAS (2019/07)\
+  Epidemiology & Biostatistics 2019 Summer Workshop Series
   
-* An applied introduction to analyzing and visualizing interactions in SAS (2018/05)
-  * Epidemiology & Biostatistics 2018 Summer Workshop Series
+* An applied introduction to analyzing and visualizing interactions in SAS (2018/05)\
+  Epidemiology & Biostatistics 2018 Summer Workshop Series
   
-* "I have my data! Now what?" SAS basics and data management (2019/07)
-  * Department of Epidemiology & Biostatistics
+* "I have my data! Now what?" SAS basics and data management (2019/07)\
+  Department of Epidemiology & Biostatistics
   
   
 # Certifications Received
-* Advanced Teaching Program, Centre for Teaching and Learning.
-  * Completed a 20-hour course covering topics such as course design strategies, active learning, authentic assessment of student learning, and maintaining a culture of respect and community. 
+* Advanced Teaching Program, Centre for Teaching and Learning.\
+  Completed a 20-hour course covering topics such as course design strategies, active learning, authentic assessment of student learning, and maintaining a culture of respect and community. 

@@ -10,15 +10,16 @@ redirect_from: /resume
 
 # Complete CV:
 
-You can download a PDF copy of my complete CV [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf).
+You can download a PDF version of my complete CV [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf).
 
 
 
 # Abbreviated CV:
 
 ## Education
-**HBSc**, Psychology and Biology, University of Toronto, 2013\
-**PhD**, Epidemiology and Biostatistics, Western University, 2021
+**PhD**, *Epidemiology and Biostatistics*, Western University, 2021\
+**HBSc**, *Psychology and Biology*, University of Toronto, 2013
+
 
 
 

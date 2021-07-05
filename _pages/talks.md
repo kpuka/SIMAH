@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: 
 permalink: /talks/
 author_profile: true
 ---
 
+# Invited Presentations
 
 1. **Long-term sequelae of childhood-onset epilepsy and epilepsy surgery; Psychiatric and psychosocial outcomes** \
 Neuropsychology Special Interests Group, \

@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Klajdi Puka"
   avatar           : "profile.png"
-  bio              : "Project Scientist | PhD Epidemiology & Biostatistics"
+  bio              : "Project Scientist at CAMH | PhD Epidemiology & Biostatistics"
   location         : "Toronto, ON"
-  employer         : "Centre for Addiction and Mental Health (CAMH)"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=ulN-H0UAAAAJ&hl=en"
   email            : "klajdi.puka@camh.ca"

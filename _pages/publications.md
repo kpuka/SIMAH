@@ -35,7 +35,7 @@ For a complete list, download my complete CV [here](http://kpuka.github.io/files
 **Puka K**, Tavares PT, Speechley KN (2019). Social outcomes of adults with childhood-onset epilepsy: a systematic review and meta-analysis. Epilepsy & Behavior 92, 297-305. [Link](http://doi.org/10.1016/j.yebeh.2019.01.012) 
 
 
-**Puka K**, Ferro MA, Anderson KK, Speechley KN (2019). Prevalence and trajectories of depressive symptoms among mothers of children with newly diagnosed epilepsy: a longitudinal 10-year study. Epilepsia 60, 358-366. [Link](http://doi.org/10.1111/epi.14638)
+**Puka K**, Ferro MA, Anderson KK, Speechley KN (2019). Prevalence and trajectories of depressive symptoms among mothers of children with newly diagnosed epilepsy: a longitudinal 10-year study. Epilepsia 60, 358-366. [Link](https://doi.org/10.1111/epi.14638)
 
 
 **Puka K**, Tavares PT, Anderson KK, Ferro MA, Speechley KN (2018). A systematic review of quality of life in parents of children with epilepsy. Epilepsy & Behavior 82, 35-45. [Link](https://doi.org/10.1016/j.yebeh.2018.03.008) 

@@ -1,5 +1,5 @@
 ---
-title: "Abbreviated CV"
+title:  CV"
 layout: archive
 permalink: /cv/
 author_profile: yes
@@ -7,6 +7,8 @@ redirect_from: /resume
 ---
 
 {% include base_path %}
+
+# Complete CV
 
 You can download a PDF copy of my complete CV [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf).
 

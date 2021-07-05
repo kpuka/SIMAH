@@ -22,5 +22,6 @@ author_profile: true
   
   
 # Certifications Received
-* Advanced Teaching Program, Centre for Teaching and Learning.\
+* Advanced Teaching Program (2019/05)\
+  Centre for Teaching and Learning, Western Univesity.\
   Completed a 20-hour course covering topics such as course design strategies, active learning, authentic assessment of student learning, and maintaining a culture of respect and community. 

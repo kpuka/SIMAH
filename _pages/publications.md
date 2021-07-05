@@ -17,8 +17,8 @@ My research focuses on the evaluation and treatment of the cognitive and mental 
 For a complete list, download my complete CV [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf).\\
 
 
-* **Puka K**, Smith ML (2021). Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy. Developmental Medicine & Child Neurology. [Link](https://doi.org/10.1111/dmcn.14815)
+*  **Puka K**, Smith ML (2021). Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy. Developmental Medicine & Child Neurology. [Link](https://doi.org/10.1111/dmcn.14815)
 
 
-* **Puka K**, Bax K, Andrade A, Campbell C, Devries-Rizzo M, Gangam H, Levin S, Nouri MN, Prasad AN, Secco M, Zou G, Speechley KN (2020). A Live-Online Mindfulness-based Intervention for Children Living with Epilepsy and their Families: Protocol for a Randomized Controlled Trial of Making Mindfulness Matter©. Trials 21, 922. [Link](https://doi.org/10.1186/s13063-020-04792-3)
+*  **Puka K**, Bax K, Andrade A, Campbell C, Devries-Rizzo M, Gangam H, Levin S, Nouri MN, Prasad AN, Secco M, Zou G, Speechley KN (2020). A Live-Online Mindfulness-based Intervention for Children Living with Epilepsy and their Families: Protocol for a Randomized Controlled Trial of Making Mindfulness Matter©. Trials 21, 922. [Link](https://doi.org/10.1186/s13063-020-04792-3)
 

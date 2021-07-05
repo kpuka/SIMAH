@@ -10,9 +10,7 @@ redirect_from: /resume
 
 # Complete CV:
 
-You can download a PDF copy of my complete CV [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf).
-\
-\
+You can download a PDF copy of my complete CV [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf).\\
 
 
 

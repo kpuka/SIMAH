@@ -13,14 +13,14 @@ You can download a PDF copy of my complete CV [here](http://kpuka.github.io/file
 
 # Abbreviated CV
 
-Education
+## Education
 ======
 * **HBSc** Psychology and Biology, University of Toronto, 2013
 * **PhD** Epidemiology and Biostatistics, Western University, 2021
 
 ======
 
-Work experience
+## Work experience
 ======
 * **Project Scientist** (2021/03 - Present)
     * Institute for Mental Health Policy Research, Centre for Addiction and Mental Health
@@ -40,7 +40,7 @@ Work experience
 
 
 
-Summary of Research Accomplishments
+## Summary of Research Accomplishments
 ======
 * Published 36 peer-reviewed manuscripts; first author of 24 publications
 * Published 7 book chapters; first author of 4 chapters
@@ -50,7 +50,7 @@ Summary of Research Accomplishments
 
 
 
-Summary of Professional and Leadership Experience 
+## Summary of Professional and Leadership Experience 
 ======
 * Vice-Chair, Canadian Chapter of the Young Epilepsy Section (YES) of the International League Against Epilepsy (ILAE); 2019 - Present
 * Secretary/Treasurer, Canadian Paediatric Epilepsy Network; 2019 - Present

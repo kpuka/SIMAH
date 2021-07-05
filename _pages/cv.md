@@ -11,34 +11,36 @@ redirect_from: /resume
 # Complete CV:
 
 You can download a PDF copy of my complete CV [here](http://kpuka.github.io/files/Klajdi Puka CV.pdf).
-
+\
+\
 
 
 
 # Abbreviated CV:
 
 ## Education
-* **HBSc**, Psychology and Biology, University of Toronto, 2013
-* **PhD**, Epidemiology and Biostatistics, Western University, 2021
+**HBSc**, Psychology and Biology, University of Toronto, 2013\
+**PhD**, Epidemiology and Biostatistics, Western University, 2021
 
 
 
 ## Work experience
-* **Project Scientist** (2021/03 - Present)
-    * Institute for Mental Health Policy Research, Centre for Addiction and Mental Health
-    * Toronto, ON 
+* **_Project Scientist_** (2021/03 - Present)\
+Institute for Mental Health Policy Research,\
+Centre for Addiction and Mental Health\
+Toronto, ON 
 
-* **Biostatistician** (2020/06 - Present)
-    * Brain Recovery Project
-    * Los Angeles, CA
+* **_Biostatistician_** (2020/06 - Present)\
+Brain Recovery Project\
+Los Angeles, CA
  
-* **Biostatistician** (2018/07 - 2021/08)
-    * Department of Medicine, Western University
-    * London, ON
+* **_Biostatistician_** (2018/07 - 2021/08)\
+Department of Medicine, Western University\
+London, ON
    
-* **Methodology and Statistical Consultant** (2017/01 - 2017/12)
-    * Epidemiology and Biostatistics, Western University
-    * London, ON
+* **_Methodology and Statistical Consultant_** (2017/01 - 2017/12)\
+Epidemiology and Biostatistics, Western University\
+London, ON
 
 
 

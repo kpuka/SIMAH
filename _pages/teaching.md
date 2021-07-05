@@ -7,22 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
-Research plays a central role in my teaching as students improve their analytical skills and master the tools of data analysis through hands-on experience. I have taught undergraduate courses on political violence and statistical methodology. While at UNC, I taught the graduate statistics lab for Advanced Topics in Political Data Science, where my work was recognized by the Political Science Department's Earle Wallace Award for Graduate Student Teaching. I also served as a teaching assistant for courses in international relations and American politics at UNC, in addition to the ICPSR Summer Program where I was a teaching assistant for a course on Bayesian modeling in the social sciences. You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
 
-You can find a selection of my teaching materials, including all of the labs from Advanced Topics in Political Data Science, [here](/teaching-materials).
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+# Courses
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+## Western University (London, ON)
+* Biostatistics9500: Biostatistics for Graduate Orthodontics (Summer 2021)
+    
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+# Workshops
+* Data management and analysis using SAS (2019/07)
+  * Epidemiology & Biostatistics 2019 Summer Workshop Series
+  
+* An applied introduction to analyzing and visualizing interactions in SAS (2018/05)
+  * Epidemiology & Biostatistics 2018 Summer Workshop Series
+  
+* "I have my data! Now what?" SAS basics and data management (2019/07)
+  * Department of Epidemiology & Biostatistics
+  
+  
+# Certifications Received
+* Advanced Teaching Program, Centre for Teaching and Learning.
+  * Completed a 20-hour course covering topics such as course design strategies, active learning, authentic assessment of student learning, and maintaining a culture of respect and community. 

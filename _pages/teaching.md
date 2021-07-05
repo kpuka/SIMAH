@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-# Western University (London, ON)
+# Courses, Western University (London, ON)
 * Biostatistics9500: Biostatistics for Graduate Orthodontics (Summer 2021)
     
 

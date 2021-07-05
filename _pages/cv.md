@@ -1,5 +1,5 @@
 ---
-title:  CV"
+title:  CV
 layout: archive
 permalink: /cv/
 author_profile: yes
@@ -20,7 +20,7 @@ You can download a PDF copy of my complete CV [here](http://kpuka.github.io/file
 * **HBSc** Psychology and Biology, University of Toronto, 2013
 * **PhD** Epidemiology and Biostatistics, Western University, 2021
 
-======
+
 
 ## Work experience
 ======

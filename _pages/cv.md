@@ -10,37 +10,28 @@ redirect_from: /resume
 
 Education
 ======
-* HBSc Psychology and Biology, University of Toronto, 2013
-* PhD Epidemiology and Biostatistics, Western University, 2021
+**HBSc** Psychology and Biology, University of Toronto, 2013
+**PhD** Epidemiology and Biostatistics, Western University, 2021
 
 
 Work experience
 ======
-* 2021/03 - Present: Project Scientist
-  * Institute for Mental Health Policy Research, Centre for Addiction and Mental Health
-  * Toronto, ON
+* **Project Scientist** (2021/03 - Present)
+  Institute for Mental Health Policy Research, Centre for Addiction and Mental Health
+  Toronto, ON
 
-* 2020/06 - Present:	Biostatistician
-  * Brain Recovery Project
-  * Los Angeles, CA
+* **Biostatistician** (2020/06 - Present)
+  Brain Recovery Project
+  Los Angeles, CA
  
-* 2018/07 - 2021/08:	Biostatistician
-  * Department of Medicine, Western University
-  * London, ON
+* **Biostatistician** (2018/07 - 2021/08)
+  Department of Medicine, Western University
+  London, ON
   
-* 2017/01 - 2017/12 :	Methodology and Statistical Consultant
-  * Epidemiology and Biostatistics, Western University
-  *  London, ON
+* **Methodology and Statistical Consultant** (2017/01 - 2017/12)
+  Epidemiology and Biostatistics, Western University
+  London, ON
 
-
-
-|:--------------------|:-----------------------------------------------------------------------------------------------------------:|-------------------:|
-|---------------------|-------------------------------------------------------------------------------------------------------------|--------------------|
-| 2021/03 - Present   | **Project Scientist**  Institute for Mental Health Policy Research,  Centre for Addiction and Mental Health | Toronto, ON        |
-| 2020/06 - Present   | **Biostatistician**  Brain Recovery Project                                                                 | Los Angeles, CA    |
-| 2018/07 - 2021/08   | **Biostatistician**   Department of Medicine, Western University                                            | London, ON         |
-| 2017/01 - 2017-12   | **Methodology and Statistical Consultant**   Epidemiology and Biostatistics, Western University             | London, ON         |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------------------|
 
 
  

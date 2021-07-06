@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+A key corner stone of my teaching philosophy is the alignment of learning outcomes, assessments, and active learning strategies. I strive to create learning objectives that build on each other to  provide a deep understanding of the course material and an opportunity to utilize and apply the material through a 'hands-on' component. I taken a 'course-long perspective', whereby assignments and activities are designed in relation to each other, each developing skills that are further reinforced by the next task. Lastly, I strive to provide an engaging and supportive classroom environment, achieved by the utilization of various active learning techniques, such polls and games using iClickers or online platforms to review material, debates, and think-pair-share activities. The goal of such activities and classroom discussions is to engender a sense of community, learn from the perspectives of others, allow for opportunities to apply, analyze, and evaluate during classroom discussions. I also strive to incorporate group work in class and in course evaluations, because I see developing students' ability to work with others (including the good and bad aspects) as an important skill applicable to life beyond university. 
+
+
 ## Western University (London, ON)
 
 ### Courses

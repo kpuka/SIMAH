@@ -1,11 +1,10 @@
 ---
 layout: archive
-title:
+title: Teaching
 permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
 
 ## Courses, Western University (London, ON)
 * Biostatistics9500: Biostatistics for Graduate Orthodontics (Summer 2021) <br>    

@@ -16,7 +16,7 @@ You can download a PDF version of my complete CV <a href="/files/Klajdi Puka CV.
 
 # Abbreviated CV:
 ## Education
-**PhD**, Epidemiology and Biostatistics, Western University, 2021<br>
+**PhD**, Epidemiology and Biostatistics, Western University, 2021
 **HBSc**, Psychology and Biology, University of Toronto, 2013
 
 

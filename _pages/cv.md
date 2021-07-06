@@ -41,11 +41,6 @@ Epidemiology and Biostatistics, Western University <br>
 London, ON <br>
 
 
-**_Clinical Research Project Coordinator_** (2012/05 - 2016/08) <br>
-Department of Psychology, Hospital for Sick Children <br>
-Toronto, ON <br>
-
-
 
 ## Summary of Research Accomplishments
 * Published 36 peer-reviewed manuscripts; first author of 24 publications

@@ -8,7 +8,7 @@ author_profile: true
 
 # Courses, Western University (London, ON)
 * Biostatistics9500: Biostatistics for Graduate Orthodontics (Summer 2021)
-    
+ <br>    
 
 # Workshops
 * Data management and analysis using SAS (2019/07).\
@@ -19,7 +19,7 @@ author_profile: true
   
 * "I have my data! Now what?" SAS basics and data management (2019/07).\
   Department of Epidemiology & Biostatistics
-  
+<br>
   
 # Certifications Received
 * Advanced Teaching Program (2019/05)\

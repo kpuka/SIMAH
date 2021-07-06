@@ -60,7 +60,7 @@ For a complete publication list, please visit my [Google Scoholar](https://schol
 
 **Puka K**, Smith ML (2015). Predictors of long-term quality of life after pediatric epilepsy surgery. Epilepsia, 56, 873-881. [Link](https://doi.org/10.1111/epi.13004)
 
-
+<br>
 
 
 # Book Chapters:	

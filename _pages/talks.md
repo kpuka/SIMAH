@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+For a complete list of talks and presentations, please see download my CV by clicking <a href="/files/Klajdi Puka CV.pdf" target="_blank"> here </a> 
+
 
 1. **Long-term sequelae of childhood-onset epilepsy and epilepsy surgery; Psychiatric and psychosocial outcomes** \
 Neuropsychology Special Interests Group, \

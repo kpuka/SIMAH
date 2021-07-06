@@ -18,7 +18,7 @@ For a complete publication list, please visit my [Google Scoholar](https://schol
 
 
 Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy. <br>
-**Puka K**, Smith ML (2021). <br>
+*__Puka K__, Smith ML (2021)*. <br>
 Developmental Medicine & Child Neurology. [Link](https://doi.org/10.1111/dmcn.14815)
 
 

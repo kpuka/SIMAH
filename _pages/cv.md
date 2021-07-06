@@ -16,7 +16,7 @@ You can download a PDF version of my complete CV <a href="/files/Klajdi Puka CV.
 
 # Abbreviated CV:
 ## Education
-**PhD**, Epidemiology and Biostatistics, Western University, 2021
+**PhD**, Epidemiology and Biostatistics, Western University, 2021\
 **HBSc**, Psychology and Biology, University of Toronto, 2013
 
 
@@ -57,7 +57,7 @@ Toronto, ON <br>
 
 
 ## Summary of Professional and Leadership Experience 
-* Vice-Chair, Canadian Chapter of the Young Epilepsy Section (YES) of the International League Against Epilepsy (ILAE); 2019 - Present
-* Secretary/Treasurer, Canadian Paediatric Epilepsy Network; 2019 - Present
-* Chair, Epidemiology & Biostatistics Students' Council, Western University; 2017 - 2019 
-* Website Committee Member, Canadian League Against Epilepsy (CLAE); 2017 - Present 
+* **Vice-Chair**, Canadian Chapter of the Young Epilepsy Section (YES) of the International League Against Epilepsy (ILAE); 2019 - Present
+* **Secretary/Treasurer**, Canadian Paediatric Epilepsy Network; 2019 - Present
+* **Chair**, Epidemiology & Biostatistics Students' Council, Western University; 2017 - 2019 
+* **Website Committee Member**, Canadian League Against Epilepsy (CLAE); 2017 - Present 

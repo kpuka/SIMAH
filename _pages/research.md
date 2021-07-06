@@ -17,22 +17,22 @@ My research focuses on the evaluation and treatment of the cognitive and mental 
 For a complete publication list, please visit my [Google Scoholar](https://scholar.google.ca/citations?user=ulN-H0UAAAAJ&hl=en) page.
 
 
-Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy. <br>
+**Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy.** <br>
 _**Puka K**, Smith ML_ (2021). <br>
 Developmental Medicine & Child Neurology. [Link](https://doi.org/10.1111/dmcn.14815)
 
 
-A Live-Online Mindfulness-based Intervention for Children Living with Epilepsy and their Families: Protocol for a Randomized Controlled Trial of Making Mindfulness Matter. <br>
+**A Live-Online Mindfulness-based Intervention for Children Living with Epilepsy and their Families: Protocol for a Randomized Controlled Trial of Making Mindfulness Matter.** <br>
 _**Puka K**, Bax K, ..., Speechley KN_ (2021). <br>
 Trials 21, 922. [Link](https://doi.org/10.1186/s13063-020-04792-3)
 
 
-Long-term quality of life trajectories among individuals diagnosed with epilepsy in childhood.<br>
+**Long-term quality of life trajectories among individuals diagnosed with epilepsy in childhood.**<br>
 _**Puka K**, Ferro MA, ..., Speechley KN_ (2020). <br>
 Epilepsia 61, 1453-1463. [Link](https://doi.org/10.1111/epi.16579)
 
 
-Validation of the Quality of Life in Childhood Epilepsy Questionnaire (QOLCE-55 and QOLCE-16) for use by parents of young adults with childhood-onset epilepsy.<br>
+**Validation of the Quality of Life in Childhood Epilepsy Questionnaire (QOLCE-55 and QOLCE-16) for use by parents of young adults with childhood-onset epilepsy.**<br>
 _**Puka K**, Goodwin SW, ..., Speechley KN (2020)_. <br>
 Epilepsy & Behavior 104, 106904. [Link](https://doi.org/10.1016/j.yebeh.2020.106904)
 

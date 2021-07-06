@@ -5,11 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Western University (London, ON)
 
-## Courses, Western University (London, ON)
+### Courses
 * Biostatistics9500: Biostatistics for Graduate Orthodontics (Summer 2021) <br>    
 
-## Workshops
+### Workshops
 * Data management and analysis using SAS (2019/07). <br> 
   Epidemiology & Biostatistics 2019 Summer Workshop Series
   
@@ -19,7 +20,7 @@ author_profile: true
 * "I have my data! Now what?" SAS basics and data management (2019/07). <br> 
   Department of Epidemiology & Biostatistics <br>
   
-## Certifications Received
+### Certifications Received
 * Advanced Teaching Program (2019/05) <br> 
   Centre for Teaching and Learning, Western Univesity. <br> 
   Completed a 20-hour course covering topics such as course design strategies, active learning, authentic assessment of student learning, and maintaining a culture of respect and community. 

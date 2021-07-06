@@ -17,13 +17,19 @@ My research focuses on the evaluation and treatment of the cognitive and mental 
 For a complete publication list, please visit my [Google Scoholar](https://scholar.google.ca/citations?user=ulN-H0UAAAAJ&hl=en) page.
 
 
-**Puka K**, Smith ML (2021). Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy. Developmental Medicine & Child Neurology. [Link](https://doi.org/10.1111/dmcn.14815)
+Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy. <br>
+**Puka K**, Smith ML (2021). <br>
+Developmental Medicine & Child Neurology. [Link](https://doi.org/10.1111/dmcn.14815)
 
 
-**Puka K**, Bax K, ..., Speechley KN (2020). A Live-Online Mindfulness-based Intervention for Children Living with Epilepsy and their Families: Protocol for a Randomized Controlled Trial of Making Mindfulness Matter. Trials 21, 922. [Link](https://doi.org/10.1186/s13063-020-04792-3)
+A Live-Online Mindfulness-based Intervention for Children Living with Epilepsy and their Families: Protocol for a Randomized Controlled Trial of Making Mindfulness Matter. <br>
+**Puka K**, Smith ML (2021). <br>
+Trials 21, 922. [Link](https://doi.org/10.1186/s13063-020-04792-3)
 
 
-**Puka K**, Ferro MA, ..., Speechley KN (2020). Long-term quality of life trajectories among individuals diagnosed with epilepsy in childhood. Epilepsia 61, 1453-1463. [Link](https://doi.org/10.1111/epi.16579)
+Long-term quality of life trajectories among individuals diagnosed with epilepsy in childhood.<br>
+**Puka K**, Ferro MA, ..., Speechley KN (2020). <br>
+Epilepsia 61, 1453-1463. [Link](https://doi.org/10.1111/epi.16579)
 
 
 **Puka K**, Speechley KN, Ferro MA (2020). Convulsive status epilepticus in children recently diagnosed with epilepsy and long-term health-related quality of life. Seizure: European Journal of Epilepsy 80, 49-52. [Link](https://doi.org/10.1016/j.seizure.2020.05.025)

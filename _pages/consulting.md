@@ -17,7 +17,7 @@ I provide individual statistical and methodological consulting services, and can
 * Scientific manuscript preparation
 
 
-To inquire about these services and whether I may be able to help with your project, please send me an email or complete the form below. I'd be happy to answer any questions over email and/or set up a phone/video call.
+Please get in touch to inquire about these services and whether I may be able to help with your project. I'd be happy to answer any questions over email and/or set up a phone/video call.
 
 
 <!-- Contact form  -->

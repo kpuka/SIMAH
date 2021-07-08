@@ -27,7 +27,7 @@ To inquire about these services and whether I may be able to help with your proj
                 <form action="https://formspree.io/f/xoqynave" method="POST">
                 <input type="hidden" name="_subject" value="Contact request from kpuka.ca" />
                 <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea type="text" rows="4" name="message" value="Your message" required></textarea>
+                <textarea type="text" rows="4" name="message" placeholder="Your message" required></textarea>
                 <button type="submit">Send</button>
             </form>
         </div>

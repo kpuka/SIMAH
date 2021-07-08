@@ -33,7 +33,6 @@ To inquire about these services and whether I may be able to help with your proj
         </div>
     </div>
     
-    <!-- End of contact form  -->
-    
+
 
 <br><br>You will get the most out of a consulting meeting if you can come prepared to discuss the following: (1) your research questions and hypotheses. What problem are you trying to solve? What do you expect to find? (2) any preliminary work you've done or methods you're considering using to analyze your data; and, if applicable, (3) analysis output, if you're struggling to interpret it. 

@@ -20,14 +20,12 @@ I provide individual statistical and methodological consulting services, and can
 To inquire about these services and whether I may be able to help with your project, please send me an email or complete the form below. I'd be happy to answer any questions over email and/or set up a phone/video call.
 
 
-
-# Contact Form
+<!-- Contact form  -->
 <div id="contact">
         <h2>Get in Touch</h2>
         <div id="contact-form">
                 <form action="https://formspree.io/f/xoqynave" method="POST">
-                <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="text" name="name" placeholder="Your name" required>
+                <input type="hidden" name="_subject" value="Contact request from kpuka.ca" />
                 <input type="email" name="_replyto" placeholder="Your email" required>
                 <textarea rows="4" name="message" placeholder="Your message" required></textarea>
                 <button type="submit">Send</button>
@@ -35,7 +33,7 @@ To inquire about these services and whether I may be able to help with your proj
         </div>
     </div>
     
-    
+    <!-- End of contact form  -->
     
 
-You will get the most out of a consulting meeting if you can come prepared to discuss the following: (1) your research questions and hypotheses. What problem are you trying to solve? What do you expect to find? (2) any preliminary work you've done or methods you're considering using to analyze your data; and, if applicable, (3) analysis output, if you're struggling to interpret it. 
+<br><br>You will get the most out of a consulting meeting if you can come prepared to discuss the following: (1) your research questions and hypotheses. What problem are you trying to solve? What do you expect to find? (2) any preliminary work you've done or methods you're considering using to analyze your data; and, if applicable, (3) analysis output, if you're struggling to interpret it. 

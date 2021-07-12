@@ -32,7 +32,7 @@ Toronto, ON <br>
 Brain Recovery Project <br>
 Los Angeles, CA <br>
  
-**_Biostatistician_** (2018/07 - 2021/08) <br>
+**_Statistician_** (2018/07 - 2021/08) <br>
 Department of Medicine, Western University <br>
 London, ON <br>
    

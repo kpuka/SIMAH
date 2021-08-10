@@ -1,8 +1,9 @@
 ---
 title:  
 layout: archive
-permalink: /cv/
 toc: true
+permalink: /cv/
+
 ---
 
 {% include base_path %}

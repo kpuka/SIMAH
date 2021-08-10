@@ -1,7 +1,6 @@
 ---
 title:  
 layout: archive
-toc: true
 permalink: /cv/
 
 ---

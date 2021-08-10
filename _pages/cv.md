@@ -4,6 +4,7 @@ layout: archive
 permalink: /cv/
 author_profile: yes
 redirect_from: /resume
+toc: true
 ---
 
 {% include base_path %}

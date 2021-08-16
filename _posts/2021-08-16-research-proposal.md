@@ -42,7 +42,7 @@ The summary and specific aims section should serve as an abbreviated summary of 
 
 Requirements for each proposal will differ, but the section below provides a concrete example of how this section can be organized in four paragraphs: 
 
-### Introduction 
+### 1) Introduction 
 The goal of the introductory paragraph is to ensure reviewers understand: a) the current knowledge in the field, b) the gap that constitutes an important problem, and c) the importance of address this gap. Consider using the following structure: 
 
 * *Attention grabber/the Hook*: Begin with an attention-grabbing sentence to establish the relevance of your proposal to human health. Be careful to not state information that would be intrinsically obvious to the reviewers. The sentence should compel the reader to read on.
@@ -52,7 +52,7 @@ The goal of the introductory paragraph is to ensure reviewers understand: a) the
 	* Examples: 'What is not known is.';     'Thus there is an urgent need for .'; 'This lack of knowledge represents an important problem because.'
 * *The Critical Need*: This is the knowledge, technique, or treatment your proposal will develop; the reason your proposal should be funded. Emphasize the significance of the problem and that your research is the next logical step. You should state why your project is a timely investment. Is there any urgency to solving this problem sooner rather than later? What's the impact of not addressing this issue?
 
-### Goals / Objectives
+### 2) Goals / Objectives
 The goal of the second paragraph is to introduce the solution to the identified gap/need. Include the following in this section:
 * *Long-term Goal*: The overarching goal and continuum of research that you will pursue over the course of multiple grants. This goal should be broad enough to encompass the gap or need identified previously. 
 	* Example: 'Our long-term goal is to ..'
@@ -62,12 +62,12 @@ The goal of the second paragraph is to introduce the solution to the identified 
 * *Central Hypothesis*: This should link to the Objective, should be testable, and should provide a focus (i.e. it should give direction to the research; it should serve to set up the specific aims, discussed below). Briefly explain the rationale for the hypothesis in this section, and if needed, refer to a more detailed explanation elsewhere in the proposal. Avoid vague hypotheses because it will be unclear what you expect to determine with the proposed research.
 	* Example: 'Our central hypothesis is that.'
 
-### The Specific Aims
+### 3) The Specific Aims
 The goal of the third paragraph is to describe the aims that will test the central hypotheses. There should be complete alignment between the Specific Aims and Central Hypothesis.  * Begin this section with a sentence like "We plan to test our central hypothesis and accomplish the overall objective of this application by pursuing the following specific aims:"
 * The aims should be related but should not be dependent on each other (e.g. Aim 2 should not rely on the success of Aim 1).
 * Each Aim should be in a separate line, numbered and indented, to improve readability.
 
-### Summary / Impact
+### 4) Summary / Impact
 The goal of the fourth paragraph is to create a firm, broad base to support the proposal, and can include the following information. 
 * *Innovation*: what makes your project innovative? 
 * *Expected outcomes: Discuss the expected outcomes and why they are important. If this was discussed in the specific aims it may not need to be repeated here. 

@@ -2,6 +2,7 @@
 title: "Research Protocol"
 excerpt: "Short Description"
 date: 2021-08-16
+collection: resources
 tags:
   - category1
   - category2

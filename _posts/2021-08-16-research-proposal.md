@@ -1,5 +1,5 @@
 ---
-title: 'Research Proposal'
+title: 'Developing a Research Proposal'
 date: 2021-08-16
 permalink: /posts/2021/08/research-protocol/
 tags:
@@ -8,9 +8,7 @@ tags:
   - category2
 ---
 
-# Developing a Research Proposal
-
-**Topic:** This post outlines how research proposal should be structured, primarily focusing on the objectives/aims and analyses plan sections 
+**Summary:** This post outlines how research proposal should be structured, primarily focusing on the objectives/aims and analyses plan sections 
 
 # Part 1: Objectives and Aims 
 ## Purpose of Research Proposal
@@ -19,10 +17,10 @@ The goal of the grant proposal is to present a coherent, and carefully thought-o
 It is important to remember that the reviewer's specialty may differ from that of the research topic, and that reviewers will not fund a study they do not understand. Therefore, the research proposal should be understandable by a general scientific audience, and you should aim to make things as simple, explicit, and concrete as possible. The proposal should also be highly readable. Don't make reviewers work to understand your project. 
 
 Consider the following general points to improve clarity and readability:
-* **Leave nothing open to interpretation**. Be direct and explicit in labeling the purpose of a sentence or section. Examples: 
-  +'This project is innovative because.'
-  +'The long-term goal of this project is..'
-  +'We are a multidisciplinary team spanning cardiologists, pathologists, epidemiologists and statisticians, with the expertise to undertake the proposed research because.'
+* **Leave nothing open to interpretation**. Be direct and explicit in labeling the purpose of a sentence or section. 
+	* Examples: 'This project is innovative because.'; 
+		* 'The long-term goal of this project is..'
+		* 'We are a multidisciplinary team spanning cardiologists, pathologists, epidemiologists and statisticians, with the expertise to undertake the proposed research because.'
 	
 * Use bolded, underlined, or italicized text (in moderation) to highlight key phrases to make them easy to find. Phases such as "long-term goal", "objective", "specific aims", "innovative".
 * Be mindful of the visual appearance of the proposal and ensure that it is not overcrowded. White space and page or section breaks are important to consider.  
@@ -45,20 +43,20 @@ Requirements for each proposal will differ, but the section below provides a con
 
 1. **Introduction**. The goal of the introductory paragraph is to ensure reviewers understand: a) the current knowledge in the field, b) the gap that constitutes an important problem, and c) the importance of address this gap. Consider using the following structure: 
 * *Attention grabber/the Hook*: Begin with an attention-grabbing sentence to establish the relevance of your proposal to human health. Be careful to not state information that would be intrinsically obvious to the reviewers. The sentence should compel the reader to read on.
-  + Example: Although the majority of children with epilepsy achieve seizure control in the long-term, the cognitive, psychiatric, and psychosocial problems that are pervasive among 80% of children continue to persist. 
+	* Example: Although the majority of children with epilepsy achieve seizure control in the long-term, the cognitive, psychiatric, and psychosocial problems that are pervasive among 80% of children continue to persist. 
 * *What is known*: This part aims to ensure that all reviewers have the required background knowledge to understand the problem, and sets up the knowledge gap or the unmet need that will be addressed. 
 * *Gap in knowledge*: Clearly state the gap that needs to be addressed and why it is important.        
-  + Examples: 'What is not known is.';     'Thus there is an urgent need for .'; 'This lack of knowledge represents an important problem because.'
+	* Examples: 'What is not known is.';     'Thus there is an urgent need for .'; 'This lack of knowledge represents an important problem because.'
 * *The Critical Need*: This is the knowledge, technique, or treatment your proposal will develop; the reason your proposal should be funded. Emphasize the significance of the problem and that your research is the next logical step. You should state why your project is a timely investment. Is there any urgency to solving this problem sooner rather than later? What's the impact of not addressing this issue?
 
 2. **Goals / Objectives**. The goal of the second paragraph is to introduce the solution to the identified gap/need. Include the following in this section:
 * *Long-term Goal*: The overarching goal and continuum of research that you will pursue over the course of multiple grants. This goal should be broad enough to encompass the gap or need identified previously. 
-  + Example: 'Our long-term goal is to ..'
+	* Example: 'Our long-term goal is to ..'
 * *Objective*: Defines the purpose of the current grant application - what it seeks to accomplish, which should be to fill the gap/need identified previously. This should be focused on the product of the research (not the process) and should therefore be to either fill in the gap or meet a need. The objective should have a defined end point.
-  + It is not appropriate to state "to study X".  This is focused on the process (not the product) and there is no defined end point (i.e. when have you 'studied' a topic enough?) 
-  + Example: 'The overall objective of this proposal, which is the next step toward attaining our long-term goal, is to .'
+	* It is not appropriate to state "to study X".  This is focused on the process (not the product) and there is no defined end point (i.e. when have you 'studied' a topic enough?) 
+	* Example: 'The overall objective of this proposal, which is the next step toward attaining our long-term goal, is to .'
 * *Central Hypothesis*: This should link to the Objective, should be testable, and should provide a focus (i.e. it should give direction to the research; it should serve to set up the specific aims, discussed below). Briefly explain the rationale for the hypothesis in this section, and if needed, refer to a more detailed explanation elsewhere in the proposal. Avoid vague hypotheses because it will be unclear what you expect to determine with the proposed research.
-  + Example: 'Our central hypothesis is that.'
+	* Example: 'Our central hypothesis is that.'
 
 3. **The Specific Aims**. The goal of the third paragraph is to describe the aims that will test the central hypotheses. There should be complete alignment between the Specific Aims and Central Hypothesis.  
 * Begin this section with a sentence like "We plan to test our central hypothesis and accomplish the overall objective of this application by pursuing the following specific aims:"
@@ -80,8 +78,8 @@ Our **long-term goal** is to improve the quality of life of children with epilep
 We plan to test our central hypothesis and accomplish the overall goal of this trial by pursuing the following **specific aims**: 
 **Primary Aim:** 
 1. To assess the feasibility of successfully implementing drug A as an intervention for children with epilepsy. Specifically, we will evaluate:
-a) Study procedures (e.g. recruitment, attrition, time to complete study procedures), 
-b) Participant adherence to treatment
+	a) Study procedures (e.g. recruitment, attrition, time to complete study procedures), 
+	b) Participant adherence to treatment
 
 This information will be essential in preparing for a subsequent multi-centered trial across Canada. Feasibility outcomes will be evaluated throughout the course of the study and the specific outcomes collected and evaluated are presented in Section X.
 
@@ -113,22 +111,22 @@ The analyses plan section also highlights to reviewers that a coherent, and care
 Before starting on the analysis plan, the specific aims, methods, and operationalization of variables should be developed and aligned, as described below:
 
 * Ensure that each section of your proposal is inherently connected and builds on previous sections. Each specific aim should be detailed enough to have a clear method of being analyzed. Additionally, all subsequent sections, such as the methods, the outcomes and variables, and the analyses plans, should always link back to the specific aims. 
-	+ One way to achieve this may be to label each specific aim (e.g. 1, 2a, 2b, 3), and consistently refer to these labels throughout the analyses plan, e.g. “To evaluate Aim 1, ….”
+	* One way to achieve this may be to label each specific aim (e.g. 1, 2a, 2b, 3), and consistently refer to these labels throughout the analyses plan, e.g. “To evaluate Aim 1, ….”
 * In the methods section, ensure that the outcome, exposure / predictor variable, and all co-variates evaluating theoretical constructs of interest are explicitly operationalized – i.e. clearly defined and described in terms of the data type and scale of measurement. **Always think about what the data will look like in the spreadsheet/database and what these variables will be**. 
-	+ For example, you may be interested in ‘adverse events’, but how will this theoretical construct be measured, what will the data look like? This may be operationalized as a binary variable (e.g. yes vs. no) indicating whether the patient had at least one adverse event within X months after a procedure. Alternatively, it may be operationalized as a count variable indicating the number of adverse events that occurred within X months after a procedure. 
+	* For example, you may be interested in ‘adverse events’, but how will this theoretical construct be measured, what will the data look like? This may be operationalized as a binary variable (e.g. yes vs. no) indicating whether the patient had at least one adverse event within X months after a procedure. Alternatively, it may be operationalized as a count variable indicating the number of adverse events that occurred within X months after a procedure. 
 * Theoretical constructs may be operationalized in many ways, so you must be explicit in how you will define and measure them. Remember to specify the time point that variables will be collected. Determining the operationalization of the constructs is the first step to generating the analysis plan. 
-	+ The type of data collected and how variables are operationalized will determine the type of analyses your able to perform and will therefore dictate the type of research questions that can be answered.  
+	* The type of data collected and how variables are operationalized will determine the type of analyses your able to perform and will therefore dictate the type of research questions that can be answered.  
 
 ## Writing the Analysis Plan 
 Ensure that all analyses directly link to your specific aims and hypotheses. Consider the following points to ensure that the analysis plan has been described adequately and in unambiguous terms:
 * Reviewers will check that the proposed analyses are appropriate and will adequately account for the study design, data structure (e.g.  hierarchy, clustering, matching, paired data) and scale of measurement (e.g. binary, nominal, ordinal, continuous). 
 * Reviewers will also check that the assumptions of the proposed methods hold, and you should indicate the planned analyses if assumptions do not hold. This exemplifies that the plan for handling the data is well thought out and you have a plan for everything.
-	+ For example, you could indicate: *We plan to do a Poisson regression.  The data will be checked for over dispersion via a deviance goodness of fit test.  In the case where dispersion is present, a negative binomial model will be used.*
+	* For example, you could indicate: *We plan to do a Poisson regression.  The data will be checked for over dispersion via a deviance goodness of fit test.  In the case where dispersion is present, a negative binomial model will be used.*
 * Explain statistical concepts in a clear, concise language that is accessible to:
-	+ Non-statisticians – explaining the big picture and why more than a t-test is required
-	+ Statisticians – using statistical terminology and specific statistical techniques 
+	* Non-statisticians – explaining the big picture and why more than a t-test is required
+	* Statisticians – using statistical terminology and specific statistical techniques 
 * Utilizing statistical terminology and naming the specific statistical methods is appropriate and helpful. It will show that you and your team are knowledgeable and capable of doing the analyses. 
-	+ Reviewers should feel reassured that you have thought in some detail about how the data will be collected, measured and analyzed to address the study aims. However, **it is important that you understand the terminology and use it appropriately**; otherwise reviewer will lose confidence in your team’s ability to successfully carry out the project.
+	* Reviewers should feel reassured that you have thought in some detail about how the data will be collected, measured and analyzed to address the study aims. However, **it is important that you understand the terminology and use it appropriately**; otherwise reviewer will lose confidence in your team’s ability to successfully carry out the project.
 * Important confounding factors should be listed, and the method of adjustment specified.
 * In planning the study and the analysis, it may be helpful to create mock tables and figures for the data you wish to ultimately present and work backwards to ensure that the data collection and analyses plan align with your goal. 
 
@@ -140,7 +138,6 @@ Ensure that all analyses directly link to your specific aims and hypotheses. Con
 3) Patient characteristics will be summarized using mean and standard deviation (for continuous variables) or frequency and proportions (for categorical variables). Poisson regression with robust error variance (Zou, 2004) will be used to estimate the relative risk (RR) of sepsis among patients with diabetes compared to non-diabetic patients (Aim 1). Unadjusted estimates will be evaluated, as well as RR adjusted for age, sex, socio-economic status, comorbidities (COPD, cancer, congestive heart failure, coronary artery disease). Among patients with sepsis, we will estimate the odds of organ failure and mortality among those with and without diabetes (Aim 2) using unadjusted logistic regression. Multivariable logistic regression will also be used to adjust for age, sex, and comorbidities (COPD, cancer, congestive heart failure, coronary artery disease). Two-tailed tests will be used and the level of significance will be set to 0.05.  
 
 4) To evaluate study feasibility (Research Question 1), descriptive statistics will be used to determine the 1) number of participants screened and enrolled per month, 2) proportion of screened participants eligible who enroll, 3) reasons for non-participation, 4) retention rate in treatment and waitlist control condition, 5) missing data on questionnaires, 6) time to complete questionnaires, and 7) participant adherence (proportion of missed doses). To evaluate the impact of the intervention on the frequency of emergency department visits over the next 12 months (Research Question 2), the two study groups will be compared using Poisson regression (or zero-inflated negative binomial regression if the outcome variable consists of a large number of zeros). To evaluate the impact of the intervention on quality of life and self-management skills (Research Question 3; all are continuous variables), the baseline and each follow-up for the intervention and control group will be compared using linear mixed models. Mixed models have the advantage of utilizing all available data without discarding participants with missing follow-up measures. We will also evaluate whether the proportion of participants who show a clinically significant improvement on quality of life (improved scores by >10 points) at 12 months is significantly different between the treatment and control group using simple logistic regressions. All analyses will follow the intention-to-treat principle, using two-tailed tests, and the level of significance set to 0.05.
-
 
 
 

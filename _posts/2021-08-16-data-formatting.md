@@ -28,7 +28,8 @@ Before sending any data to a statistician, review each point below and check off
     If patients are measured multiple times in the study, give them a unique study identifier.
     Emulate the example dataset and data dictionary below as closely as possible.
     
-<center><b><u> Emulate the example dataset and data dictionary below as closely as possible.</center></b></u>
+<center><b><u> Emulate the example dataset and data dictionary below as closely as possible.
+  
 **An Example of a Dataset** <br/><img src='/images/posts/data-formatting/data-example.png'>
 
 ## Important features to follow:

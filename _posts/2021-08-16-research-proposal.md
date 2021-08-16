@@ -1,5 +1,6 @@
 ---
 title: 'Developing a Research Proposal'
+date: 2021-08-16
 permalink: /posts/research-protocol/
 toc: true
 toc_sticky: true

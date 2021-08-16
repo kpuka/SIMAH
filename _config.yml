@@ -200,31 +200,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _portfolio
   - scope:
       path: ""
-      type: teaching
+      type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 # Sass/SCSS

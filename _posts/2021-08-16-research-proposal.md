@@ -151,7 +151,7 @@ Ensure that all analyses directly link to your specific aims and hypotheses. Con
 
 
 
-## References and Further Readings 
+# References and Further Readings 
 
 Bland M, Butland BK, Peacock JL, Poloniecki J, Reid F, Sedgwick P. Statistics guide for research grant applicants. Department of Public Health Sciences, St. George's Hospital Medical School; 2012.
 

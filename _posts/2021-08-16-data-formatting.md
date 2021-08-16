@@ -1,16 +1,16 @@
 ---
-title: 'Data Formatting Checklist'
+title: Data Formatting Checklist
 date: 2021-08-16
 permalink: /posts/data-formatting/
+excerpt_separator: <!--more-->
+toc: true
 tags:
-  - protocol
+  - formatting
 ---
 
 This post outlines how your data file should be formatted to allow statisticians to quickly become familiar with your data and focus on analyzing the data, instead of cleaning the data.
 
-Table of contents:
-* TOC
-{:toc}
+<!--more-->
 
 For a PDF version of this checklist,  <a href="/files/Data Formatting Checklist.pdf" target="_blank"> please click here </a>.
 

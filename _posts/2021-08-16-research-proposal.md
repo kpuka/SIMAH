@@ -83,6 +83,7 @@ Again, each proposal will be unique, and a different organization may need to be
 
 Our **long-term goal** is to improve the quality of life of children with epilepsy. The **objective** of this pilot trial is to evaluate the feasibility of utilizing drug A and B as an intervention for children with epilepsy. Our **central hypothesis** is that drug A and B will be successfully implemented, and that drug A will be more effective at improving seizure frequency and health-related quality of life, relative to drug B for children with epilepsy. 
 We plan to test our central hypothesis and accomplish the overall goal of this trial by pursuing the following **specific aims**: 
+
 **Primary Aim:** 
 1. To assess the feasibility of successfully implementing drug A as an intervention for children with epilepsy. Specifically, we will evaluate:
 	a) Study procedures (e.g. recruitment, attrition, time to complete study procedures), 
@@ -97,7 +98,8 @@ This information will be essential in preparing for a subsequent multi-centered 
 All secondary outcomes (efficacy outcomes) will be evaluated two weeks before the commencement of the drug and six months after commencement. The specific outcomes that will be collected and evaluated are presented in Section X.
 
 
-
+<br>
+<br>
 # Part 2: Writing an Analysis Plan 
 ## Purpose of the Analysis Plan
 A detailed, clearly written statistical analysis plan is an essential part of any competitive research proposal and serves two key purposes, outlined below: 

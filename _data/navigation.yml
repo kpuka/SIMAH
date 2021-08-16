@@ -16,7 +16,7 @@ main:
     url: /consulting/
     
   - title: "Resources"
-    url: /year-archive/
+    url: /posts/
         
   - title: "CV"
     url: /cv/

@@ -53,9 +53,9 @@ Before sending any data to a statistician, review each point below and check off
     -   Bad column names include: "Subject Id \#", "Sex (M = 1, F = 0)", "Blood Pressure (mmHg)".
         Note that these all have spaces and/or special characters.
 
-**An Example of a Data Dictionary** <br/><img src='/images/posts/data-formatting/codebook-example.png'>
+**Data Dictionary** 
 
-- Sometimes, column names cannot explain the variable completely. **You should always include a separate document/spreadsheet outlining the interpretation of the variables** in greater detail.This is called a data dictionary (sometimes referred to as a codebook). Shown below is such a document:
+- Sometimes, column names cannot explain the variable completely. **You should always include a separate document/spreadsheet outlining the interpretation of the variables** in greater detail.This is called a data dictionary (sometimes referred to as a codebook). Shown below is such a document:<br/><img src='/images/posts/data-formatting/codebook-example.png'>
 
 -   Each column in the data set is listed and given a description. This is an ideal place to indicate units in which the measurements are made.
 

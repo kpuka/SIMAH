@@ -42,13 +42,13 @@ The summary and specific aims section should serve as an abbreviated summary of 
 
 Requirements for each proposal will differ, but the section below provides a concrete example of how this section can be organized in four paragraphs: 
 
-1. **Introduction**. The goal of the introductory paragraph is to ensure reviewers understand: a) the current knowledge in the field, b) the gap that constitutes an important problem, and c) the importance of address this gap. Consider using the following structure: 
+1. **Intr__oduction**. The goal of the introductory paragraph is to ensure reviewers understand: a) the current knowledge in the field, b) the gap that constitutes an important problem, and c) the importance of address this gap. Consider using the following structure: 
 
 * *Attention grabber/the Hook*: Begin with an attention-grabbing sentence to establish the relevance of your proposal to human health. Be careful to not state information that would be intrinsically obvious to the reviewers. The sentence should compel the reader to read on.
-	* Example: Although the majority of children with epilepsy achieve seizure control in the long-term, the cognitive, psychiatric, and psychosocial problems that are pervasive among 80% of children continue to persist. 
+* Example: Although the majority of children with epilepsy achieve seizure control in the long-term, the cognitive, psychiatric, and psychosocial problems that are pervasive among 80% of children continue to persist. 
 * *What is known*: This part aims to ensure that all reviewers have the required background knowledge to understand the problem, and sets up the knowledge gap or the unmet need that will be addressed. 
-* *Gap in knowledge*: Clearly state the gap that needs to be addressed and why it is important.        
-* 	Examples: 'What is not known is.';     'Thus there is an urgent need for .'; 'This lack of knowledge represents an important problem because.'
+* *Gap in knowledge*: Clearly state the gap that needs to be addressed and why it is important.
+* Examples: 'What is not known is.';     'Thus there is an urgent need for .'; 'This lack of knowledge represents an important problem because.'
 * *The Critical Need*: This is the knowledge, technique, or treatment your proposal will develop; the reason your proposal should be funded. Emphasize the significance of the problem and that your research is the next logical step. You should state why your project is a timely investment. Is there any urgency to solving this problem sooner rather than later? What's the impact of not addressing this issue?
 
 2. **Goals / Objectives**. The goal of the second paragraph is to introduce the solution to the identified gap/need. Include the following in this section:

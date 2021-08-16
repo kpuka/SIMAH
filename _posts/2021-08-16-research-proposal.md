@@ -63,14 +63,15 @@ The goal of the second paragraph is to introduce the solution to the identified 
 	* Example: 'Our central hypothesis is that.'
 
 ### 3) The Specific Aims
-The goal of the third paragraph is to describe the aims that will test the central hypotheses. There should be complete alignment between the Specific Aims and Central Hypothesis.  * Begin this section with a sentence like "We plan to test our central hypothesis and accomplish the overall objective of this application by pursuing the following specific aims:"
+The goal of the third paragraph is to describe the aims that will test the central hypotheses. There should be complete alignment between the Specific Aims and Central Hypothesis.
+* Begin this section with a sentence like "We plan to test our central hypothesis and accomplish the overall objective of this application by pursuing the following specific aims:"
 * The aims should be related but should not be dependent on each other (e.g. Aim 2 should not rely on the success of Aim 1).
 * Each Aim should be in a separate line, numbered and indented, to improve readability.
 
 ### 4) Summary / Impact
 The goal of the fourth paragraph is to create a firm, broad base to support the proposal, and can include the following information. 
 * *Innovation*: what makes your project innovative? 
-* *Expected outcomes: Discuss the expected outcomes and why they are important. If this was discussed in the specific aims it may not need to be repeated here. 
+* *Expected outcomes*: Discuss the expected outcomes and why they are important. If this was discussed in the specific aims it may not need to be repeated here. 
 * *Study Team*: End this paragraph by indicating why you, your team, and your research environment are best positioned to accomplish this research. Keep it brief but emphasize that your team has the scope and breadth of experience necessary to successfully conduct the research.
 * *Impact*: Generalize the positive impacts that are anticipated from the expected outcomes. If applicable, this section should also speak to a) the jurisdictional context of the project and the impact/generalizability to other jurisdictions, and b) the potential cost-savings to the healthcare system, or other patient-, systems-, or societal-level benefits of the work. Addressing these points demonstrates you understand where your work is situated in the wider research setting.
 

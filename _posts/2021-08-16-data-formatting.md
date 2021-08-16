@@ -3,6 +3,7 @@ title: 'Data Formatting Checklist'
 date: 2021-08-16
 permalink: /posts/2021/08/data-formatting/
 toc: true
+classes: wide
 tags:
   - protocol
 ---

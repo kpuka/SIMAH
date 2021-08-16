@@ -2,10 +2,11 @@
 title: 'Data Formatting Checklist'
 date: 2021-08-16
 permalink: /posts/2021/08/data-formatting/
-toc: true
 tags:
   - protocol
 ---
+* TOC
+{:toc}
 
 This post outlines how your data file should be formatted to allow statisticians to quickly become familiar with your data and focus on analyzing the data, instead of cleaning the data.
 

@@ -3,8 +3,7 @@ title: 'Developing a Research Proposal'
 date: 2021-08-16
 permalink: /posts/2021/08/research-protocol/
 toc: true
-toc_label: "Included Layouts"
-toc_icon: "columns"
+toc_sticky: true
 tags:
   - proposal
   - protocol

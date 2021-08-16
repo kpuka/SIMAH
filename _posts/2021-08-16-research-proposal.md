@@ -85,15 +85,13 @@ Our **long-term goal** is to improve the quality of life of children with epilep
 We plan to test our central hypothesis and accomplish the overall goal of this trial by pursuing the following **specific aims**: 
 
 **Primary Aim:** 
-1. To assess the feasibility of successfully implementing drug A as an intervention for children with epilepsy. Specifically, we will evaluate:
-	a) Study procedures (e.g. recruitment, attrition, time to complete study procedures), 
-	b) Participant adherence to treatment
+1. To assess the feasibility of successfully implementing drug A as an intervention for children with epilepsy. Specifically, we will evaluate a) study procedures (e.g. recruitment, attrition, time to complete study procedures), b) participant adherence to treatment
 
 This information will be essential in preparing for a subsequent multi-centered trial across Canada. Feasibility outcomes will be evaluated throughout the course of the study and the specific outcomes collected and evaluated are presented in Section X.
 
 **Secondary aims** are to obtain preliminary data regarding the impact of drug A and B on:
-2. Children's frequency of seizures at 6-months follow-up.
-3. Children's health-related quality of life (HRQOL) at 6-months follow-up. 
+1. Children's frequency of seizures at 6-months follow-up.
+2. Children's health-related quality of life (HRQOL) at 6-months follow-up. 
 
 All secondary outcomes (efficacy outcomes) will be evaluated two weeks before the commencement of the drug and six months after commencement. The specific outcomes that will be collected and evaluated are presented in Section X.
 

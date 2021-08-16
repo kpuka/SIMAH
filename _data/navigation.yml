@@ -15,8 +15,11 @@ main:
   - title: "Consulting Services"
     url: /consulting/
     
-  - title: "Resources"
-    url: /resources/
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/

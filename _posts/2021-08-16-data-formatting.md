@@ -14,7 +14,7 @@ For a PDF version of this checklist,  <a href="/files/Data Formatting Checklist.
 
 Before sending any data to a statistician, review each point below and check off each item:
 
-# Guidelines to Follow
+# General Guidelines
 
 -   All of the data is contained within one document or (if using Excel) within one sheet.
 
@@ -31,9 +31,10 @@ Before sending any data to a statistician, review each point below and check off
     
 **_Emulate the example dataset and data dictionary below as closely as possible._**
   
+## The Data File
 **An Example of a Dataset** <br/><img src='/images/posts/data-formatting/data-example.png'>
 
-## Important features to follow:
+**Important features to follow:**
 
 -   Each row is an observation (e.g. a participant).
 
@@ -54,7 +55,7 @@ Before sending any data to a statistician, review each point below and check off
     -   Bad column names include: "Subject Id \#", "Sex (M = 1, F = 0)", "Blood Pressure (mmHg)".
         Note that these all have spaces and/or special characters.
 
-**Data Dictionary** 
+## The Data Dictionary
 
 - Sometimes, column names cannot explain the variable completely. **You should always include a separate document/spreadsheet outlining the interpretation of the variables** in greater detail.This is called a data dictionary (sometimes referred to as a codebook). Shown below is such a document:<br/><img src='/images/posts/data-formatting/codebook-example.png'>
 
@@ -62,7 +63,7 @@ Before sending any data to a statistician, review each point below and check off
 
 -   Value labels are included for interpretation purposes. If you code a category with a number (e.g. males = 1, females = 0), here is where you would elucidate your coding choices, as opposed to putting them in the columns).
 
-**Other Important Considerations**
+## Other Important Considerations
 
 -   If you transform the data in anyway (e.g. bucket a continuous measure, like age, into discrete categories) keep the original variable in an adjacent column for reference.
 -   If you have dates included in your data (e.g. date of enrollment, date of birth), please keep them in a consistent format. The preferred format is YYYY/MM/DD. 

@@ -49,7 +49,7 @@ The goal of the introductory paragraph is to ensure reviewers understand: a) the
 	* Example: Although the majority of children with epilepsy achieve seizure control in the long-term, the cognitive, psychiatric, and psychosocial problems that are pervasive among 80% of children continue to persist. 
 * *What is known*: This part aims to ensure that all reviewers have the required background knowledge to understand the problem, and sets up the knowledge gap or the unmet need that will be addressed. 
 * *Gap in knowledge*: Clearly state the gap that needs to be addressed and why it is important.
-	* Examples: 'What is not known is.';     'Thus there is an urgent need for .'; 'This lack of knowledge represents an important problem because.'
+	* Examples: 'What is not known is...';     'Thus there is an urgent need for ...'; 'This lack of knowledge represents an important problem because...'
 * *The Critical Need*: This is the knowledge, technique, or treatment your proposal will develop; the reason your proposal should be funded. Emphasize the significance of the problem and that your research is the next logical step. You should state why your project is a timely investment. Is there any urgency to solving this problem sooner rather than later? What's the impact of not addressing this issue?
 
 ### 2) Goals / Objectives
@@ -60,12 +60,12 @@ The goal of the second paragraph is to introduce the solution to the identified 
 	* It is not appropriate to state "to study X".  This is focused on the process (not the product) and there is no defined end point (i.e. when have you 'studied' a topic enough?) 
 	* Example: 'The overall objective of this proposal, which is the next step toward attaining our long-term goal, is to .'
 * *Central Hypothesis*: This should link to the Objective, should be testable, and should provide a focus (i.e. it should give direction to the research; it should serve to set up the specific aims, discussed below). Briefly explain the rationale for the hypothesis in this section, and if needed, refer to a more detailed explanation elsewhere in the proposal. Avoid vague hypotheses because it will be unclear what you expect to determine with the proposed research.
-	* Example: 'Our central hypothesis is that.'
+	* Example: 'Our central hypothesis is that...'
 
 ### 3) The Specific Aims
 The goal of the third paragraph is to describe the aims that will test the central hypotheses. There should be complete alignment between the Specific Aims and Central Hypothesis.
-* Begin this section with a sentence like "We plan to test our central hypothesis and accomplish the overall objective of this application by pursuing the following specific aims:"
-* The aims should be related but should not be dependent on each other (e.g. Aim 2 should not rely on the success of Aim 1).
+* Begin this section with an explicit sentence such as "*We plan to test our central hypothesis and accomplish the overall objective of this application by pursuing the following specific aims:*"
+* The aims should be related but should not be dependent on each other (e.g., Aim 2 should not rely on the success of Aim 1).
 * Each Aim should be in a separate line, numbered and indented, to improve readability.
 
 ### 4) Summary / Impact

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 'Developing a Research Proposal'
 date: 2021-08-16
 permalink: /posts/2021/08/research-protocol/

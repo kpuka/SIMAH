@@ -1,7 +1,7 @@
 ---
-title: Research Protocol
+title: "Research Protocol"
+excerpt: "Short Description"
 date: 2021-08-16
-permalink: /resources/protocols/
 tags:
   - category1
   - category2

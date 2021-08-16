@@ -2,8 +2,8 @@
 title: 'Developing a Research Proposal'
 date: 2021-08-16
 permalink: /posts/research-protocol/
+excerpt_separator: <!--more-->
 toc: true
-toc_sticky: true
 tags:
   - proposal
   - protocol
@@ -11,9 +11,7 @@ tags:
 
 This post outlines how research proposal should be structured, primarily focusing on the objectives/aims and analyses plan sections 
 
-Table of contents:
-* TOC
-{:toc}
+<!--more-->
 
 # Part 1: Objectives and Aims 
 ## Purpose of Research Proposal

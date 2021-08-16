@@ -5,9 +5,6 @@ permalink: /posts/2021/08/data-formatting/
 toc: true
 tags:
   - protocol
-editor_options: 
-  markdown: 
-    wrap: sentence
 ---
 
 This post outlines how your data file should be formatted to allow statisticians to quickly become familiar with your data and focus on analyzing the data, instead of cleaning the data.
@@ -31,7 +28,7 @@ Before sending any data to a statistician, review each point below and check off
     If patients are measured multiple times in the study, give them a unique study identifier.
     Emulate the example dataset and data dictionary below as closely as possible.
 
-**An Example of a Dataset** <br/><img src='/images/data-formatting-data.png'>
+**An Example of a Dataset** <br/><img src='/images/posts/data-formatting/data-example.png'>
 
 ## Important features to follow:
 
@@ -54,7 +51,7 @@ Before sending any data to a statistician, review each point below and check off
     -   Bad column names include: "Subject Id \#", "Sex (M = 1, F = 0)", "Blood Pressure (mmHg)".
         Note that these all have spaces and/or special characters.
 
-**An Example of a Data Dictionary** <br/><img src='/images/data-formatting-codebook.png'>
+**An Example of a Data Dictionary** <br/><img src='/images/posts/data-formatting/codebook-example.png'>
 
 - Sometimes, column names cannot explain the variable completely. **You should always include a separate document/spreadsheet outlining the interpretation of the variables** in greater detail.This is called a data dictionary (sometimes referred to as a codebook). Shown below is such a document:
 

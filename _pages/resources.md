@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 author_profile: true
 redirect_from:
-  - /wordpress/blog-posts/
+  - /blog-posts/
 ---
 
 {% include base_path %}

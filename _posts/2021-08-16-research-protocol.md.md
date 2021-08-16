@@ -1,7 +1,7 @@
 ---
 title: 'Research protocols'
 date: 2015-08-14
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2012/08/protocol/
 tags:
   - cool posts
   - category1

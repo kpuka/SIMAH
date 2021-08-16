@@ -5,12 +5,11 @@ permalink: /posts/2021/08/research-protocol/
 toc: true
 toc_sticky: true
 tags:
-  - cool posts
-  - category1
-  - category2
+  - proposal
+  - protocol
 ---
 
-**Summary:** This post outlines how research proposal should be structured, primarily focusing on the objectives/aims and analyses plan sections 
+This post outlines how research proposal should be structured, primarily focusing on the objectives/aims and analyses plan sections 
 
 # Part 1: Objectives and Aims 
 ## Purpose of Research Proposal

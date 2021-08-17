@@ -46,7 +46,8 @@ Review of randomization, its importance, and the different options for randomiza
 
 **Scenerio**:  Block randomization for a total of 100 patients, 2 groups, allocated 1:1 with randomly permuted block sizes of 2 and 4.
 
-```{r, include = TRUE}
+```r
+
 # install.packages ("blockrand")
 
 library(blockrand)

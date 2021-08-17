@@ -9,11 +9,11 @@ tags:
   - formatting
 ---
 
-This post outlines how your data file should be formatted to allow statisticians to quickly become familiar with your data and focus on analyzing the data, instead of cleaning the data.
+This post outlines how your data file should be formatted to allow statisticians to quickly become familiar with your data to effectively facilitate data analyses.
 
 <!--more-->
 
-For a PDF version of this checklist,  <a href="/files/Data Formatting Checklist.pdf" target="_blank"> please click here </a>.
+For a PDF version of this checklist,  <a href="/files/posts/Data Formatting Checklist.pdf" target="_blank"> click here </a>.
 
 Before sending any data to a statistician, review each point below and check off each item:
 

@@ -9,8 +9,12 @@ tags:
 ---
 
 Introduction to basic concepts of clinical trials and their categorization.
-
 <!--more-->
+
+Other posts on this topic:
+[Clinical Trials 2: Randomization](/posts/randomization/)
+[Clinical Trials 3: Other Considerations](/posts/rct_other/)
+
 
 # Introduction
 

@@ -8,7 +8,7 @@ tags:
   - RCT
 ---
 
-Review of randomization, its importance, and the different options for randomization. How to generate a randomization list with STATA and R is also discussed.
+Review of randomization, its importance, and the different options for randomization. How to generate a randomization list with R is also discussed.
 <!--more-->
 
 Other posts on this topic:

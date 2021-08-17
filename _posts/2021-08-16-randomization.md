@@ -51,7 +51,7 @@ Review of randomization, its importance, and the different options for randomiza
 # install.packages ("blockrand")
 
 library(blockrand)
-set.seed(55475)  # Enter any integer number to initiate the randomization; using the same seed will generate the same randomization list in the future
+set.seed(55475)  # Using the same seed will generate the same randomization list in the future
 mylist <- blockrand(n=100,            # specify the total sample size 
                     num.levels = 2,   # specify the number of groups
                     block.sizes = 2)  # specify the nuber of different blocks to use

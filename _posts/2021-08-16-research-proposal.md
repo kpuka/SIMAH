@@ -103,14 +103,14 @@ All secondary outcomes (efficacy outcomes) will be evaluated two weeks before th
 ## Purpose of the Analysis Plan
 A detailed, clearly written statistical analysis plan is an essential part of any competitive research proposal and serves two key purposes, outlined below: 
 
-### 1) Ensures Data Collected Can Answer the Question Proposed 
+**1) Ensures Data Collected Can Answer the Question Proposed**
 If the specific aims, study design and structure of the data (e.g. how the constructs of interest are operationalized and recorded) are not aligned to optimally support the analysis plan, the investigator may not be able to answer the research question of interest. Potential flaws in the study design or proposed data structure are easier to identify once the investigator have carefully developed an analysis plan and carefully considered what the data file and the results will look like. 
 
 It is not uncommon for a statistician to be first consulted when the data needs to be analyzed, only to find that the study deign and/or data collected cannot does not align with the research question and the analyses required. Therefore, it is strongly recommended that a statistician be involved in all aspects of the study, from conceptualization to knowledge translation. Challenges are best identified and addressed in the design stage of the study, rather than trying to solve problems at the analysis stage. Addressing a mismatch of what was intended versus what is possible with the data collected, is much more complicated (or not possible all together) at the analysis stage, once data has been collected.
 
 Lastly, data collection is expensive, and one needs to know the value of each data point collected, and how it will be utilized to keep the burden on patients low, and to conduct the project efficiently. 
  
-### 2) Demonstrates a Clear Plan to Reviewers 
+**2) Demonstrates a Clear Plan to Reviewers**
 The analyses plan section also highlights to reviewers that a coherent, and carefully thought-out research plan has been developed. A vague analysis plan will suggest to reviewers that there is no actual plan, connoting to reviewers that the applicant is proposing the “just trust me” approach, which may suggest some risk to the reviewers/agency and erode their confidence in timely project deliverables.  Leaving the plan for analyzing the data until later is counter-intuitive since the value of any proposed study/experiment hinges on the results arising from proper analysis and interpretation. 
 
 

@@ -1,7 +1,7 @@
 ---
 title: 'Developing a Research Proposal'
 date: 2021-08-16
-permalink: /posts/research-protocol/
+permalink: /resources/research-protocol/
 excerpt_separator: <!--more-->
 toc: true
 toc_sticky: false

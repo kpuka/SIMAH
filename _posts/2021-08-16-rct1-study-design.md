@@ -74,11 +74,11 @@ E valuate the effect of more than one treatment. Allows assessment of potential 
 
     -   Aim to show that the effect of the new treatment is not clinically worse than the comparative treatment (i.e. not inferior to comparative treatment).
 
--   Equivalence and non-inferiority trials require that the investigator predefine the difference between two treatments that is considered clinically important (this difference is often labeled ???). The focus is on clinically meaningful differences (an effect that is statistically significant may not be clinically meaningful; e.g. a difference of 2 mm Hg in systolic blood pressure between groups may be statistically significant but is not clinically meaningful).
+-   Equivalence and non-inferiority trials require that the investigator predefine the difference between two treatments that is considered clinically important (this difference is often labeled $\\Delta\$). The focus is on clinically meaningful differences (an effect that is statistically significant may not be clinically meaningful; e.g. a difference of 2 mm Hg in systolic blood pressure between groups may be statistically significant but is not clinically meaningful).
 
     -   Two treatments are said to be 'equivalent' when the confidence interval (CI) of the difference score between treatments is within (i.e. does not exceed) the -$\\Delta\$ and +$\\Delta\$.
 
-    -   Non-inferiority trials are one-sided and only evaluate whether the CI exceeds -???; if the lower bound is above the margin, the new treatment is deemed non-inferior and the trial is a 'success'.
+    -   Non-inferiority trials are one-sided and only evaluate whether the CI exceeds -$\\Delta\$; if the lower bound is above the margin, the new treatment is deemed non-inferior and the trial is a 'success'.
 
     -   For a review of the methods used to define the non-inferiority margin ($\\Delta\$), see Althunian et al. 2017
 
@@ -86,4 +86,6 @@ E valuate the effect of more than one treatment. Allows assessment of potential 
 
 # References and Further Readings
 
-Althunian TA, et al. Methods of defining the non-inferiority margin in randomized, double-blind controlled trials: a systematic review. Trials. 2017;18(1):107. Ewald B. Making sense of equivalence and non-inferiority trials. Australian Prescriber. 2013; 36:170-3. Freedman LM, Furberg DC, DeMets DL. Fundamentals of Clinical Trials 5th Edition; Springer, 2015. Head SJ, Kaul S, Bogers AJ, Kappetein AP. Non-inferiority study design: lessons to be learned from cardiovascular trials. European heart journal. 2012 May 7;33(11):1318-24.
+- Althunian TA, et al. Methods of defining the non-inferiority margin in randomized, double-blind controlled trials: a systematic review. Trials. 2017;18(1):107. 
+- Ewald B. Making sense of equivalence and non-inferiority trials. Australian Prescriber. 2013; 36:170-3. Freedman LM, Furberg DC, DeMets DL. Fundamentals of Clinical Trials 5th Edition; Springer, 2015.
+- Head SJ, Kaul S, Bogers AJ, Kappetein AP. Non-inferiority study design: lessons to be learned from cardiovascular trials. European heart journal. 2012 May 7;33(11):1318-24.

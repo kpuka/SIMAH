@@ -75,11 +75,11 @@ E valuate the effect of more than one treatment. Allows assessment of potential 
 
 -   Equivalence and non-inferiority trials require that the investigator predefine the difference between two treatments that is considered clinically important (this difference is often labeled ???). The focus is on clinically meaningful differences (an effect that is statistically significant may not be clinically meaningful; e.g. a difference of 2 mm Hg in systolic blood pressure between groups may be statistically significant but is not clinically meaningful).
 
-    -   Two treatments are said to be 'equivalent' when the confidence interval (CI) of the difference score between treatments is within (i.e. does not exceed) the - \\Delta\$ and + \\Delta\$.
+    -   Two treatments are said to be 'equivalent' when the confidence interval (CI) of the difference score between treatments is within (i.e. does not exceed) the -$\\Delta\$ and +$\\Delta\$.
 
     -   Non-inferiority trials are one-sided and only evaluate whether the CI exceeds -???; if the lower bound is above the margin, the new treatment is deemed non-inferior and the trial is a 'success'.
 
-    -   For a review of the methods used to define the non-inferiority margin (\\Delta\$), see Althunian et al. 2017
+    -   For a review of the methods used to define the non-inferiority margin ($\\Delta\$), see Althunian et al. 2017
 
         <img src="/images/posts/rct1-study-design/non-inferiority.jpg"/>
 

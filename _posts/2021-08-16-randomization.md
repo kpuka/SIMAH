@@ -42,11 +42,12 @@ Review of randomization, its importance, and the different options for randomiza
 
 
 
-# Example 1: Block Randomization 
+# Example 1: Simple and Block Randomization 
 
 **Scenerio**:  Block randomization for a total of 100 patients, 2 groups, allocated 1:1 with randomly permuted block sizes of 2 and 4.
 
 Generate the randomization list using R and the *blockrand* package
+
 ```r
 
 # install.packages ("blockrand")
@@ -56,7 +57,18 @@ set.seed(55475)  # Using the same seed will generate the same randomization list
 mylist <- blockrand(n=100,            # specify the total sample size 
                     num.levels = 2,   # specify the number of groups
                     block.sizes = 2)  # specify the nuber of different blocks to use
+mylist (will print the randomization list)
+
+# For simple randomization, set block.sizes=1
+# The smallest block size will be determined by the number of groups (num.levels), and each subsequent block size will be a multiple of that. If num.levels=3 and block.sizes=3, the block sizes will be 3, 6, 9. 
+# To specify a constant block size (e.g. size 4), then block.sizes=c(2,2)
+
+
+
 head(mylist,5)
+
+
+
 
 ```
 

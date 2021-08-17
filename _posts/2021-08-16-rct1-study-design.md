@@ -65,7 +65,7 @@ E valuate the effect of more than one treatment. Allows assessment of potential 
 
     -   Aims to show a new treatment is more effective than the comparative treatment
 
-    -   Superiority is not always the aim. New treatments may be desirable even when they do not have a superior treatment effect - e.g. have fewer side effects or are safer, cheaper, or more convenient.
+Superiority is not always the aim. New treatments may be desirable even when they do not have a superior treatment effect - e.g. have fewer side effects or are safer, cheaper, or more convenient.
 
 -   **Equivalence trial**
 

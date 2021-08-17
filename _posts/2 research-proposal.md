@@ -1,6 +1,5 @@
 ---
 title: 'Developing a Research Proposal'
-date: 2021-08-16
 permalink: /resources/research-protocol/
 excerpt_separator: <!--more-->
 toc: true

@@ -9,8 +9,11 @@ tags:
 ---
 
 Review of randomization, its importance, and the different options for randomization. How to generate a randomization list with STATA and R is also discussed.
-
 <!--more-->
+
+Other posts on this topic:
+[Clinical Trials 1: Study Design](/posts/rct_design/)
+[Clinical Trials 3: Other Considerations](/posts/rct_other/)
 
 # What Is Randomization and Why Use It?
 

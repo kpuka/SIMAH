@@ -45,17 +45,18 @@ Clinical trials involving pharmaceutical products are commonly categorized into 
 
 ## Parallel-group trial
 
-Patients randomized to treatment group and followed simultaneously to determine the effect of each treatment <br/><img src="/images/posts/rct1-study-design/parallel-group-rct.png"/>
+Patients randomized to treatment group and followed simultaneously to determine the effect of each treatment 
+<img src="/images/posts/rct1-study-design/parallel.jpg"/>
 
 ## Crossover trial
 
-Patients receive a sequence of different treatments. Each person serves as their own control. There must be a sufficient time gap ('washout period') between different treatment phases.\
-<br/><img src="/images/posts/rct1-study-design/cross-over-rct.png"/>
+Patients receive a sequence of different treatments. Each person serves as their own control. There must be a sufficient time gap ('washout period') between different treatment phases.
+<img src="/images/posts/rct1-study-design/crossover.jpg"/>
 
 ## Factorial trials
 
 E valuate the effect of more than one treatment. Allows assessment of potential interaction among the treatments. 
-<img src="/images/posts/rct1-study-design/factorial-rct.png"/>
+<img src="/images/posts/rct1-study-design/factorial.jpg"/>
 
 # Superiority, Equivalence, Non-inferiority Trials
 

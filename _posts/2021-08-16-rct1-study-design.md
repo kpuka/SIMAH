@@ -14,7 +14,7 @@ Introduction to basic concepts of clinical trials and their categorization.
 
 # Introduction
 
--   The National Institutes of Health (NIH) defines clinical trials as research studies in which ???1 human participant(s) are prospectively assigned to ???1 intervention(s) to evaluate the effects of the intervention(s) on health-related biomedical or behavioral outcomes.\
+-   The National Institutes of Health (NIH) defines clinical trials as research studies in which $\geq$1 human participant(s) are prospectively assigned to$\geq$1 intervention(s) to evaluate the effects of the intervention(s) on health-related biomedical or behavioral outcomes.\
 
 -   Clinical trials aim to isolate the effect of the treatment on the study outcome and provide results that are free of bias. A number of design features are used to achieve this goal, such as:
 

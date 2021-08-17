@@ -50,7 +50,7 @@ Review of randomization, its importance, and the different options for randomiza
 - Best way to utilize this list is through a central system that would indicate the next allocation once a participant is recruited. Alternatively, can use sealed envelopes indicating the treatment allocation.
 - REDCap, available free through many institutions, may be ideal for data management & central randomization
 
-# Example of Reporting the Randomization Procedure
+# Reporting Example
 Stratified randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in STATA (v. 13.1) using the ralloc command by a statistician using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4, and stratified by hospital site (4 levels) and sex (2 levels). Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.
 
 # References and Further Readings

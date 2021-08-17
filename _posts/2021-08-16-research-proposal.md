@@ -81,7 +81,7 @@ The goal of the fourth paragraph is to create a firm, broad base to support the 
 Again, each proposal will be unique, and a different organization may need to be utilized. Nonetheless, consider the information outlined above and consider including the elements discussed in your grant proposal.
 
 
-## Example of the Objectives and Specific Aims Paragraphs
+## Example of the Objectives/Specific Aims
 
 Our **long-term goal** is to improve the quality of life of children with epilepsy. The **objective** of this pilot trial is to evaluate the feasibility of utilizing drug A and B as an intervention for children with epilepsy. Our **central hypothesis** is that drug A and B will be successfully implemented, and that drug A will be more effective at improving seizure frequency and health-related quality of life, relative to drug B for children with epilepsy. 
 We plan to test our central hypothesis and accomplish the overall goal of this trial by pursuing the following **specific aims**: 

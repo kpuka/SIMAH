@@ -151,11 +151,11 @@ Ensure that all analyses directly link to your specific aims and hypotheses. Con
 
 # References and Further Readings 
 
-Bland M, Butland BK, Peacock JL, Poloniecki J, Reid F, Sedgwick P. Statistics guide for research grant applicants. Department of Public Health Sciences, St. George's Hospital Medical School; 2012. [Link](https://www-users.york.ac.uk/~mb55/guide/guide.htm)
+Bland M, Butland BK, Peacock JL, Poloniecki J, Reid F, Sedgwick P. Statistics guide for research grant applicants. Department of Public Health Sciences, St. George's Hospital Medical School; 2012. <a href="https://www-users.york.ac.uk/~mb55/guide/guide.htm" target="_blank">Link</a>
 
-Michelle S. NIH Grant Applications The Anatomy of a Specific Aims Page. BioScience Writers; 2015.[Link](https://www.biosciencewriters.com/NIH-Grant-Applications-The-Anatomy-of-a-Specific-Aims-Page.aspx)
+Michelle S. NIH Grant Applications The Anatomy of a Specific Aims Page. BioScience Writers; 2015.<a href="https://www.biosciencewriters.com/NIH-Grant-Applications-The-Anatomy-of-a-Specific-Aims-Page.aspx" target="_blank">Link</a>
 
-National Institutes of Health. [Link](https://www.niaid.nih.gov/grants-contracts/write-research-plan)
+National Institutes of Health. <a href="https://www.niaid.nih.gov/grants-contracts/write-research-plan" target="_blank">Link</a>
 
 Panter AT. Writing the data analysis plan. In How to Write a Successful Research Grant Application 2010 (pp. 283-298). Springer, Boston, MA.
 

@@ -157,8 +157,9 @@ Stratified randomization was completed centrally through REDCap, maintaining all
 
 # References and Further Readings
 
-Altman DG, Bland JM. Treatment allocation in controlled trials: why randomise? BMJ. 1999; 318:1209. [Link](inkhttps://doi.org/10.1136/bmj.318.7192.1209)
+Altman DG, Bland JM. Treatment allocation in controlled trials: why randomise? BMJ. 1999; 318:1209. <a href="https://doi.org/10.1136/bmj.318.7192.1209" target="_blank">Link</a>
 
-Altman DG, Schulz KF. Concealing treatment allocation in randomised trials. BMJ. 2001; 323:446-7. [Link](https://dx.doi.org/10.1136%2Fbmj.323.7310.446)
+Altman DG, Schulz KF. Concealing treatment allocation in randomised trials. BMJ. 2001; 323:446-7. <a href="https://doi.org/10.1136/bmj.318.7192.1209" target="_blank">Link</a>
 
-Broglio K. Randomization in clinical trials: permuted blocks and stratification. JAMA. 2018;319:2223-4. [Link](https://doi.org/10.1001/jama.2018.6360)
+
+Broglio K. Randomization in clinical trials: permuted blocks and stratification. JAMA. 2018;319:2223-4. <a href="https://doi.org/10.1001/jama.2018.6360" target="_blank">Link</a>

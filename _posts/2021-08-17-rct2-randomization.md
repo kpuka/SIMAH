@@ -1,7 +1,7 @@
 ---
 title: 'Clinical Trials 2: Randomization'
 date: 2021-08-17
-permalink: /posts/randomization/
+permalink: /resources/randomization/
 excerpt_separator: <!--more-->
 toc: true
 tags:

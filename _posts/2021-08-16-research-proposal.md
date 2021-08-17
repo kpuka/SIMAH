@@ -4,6 +4,7 @@ date: 2021-08-16
 permalink: /posts/research-protocol/
 excerpt_separator: <!--more-->
 toc: true
+toc_sticky: false
 tags:
   - proposal
   - protocol

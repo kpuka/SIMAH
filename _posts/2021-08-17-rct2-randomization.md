@@ -12,8 +12,8 @@ Review of randomization, its importance, and the different options for randomiza
 <!--more-->
 
 Other posts on this topic:
-- [Clinical Trials 1: Study Design](/posts/rct_design/)
-- [Clinical Trials 3: Other Considerations](/posts/rct_other/)
+- [Clinical Trials 1: Study Design](/resources/rct_design/)
+- [Clinical Trials 3: Other Considerations](/resources/rct_other/)
 
 # What Is Randomization and Why Use It?
 

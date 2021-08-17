@@ -1,6 +1,5 @@
 ---
 title: 'Clinical Trials 3: Other Considerations'
-date: 2021-08-17
 permalink: /resources/rct_other/
 excerpt_separator: <!--more-->
 toc: true

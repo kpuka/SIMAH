@@ -22,7 +22,7 @@ Review of randomization, its importance, and the different options for randomiza
 
 -   Randomization would be completely undermined if a poor procedure is adopted to implement the allocation sequence. Allocation concealment is achieved when the allocation sequence is unknown to those assessing eligibility and assigning participants to the treatment groups, until the moment of assignment. It prevents researchers from influencing which participants are assigned to a given group.
 -   Allocation concealment involves not knowing the allocation sequence before random allocation occurs. In contrast, blinding involves not knowing the treatment allocation after random allocation occurs.
--   Central randomization (e.g. having to contact a central location or utilize a computer program such as REDCap) is more convenient and preferred, relative to other methods such as sealed envelopes. Allocation concealment is enforced because no one knows what the next allocation can be and no one can tamper with the system (e.g. cannot check the next envelope to know the next assignment). [More on REDCap below].
+-   Central randomization (e.g. having to contact a central location or utilize a computer program such as REDCap) is more convenient and preferred, relative to other methods such as sealed envelopes. Allocation concealment is enforced because no one knows what the next allocation can be and no one can tamper with the system (e.g. cannot check the next envelope to know the next assignment).
 
 # Types of Randomization
 
@@ -81,7 +81,7 @@ The list created can then be uploaded into REDCap or another online platform. If
 
 
 
-* Reporting the randomization process
+**Reporting the randomization process**
 
 Blocked randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in R using the *blockrand* package using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4. Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.
 
@@ -91,7 +91,7 @@ Blocked randomization was completed centrally through REDCap, maintaining alloca
 
 **Scenerio**: Stratified block randomization for a total of 100 patients, 2 groups, allocated 1:1 with randomly permuted block sizes of 2 and 4, and stratified by hospital size (2 levels) and sex (2 levels).
 
-For stratified randomization, the *blockrand* function should be run once for each strata (e.g. each category of variable, e.g. once for males, and once for females). In our example, there are 4 strata (i.e., 2x2) male-site1, male-site2, female-site1, female-site2.
+For stratified randomization, the *blockrand* function should be run once for *each* strata (e.g. each category of stratifying variable. In our example, there are 4 strata: male-site1, male-site2, female-site1, female-site2.
 
 ```r
 
@@ -99,14 +99,14 @@ For stratified randomization, the *blockrand* function should be run once for ea
 
 library(blockrand)
 set.seed(452)
-male1 <- blockrand(n=50,                 # total number of participants PER STRATA
+male1 <- blockrand(n=50,                # total number of participants PER STRATA
                   num.levels = 2,       # number of groups
                   block.sizes = 2,      # number of different blocks to use
                   id.prefix='M1',       # optional to keep IDs unique; prefix "M1" to the id column values
                   block.prefix='M1',    # optional to keep IDs unique; prefix "M1" to the block_number column
                   stratum='Male_site1') # specify name of strata
                   
-# repeat for the other strata
+# repeat for the other strata, only changing the labels
 male2 <- blockrand(n=50,
                   num.levels = 2,
                   block.sizes = 2,
@@ -138,11 +138,9 @@ mylist    # print the list
 ```
 
 
-* Reporting the randomization process
+**Reporting the randomization process**
 
 Stratified randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in STATA (v. 13.1) using the ralloc command by a statistician using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4, and stratified by hospital site (2 levels) and sex (2 levels). Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.
-
-Blocked randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in R using the *blockrand* package using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4, and stratified by hospital site (2 levels) and sex (2 levels). Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.
 
 
 

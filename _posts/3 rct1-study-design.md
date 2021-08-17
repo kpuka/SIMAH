@@ -1,6 +1,5 @@
 ---
 title: 'Clinical Trials 1: Study Design'
-date: 2021-08-17
 permalink: /resources/rct_design/
 excerpt_separator: <!--more-->
 toc: true

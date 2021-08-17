@@ -93,7 +93,7 @@ The list created can then be uploaded into REDCap or another online platform. If
 
 
 
-**Reporting the randomization process**
+**Reporting the randomization procedures:**
 
 Blocked randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in R using the *blockrand* package using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4. Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.
 
@@ -148,7 +148,7 @@ mylist    # print the list
 ```
 
 
-**Reporting the randomization process**
+**Reporting the randomization procedures:**
 
 Stratified randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in STATA (v. 13.1) using the ralloc command by a statistician using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4, and stratified by hospital site (2 levels) and sex (2 levels). Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.
 

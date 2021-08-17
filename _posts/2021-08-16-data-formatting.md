@@ -4,7 +4,7 @@ date: 2021-08-16
 permalink: /posts/data-formatting/
 excerpt_separator: <!--more-->
 toc: true
-toc_sticky: true
+toc_sticky: false
 tags:
   - formatting
 ---

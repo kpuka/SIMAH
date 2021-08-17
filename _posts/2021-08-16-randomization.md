@@ -42,7 +42,7 @@ Review of randomization, its importance, and the different options for randomiza
 **Stratified randomization** 
 - Is used when there is a key variable measurable at the time of randomization that is considered to be strongly associated with the primary outcome (e.g. study site). It ensures that the treatment groups are balanced with respect to that variable (e.g. study site). 
 - A separate randomization list (created through simple or blocked randomization) is created for each stratum (e.g. for each category of the variable; e.g. for each study site). The randomization list specifies the sequence of treatment allocation, e.g. 1st patient will receive treatment, 2nd will receive treatment, 3rd will receive placebo, etc. 
-- When stratifying by >=2 variables, the number of randomization lists is the product of the number of categories. E.g. to stratify by site (4 sites) and sex (2 categories), the number of randomization lists should be 8 (i.e.4 x 2); 1st list for site 1, males; 2nd list for site 1, females; 3rd list for site 2, males; etc.
+- When stratifying by $\geq$2 variables, the number of randomization lists is the product of the number of categories. E.g. to stratify by site (4 sites) and sex (2 categories), the number of randomization lists should be 8 (i.e., 4 x 2); 1st list for site 1, males; 2nd list for site 1, females; 3rd list for site 2, males; etc.
 
 # Randomizing Participants for your Study
 

@@ -1,6 +1,6 @@
 ---
 title: 'Clinical Trials 2: Randomization'
-date: 2021-08-16
+date: 2021-08-17
 permalink: /posts/randomization/
 excerpt_separator: <!--more-->
 toc: true

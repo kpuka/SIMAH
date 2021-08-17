@@ -91,12 +91,13 @@ E valuate the effect of more than one treatment. Allows assessment of potential 
 
 - **Cluster Randomized Trials (CRTs)**: intact groups (i.e. clusters) are randomized to different interventions, and outcomes are typically measured on individuals within those clusters.
   - Example: randomizing of the entire community or hospital to different interventions.  
-<img src="/images/posts/rct1-study-design/non-inferiority.jpg"/><br>
+<img src="/images/posts/rct1-study-design/cluster-rct.jpg"/><br>
 
 
 - **Individually-randomized group treatment trials (IRGTs)**: individuals are individually randomized to different interventions, with groups (i.e. clusters) formed after randomization, and outcomes are typically measured on individuals within those clusters. 
   - Example: psychological intervention that is delivered in a group setting. 
-<img src="/images/posts/rct1-study-design/nindiv-rand-cluster.jpg"/><br>
+<img src="/images/posts/rct1-study-design/indiv-rand-cluster.jpg"/><br>
+
 
 ## Why Are Clustered Trials Used
 - Clustered trials may be the best option when investigators want to evaluate an intervention that 1) operates at a group level, 2) manipulates the social or physical environment, 3) when interventions are delivered in groups, 4) cannot be delivered to individuals without 'contamination' (e.g. 'spill-over' effects).  

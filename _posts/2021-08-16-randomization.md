@@ -106,7 +106,6 @@ Blocked randomization was completed centrally through REDCap, maintaining alloca
 For stratified randomization, the *blockrand* function should be run once for *each* strata (e.g. each category of stratifying variable. In our example, there are 4 strata: male-site1, male-site2, female-site1, female-site2.
 
 ```r
-
 # install.packages ("blockrand")
 
 library(blockrand)
@@ -146,6 +145,8 @@ female2 <- blockrand(n=50,
 mylist <- rbind(male1, male2, female1, female2) 
 mylist    # print the list
 ```
+
+The list created can then be uploaded into REDCap or another online platform. If using sealed envelopes for the randomization process, the blockrand package can be used to create printable randomization 'cards' that can be placed in each envelope to specify the treatment allocation. This is done through the plotblockrand function; for more information run the following command 'help (plotblockrand)'.
 
 
 **Reporting the randomization procedures:**

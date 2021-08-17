@@ -65,6 +65,10 @@ mylist                                # will print the randomization list
 # block.sizes=3, the block sizes will be 3, 6, 9. 
 ```
 
+The list created can then be uploaded into REDCap or another online platform. If using sealed envelopes for the randomization process, the *blockrand* package can be used to create printable randomization 'cards' that can be placed in each envelope to specify the treatment allocation. This is done through the plotblockrand function; for more information run the following command 'help (plotblockrand)'.
+
+
+
 * Reporting the randomization process
 
 Blocked randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in R using the *blockrand* package using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4. Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.

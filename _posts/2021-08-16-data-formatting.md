@@ -59,8 +59,7 @@ Before sending any data to a statistician, review each point below and check off
         Note that these all have spaces and/or special characters.
 
 ## The Data Dictionary
-
-- Sometimes, column names cannot explain the variable completely. **You should always include a separate document/spreadsheet outlining the interpretation of the variables** in greater detail.This is called a data dictionary (sometimes referred to as a codebook). Shown below is such a document:<br/><img src='/images/posts/data-formatting/codebook-example.png'>
+Sometimes, column names cannot explain the variable completely. **You should always include a separate document/spreadsheet outlining the interpretation of the variables** in greater detail.This is called a data dictionary (sometimes referred to as a codebook). Shown below is such a document:<br/><img src='/images/posts/data-formatting/codebook-example.png'><br/>
 
 -   Each column in the data set is listed and given a description. This is an ideal place to indicate units in which the measurements are made.
 
@@ -72,3 +71,4 @@ Before sending any data to a statistician, review each point below and check off
 -   If you have dates included in your data (e.g. date of enrollment, date of birth), please keep them in a consistent format. The preferred format is YYYY/MM/DD. 
 -   Missing data is a fact of life. If data is missing, leave the cell blank or fill it with NA (for not available). Be sure to include somewhere in your data dictionary that you have used NA for missing data.
 -   There is a difference between data missing because it can't be collected for some reason (e.g. malfunction of a piece of equipment) and missing data because of non-response (e.g. patient refuses to answer a question); these should be specified in the data dictionary. If a patient refuses to answer a question, code that explicitly as an option (e.g. Refused to answer).
+-   Before sending the data to a statistician check the minimum and maximum value of each variable and ensure that they are consistent with what you would expect (to identify data entry mistakes)

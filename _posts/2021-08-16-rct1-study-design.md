@@ -75,8 +75,7 @@ E valuate the effect of more than one treatment. Allows assessment of potential 
     -   Aim to show that the effect of the new treatment is not clinically worse than the comparative treatment (i.e. not inferior to comparative treatment).
 
 -   Equivalence and non-inferiority trials require that the investigator predefine the difference between two treatments that is considered clinically important (this difference is often labeled $\\Delta\$). The focus is on clinically meaningful differences (an effect that is statistically significant may not be clinically meaningful; e.g. a difference of 2 mm Hg in systolic blood pressure between groups may be statistically significant but is not clinically meaningful).
-
- <br><img src="/images/posts/rct1-study-design/non-inferiority.jpg"/><br>
+<img src="/images/posts/rct1-study-design/non-inferiority.jpg"/><br>
  
  -   Two treatments are said to be 'equivalent' when the confidence interval (CI) of the difference score between treatments is within (i.e. does not exceed) the -$\\Delta\$ and +$\\Delta\$.
 

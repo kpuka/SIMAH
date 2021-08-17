@@ -49,33 +49,84 @@ Review of randomization, its importance, and the different options for randomiza
 Generate the randomization list using R and the *blockrand* package
 
 ```r
-
 # install.packages ("blockrand")
 
 library(blockrand)
 set.seed(55475)  # Using the same seed will generate the same randomization list in the future
-mylist <- blockrand(n=100,            # specify the total sample size 
-                    num.levels = 2,   # specify the number of groups
-                    block.sizes = 2)  # specify the nuber of different blocks to use
-mylist (will print the randomization list)
+mylist <- blockrand(n=100,            # total sample size 
+                    num.levels = 2,   # number of groups
+                    block.sizes = 2)  # number of different blocks to use
+mylist                                # will print the randomization list
 
 # For simple randomization, set block.sizes=1
-# The smallest block size will be determined by the number of groups (num.levels), and each subsequent block size will be a multiple of that. If num.levels=3 and block.sizes=3, the block sizes will be 3, 6, 9. 
 # To specify a constant block size (e.g. size 4), then block.sizes=c(2,2)
+# The smallest block size will be determined by the number of groups (num.levels), 
+# and each subsequent block size will be a multiple of that. If num.levels=3 and 
+# block.sizes=3, the block sizes will be 3, 6, 9. 
+```
+
+* Reporting the randomization process
+
+Blocked randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in R using the *blockrand* package using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4. Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.
 
 
 
-head(mylist,5)
+# Example 2: Stratified Block Randomization 
+
+**Scenerio**: Stratified block randomization for a total of 100 patients, 2 groups, allocated 1:1 with randomly permuted block sizes of 2 and 4, and stratified by hospital size (2 levels) and sex (2 levels).
+
+For stratified randomization, the *blockrand* function should be run once for each strata (e.g. each category of variable, e.g. once for males, and once for females). In our example, there are 4 strata (i.e., 2x2) male-site1, male-site2, female-site1, female-site2.
+
+```r
+
+# install.packages ("blockrand")
+
+library(blockrand)
+set.seed(452)
+male1 <- blockrand(n=50,                 # total number of participants PER STRATA
+                  num.levels = 2,       # number of groups
+                  block.sizes = 2,      # number of different blocks to use
+                  id.prefix='M1',       # optional to keep IDs unique; prefix "M1" to the id column values
+                  block.prefix='M1',    # optional to keep IDs unique; prefix "M1" to the block_number column
+                  stratum='Male_site1') # specify name of strata
+                  
+# repeat for the other strata
+male2 <- blockrand(n=50,
+                  num.levels = 2,
+                  block.sizes = 2,
+                  id.prefix='M2',
+                  block.prefix='M2',
+                  stratum='Male_site2') 
 
 
+female1 <- blockrand(n=50,
+                  num.levels = 2,
+                  block.sizes = 2,
+                  id.prefix='F1',
+                  block.prefix='F1',
+                  stratum='Female_site1') 
+                  
+female2 <- blockrand(n=50,
+                  num.levels = 2,
+                  block.sizes = 2,
+                  id.prefix='F2',
+                  block.prefix='F2',
+                  stratum='Female_site2') 
+
+
+# Combine the lists
+mylist <- rbind(male1, male2, female1, female2) 
+mylist    # print the list
 
 
 ```
 
 
-## Reporting Example
+* Reporting the randomization process
 
-Stratified randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in STATA (v. 13.1) using the ralloc command by a statistician using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4, and stratified by hospital site (4 levels) and sex (2 levels). Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.
+Stratified randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in STATA (v. 13.1) using the ralloc command by a statistician using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4, and stratified by hospital site (2 levels) and sex (2 levels). Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.
+
+Blocked randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in R using the *blockrand* package using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4, and stratified by hospital site (2 levels) and sex (2 levels). Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.
 
 
 

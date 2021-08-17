@@ -90,18 +90,19 @@ E valuate the effect of more than one treatment. Allows assessment of potential 
 # Clustered Trials
 
 - **Cluster Randomized Trials (CRTs)**: intact groups (i.e. clusters) are randomized to different interventions, and outcomes are typically measured on individuals within those clusters.
-Example: randomizing of the entire community or hospital to different interventions.  
-<img src="/images/posts/rct1-study-design/non-inferiority.JPG"/><br>
+  - Example: randomizing of the entire community or hospital to different interventions.  
+<img src="/images/posts/rct1-study-design/non-inferiority.jpg"/><br>
 
 
-.	**Individually-randomized group treatment trials (IRGTs)**: individuals are individually randomized to different interventions, with groups (i.e. clusters) formed after randomization, and outcomes are typically measured on individuals within those clusters. 
-Example: psychological intervention that is delivered in a group setting. 
-<img src="/images/posts/rct1-study-design/nindiv-rand-cluster.JPG"/><br>
+- **Individually-randomized group treatment trials (IRGTs)**: individuals are individually randomized to different interventions, with groups (i.e. clusters) formed after randomization, and outcomes are typically measured on individuals within those clusters. 
+  - Example: psychological intervention that is delivered in a group setting. 
+<img src="/images/posts/rct1-study-design/nindiv-rand-cluster.jpg"/><br>
 
 ## Why Are Clustered Trials Used
 - Clustered trials may be the best option when investigators want to evaluate an intervention that 1) operates at a group level, 2) manipulates the social or physical environment, 3) when interventions are delivered in groups, 4) cannot be delivered to individuals without 'contamination' (e.g. 'spill-over' effects).  
   - For example, a trial evaluating patient outcomes following an educational program for clinicians must use a clustered trial design, whereby clinicians (i.e. the cluster) are randomized, as opposed to randomizing patients. This is because of 'spill-over' effects, in that clinicians will utilize the materials learned for all patients; they cannot "use" the materials learned for some patients, and not others. 
 - Due to the challenges outlined below, clustered trials should be avoided unless individually randomized trials are scientifically inferior or practically impossible. 
+
 
 ## Statistical Challenges
 - A common assumption of standard statistical methods is that observations (e.g. patients) are independent. This assumption is violated in clustered trials since individuals within a cluster are more likely to have similar outcomes. This creates special methodological challenges in design and analysis. 
@@ -111,20 +112,21 @@ Example: psychological intervention that is delivered in a group setting.
 - It would be a mistake to ignore clustering effects simply because the observed ICC is close to zero or on the basis of significance tests. Clustering should be accounted for if it was part of the study design. 
 - Special sample size formula are available for clustered trials as a result of the challenges outlined above; the STATA clsampsi command may helpful, though working with a statistician is advisable.
 - The statistical power of clustered trials may be substantially lower compared to a similarly-sized non-clustered trial, i.e. clustering makes it harder to detect differences between groups. It is harder to detect differences when the 'design effect' is higher. 
-  - The 'design effect', is given by: 1 + ?? (m - 1) , where m = average cluster size (e.g. group size), and ?? = intra-cluster correlation (ICC), the correlation among participants within a cluster. The ICC is also interpretable as the proportion of overall variation in the outcome that can be attributable to clusters. 
+  - The **'design effect'**, is given by: 1 + $\rho$ (m - 1) , where m = average cluster size (e.g. group size), and $\rho$ = intra-cluster correlation (ICC), the correlation among participants within a cluster. The ICC is also interpretable as the proportion of overall variation in the outcome that can be attributable to clusters. 
 - The design effect is small when the group and ICC is small. Generally, increasing the number of clusters offers more increase in power than increasing the number of individuals per cluster.
 - The extant literature on your target population and intervention should be used to estimate your ICC. The ICC tends to be larger for knowledge and attitudes, smaller for behaviors, and even smaller for physiologic measures. As a very general guide, for health related outcomes the ICC values may be (Murray 2016):
   - 0.00 - 0.05 for large aggregates (such as hospitals, schools, worksites)
   - 0.05 - 0.25 for small aggregates (such as departments, classrooms)
   - 0.25 - 0.75 for very small aggregates (such as families, spouse pairs)
 
+
 ## Other Considerations
-- Methodological Considerations. Recruitment bias in recruiting individuals within a cluster. 
+- *Methodological Considerations*. Recruitment bias in recruiting individuals within a cluster. 
   - E.g. the clusters (e.g. hospitals) randomized to the new (exciting), treatment may be more eager to recruit individual patients, relative to the cluster randomized to the usual, control treatment. 
-- Ethical considerations. If the intervention is offered at the cluster level, it is typically not possible to obtain consent before its administration (e.g., media campaigns designed to prevent drunk driving).
+- *Ethical considerations*. If the intervention is offered at the cluster level, it is typically not possible to obtain consent before its administration (e.g., media campaigns designed to prevent drunk driving).
 *"The roles of the guardians of the patients' interests during the trial, the gatekeepers of access to patient groups, and sponsors of the research are even more important in cluster randomized trials where individuals may not have the opportunity to give informed consent to participation."* (MRC 2002).
-- Norms regarding the need to obtain informed consent have yet to receive full acceptance. 
-- Reporting. Reporting guidelines for clustered trials are available and should be followed (Campbell 2004).
+  - Norms regarding the need to obtain informed consent have yet to receive full acceptance. 
+- *Reporting*. Reporting guidelines for clustered trials are available and should be followed (Campbell 2004).
   - Principle additions include rational for adopting a cluster design, specifying how effects of clustering were incorporated into the sample size calculation and analysis, and an updated flow chart diagram. 
 
 

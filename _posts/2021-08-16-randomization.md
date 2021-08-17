@@ -46,7 +46,7 @@ Review of randomization, its importance, and the different options for randomiza
 
 **Scenerio**:  Block randomization for a total of 100 patients, 2 groups, allocated 1:1 with randomly permuted block sizes of 2 and 4.
 
-```{r}
+```{r, include = TRUE}
 # if required, install the package
 # install.packages ("blockrand")
 
@@ -55,7 +55,7 @@ set.seed(55475)  # Using the same seed will generate the same randomization list
 mylist <- blockrand(n=100,            # specify the total sample size 
                     num.levels = 2,   # specify the number of groups
                     block.sizes = 2)  # specify the nuber of different blocks to use
-mylist
+head(mylist,5)
 
 ```
 

@@ -1,5 +1,6 @@
 ---
 title: Data Formatting Checklist
+date: 2021-08-16
 permalink: /resources/data-formatting/
 excerpt_separator: <!--more-->
 toc: true

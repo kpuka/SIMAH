@@ -1,7 +1,7 @@
 ---
 title: Data Formatting Checklist
 date: 2021-08-16
-permalink: /posts/data-formatting/
+permalink: /resources/data-formatting/
 excerpt_separator: <!--more-->
 toc: true
 toc_sticky: false

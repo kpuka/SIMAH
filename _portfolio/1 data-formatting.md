@@ -3,7 +3,6 @@ title: Data Formatting Checklist
 permalink: /resources/data-formatting/
 excerpt_separator: <!--more-->
 toc: true
-comments: true
 tags:
   - formatting
 ---
@@ -72,20 +71,3 @@ Sometimes, column names cannot explain the variable completely. **You should alw
   -   There is a difference between data missing because it can't be collected for some reason (e.g. malfunction of a piece of equipment) and missing data because of non-response (e.g. patient refuses to answer a question); these should be specified in the data dictionary. If a patient refuses to answer a question, code that explicitly as an option (e.g. Refused to answer).
 -   Before sending the data to a statistician check the minimum and maximum value of each variable and ensure that they are consistent with what you would expect (to identify data entry mistakes)
 
-
-
-<!-- Feedback/Contact form  -->
-<div id="contact">
-        **Have comments or questions? Get in Touch**
-        <div id="contact-form">
-                <form action="https://formspree.io/f/mayalbog" method="POST">
-                <input type="hidden" name="_subject" value="Resources feedback from kpuka.ca" />
-                <input type="text" name="name" placeholder="Your Name (Optional)">
-                <input type="email" name="_replyto" placeholder="Your email (Optional)">
-                <textarea type="text" rows="4" name="message" placeholder="Your message
-                (please ensure that you identify the resource your comment pertains to)" required></textarea>
-                <button type="submit">Send</button>
-            </form>
-        </div>
-    </div>
-    

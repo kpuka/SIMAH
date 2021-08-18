@@ -59,8 +59,22 @@ Patients receive a sequence of different treatments. Each person serves as their
 
 ## Factorial trials
 
-E valuate the effect of more than one treatment. Allows assessment of potential interaction among the treatments. 
+Evaluate the effect of more than one treatment. Allows assessment of potential interaction among the treatments. 
 <img src="/images/posts/rct1-study-design/factorial.JPG"/>
+
+
+## Cluster Randomized Trials
+Intact groups (i.e. clusters) are randomized to different interventions, and outcomes are typically measured on individuals within those clusters.
+  - Example: randomizing of the entire community or hospital to different interventions. Clustered trials are discussed in further detail below. 
+<img src="/images/posts/rct1-study-design/cluster-rct.jpg"/>
+
+
+## Individually-randomized group treatment trials
+This is a type of clustered trial, whereby individuals are individually randomized to different interventions, with groups (i.e. clusters) formed after randomization, and outcomes are typically measured on individuals within those clusters. Clustered trials are discussed in further detail below. 
+  - Example: psychological intervention that is delivered in a group setting. 
+<img src="/images/posts/rct1-study-design/indiv-rand-cluster.jpg"/><br>
+
+
 
 
 # Superiority, Equivalence, Non-inferiority Trials
@@ -92,16 +106,6 @@ Superiority is not always the aim. New treatments may be desirable even when the
 
 
 # Clustered Trials
-
-- **Cluster Randomized Trials (CRTs)**: intact groups (i.e. clusters) are randomized to different interventions, and outcomes are typically measured on individuals within those clusters.
-  - Example: randomizing of the entire community or hospital to different interventions.  
-<img src="/images/posts/rct1-study-design/cluster-rct.jpg"/><br>
-
-
-- **Individually-randomized group treatment trials (IRGTs)**: individuals are individually randomized to different interventions, with groups (i.e. clusters) formed after randomization, and outcomes are typically measured on individuals within those clusters. 
-  - Example: psychological intervention that is delivered in a group setting. 
-<img src="/images/posts/rct1-study-design/indiv-rand-cluster.jpg"/><br>
-
 
 ## Why Are Clustered Trials Used
 - Clustered trials may be the best option when investigators want to evaluate an intervention that 1) operates at a group level, 2) manipulates the social or physical environment, 3) when interventions are delivered in groups, 4) cannot be delivered to individuals without 'contamination' (e.g. 'spill-over' effects).  

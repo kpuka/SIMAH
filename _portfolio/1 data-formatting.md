@@ -3,7 +3,7 @@ title: Data Formatting Checklist
 permalink: /resources/data-formatting/
 excerpt_separator: <!--more-->
 toc: true
-classes: wide
+comments: true
 tags:
   - formatting
 ---
@@ -76,7 +76,7 @@ Sometimes, column names cannot explain the variable completely. **You should alw
 
 <!-- Feedback/Contact form  -->
 <div id="contact">
-        <h2>Have comments or questions? Get in Touch</h2>
+        **Have comments or questions? Get in Touch**
         <div id="contact-form">
                 <form action="https://formspree.io/f/mayalbog" method="POST">
                 <input type="hidden" name="_subject" value="Resources feedback from kpuka.ca" />

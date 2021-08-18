@@ -3,6 +3,7 @@ title: Data Formatting Checklist
 permalink: /resources/data-formatting/
 excerpt_separator: <!--more-->
 toc: true
+comments: true
 tags:
   - formatting
 ---

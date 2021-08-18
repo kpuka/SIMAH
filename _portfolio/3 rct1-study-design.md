@@ -49,28 +49,28 @@ Clinical trials involving pharmaceutical products are commonly categorized into 
 
 ## Parallel-group trial
 Patients randomized to treatment group and followed simultaneously to determine the effect of each treatment 
-<br/><img src='/images/posts/rct1-study-design/parallel.JPG'>  \linebreak 
+<br/><img src='/images/posts/rct1-study-design/parallel.JPG'>  <br/>
 
 
 ## Crossover trial
 Patients receive a sequence of different treatments. Each person serves as their own control. There must be a sufficient time gap ('washout period') between different treatment phases.
-<img src="/images/posts/rct1-study-design/crossover.JPG"/> \linebreak 
+<img src="/images/posts/rct1-study-design/crossover.JPG"/> <br/> 
 
 ## Factorial trials
 Evaluate the effect of more than one treatment. Allows assessment of potential interaction among the treatments. 
-<img src="/images/posts/rct1-study-design/factorial.JPG"/> \linebreak 
+<img src="/images/posts/rct1-study-design/factorial.JPG"/> <br/> 
 
 
 ## Cluster Randomized Trials
 Intact groups (i.e. clusters) are randomized to different interventions, and outcomes are typically measured on individuals within those clusters.
   - Example: randomizing of the entire community or hospital to different interventions. Clustered trials are discussed in further detail below. 
-<img src="/images/posts/rct1-study-design/cluster-rct.jpg"/> \linebreak 
+<img src="/images/posts/rct1-study-design/cluster-rct.jpg"/> <br/> 
 
 
 ## Individually-randomized group treatment trials
 This is a type of clustered trial, whereby individuals are individually randomized to different interventions, with groups (i.e. clusters) formed after randomization, and outcomes are typically measured on individuals within those clusters. Clustered trials are discussed in further detail below. 
   - Example: psychological intervention that is delivered in a group setting. 
-<img src="/images/posts/rct1-study-design/indiv-rand-cluster.jpg"/> \linebreak 
+<img src="/images/posts/rct1-study-design/indiv-rand-cluster.jpg"/> <br/>
 
 
 

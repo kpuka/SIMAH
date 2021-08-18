@@ -10,10 +10,10 @@ permalink: /cv/
 # Complete CV:
 
 
-To download a PDF version of my complete CV <a href="/files/Klajdi Puka CV.pdf" target="_blank"> please click here </a>  
+To download a PDF version of my complete CV <a href="/files/Klajdi Puka CV.pdf" target="_blank"> please click here </a>  \
 \
 
-\
+
 # Abbreviated CV:
 ## Education
 **PhD**, Epidemiology and Biostatistics, Western University, 2021\

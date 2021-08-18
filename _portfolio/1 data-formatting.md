@@ -82,7 +82,8 @@ Sometimes, column names cannot explain the variable completely. **You should alw
                 <input type="hidden" name="_subject" value="Resources feedback from kpuka.ca" />
                 <input type="text" name="name" placeholder="Your Name (Optional)">
                 <input type="email" name="_replyto" placeholder="Your email (Optional)">
-                <textarea type="text" rows="4" name="message" placeholder="Your message <br> (please ensure that you identify the resource your comment pertains to)" required></textarea>
+                <textarea type="text" rows="4" name="message" placeholder="Your message
+                (please ensure that you identify the resource your comment pertains to)" required></textarea>
                 <button type="submit">Send</button>
             </form>
         </div>

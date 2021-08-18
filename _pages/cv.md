@@ -11,8 +11,8 @@ permalink: /cv/
 
 
 To download a PDF version of my complete CV <a href="/files/Klajdi Puka CV.pdf" target="_blank"> please click here </a>  
-
 \
+
 \
 # Abbreviated CV:
 ## Education

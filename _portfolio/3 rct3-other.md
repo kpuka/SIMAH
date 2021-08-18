@@ -3,6 +3,7 @@ title: 'Clinical Trials 3: Other Considerations'
 permalink: /resources/rct_other/
 excerpt_separator: <!--more-->
 toc: true
+comments: true
 tags:
   - RCT
 ---

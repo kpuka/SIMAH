@@ -106,7 +106,7 @@ Review of best practices and the steps involved in conducting a retrospective ch
     -   The pilot sample should be randomly sampled and consist of 10% of the target sample size.
 
 
-# Related topics:
+# Related topics
 -   [Study Design 1: Case Control](/resources/case_control/)
 -   [Clinical Trials 1: Study Design](/resources/rct_design/)
 -   [Clinical Trials 2: Randomization](/resources/randomization/)

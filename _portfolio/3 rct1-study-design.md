@@ -62,8 +62,8 @@ Evaluate the effect of more than one treatment. Allows assessment of potential i
 
 
 ## Cluster Randomized Trials
-Intact groups (i.e. clusters) are randomized to different interventions, and outcomes are typically measured on individuals within those clusters.
-  - Example: randomizing of the entire community or hospital to different interventions. Clustered trials are discussed in further detail below. 
+Intact groups (i.e. clusters) are randomized to different interventions, and outcomes are typically measured on individuals within those clusters. Clustered trials are discussed in further detail below. 
+  - Example: randomizing of the entire community or hospital to different interventions. 
 <img src="/images/posts/rct1-study-design/cluster-rct.jpg"/> <br/> 
 
 

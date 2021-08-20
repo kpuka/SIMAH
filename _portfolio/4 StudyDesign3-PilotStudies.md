@@ -57,6 +57,10 @@ A confidence interval (CI) approach (focused on precision) can be used if the ob
 
 *Note: for 80%, 90% or 95% CI, the z value is equal to 1.28, 1.64, or 1.96, respectively.*
 
+$$
+x_{1,2} = \frac{-5 \pm \sqrt{5^2-12}}{6}
+$$
+
 You can also use an online calculator, such as that found here: <http://statulator.com/SampleSize/ss1P.html>
 
 # Inappropriate or problematic applications of the term "pilot" 

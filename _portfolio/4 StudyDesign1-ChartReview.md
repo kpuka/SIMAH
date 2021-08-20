@@ -112,7 +112,7 @@ Related topics:
 
 # Pilot Test the Process and Forms
 
--   Pilot testing is essential to assess the study design, procedures and its feasibility, and highlight the frequency that key variables of interest are missing from patient records.
+-   **Pilot testing is essential** to assess the study design, procedures and its feasibility, and highlight the frequency that key variables of interest are missing from patient records.
 
     -   The pilot sample should be randomly sampled and consist of 10% of the target sample size.
 

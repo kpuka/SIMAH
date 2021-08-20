@@ -13,11 +13,6 @@ Review of important considerations for clinical trials are outlined, including b
 <!--more-->
 
 
-Other posts on this topic:
-- [Clinical Trials 1: Study Design](/resources/rct_design/)
-- [Clinical Trials 2: Randomization](/resources/randomization/)
-
-
 # Intention to Treat Principle 
 
 ## What is it?
@@ -152,21 +147,22 @@ Other posts on this topic:
 
 -   If such events occur after randomization (even if it is before the start of the intervention), participants should be kept in the study and the event counted in the analysis. Removal of such participants may bias the outcome and violates the intention-to-treat principle
 
+
+# Related Topicss
+- [Clinical Trials 1: Study Design](/resources/rct_design/)
+- [Clinical Trials 2: Randomization](/resources/randomization/)
+- [Study Design 1: Case Control](/resources/case_control/)
+- [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
+
+
 # References and Further Readings
 
 -   Altman DG, Dore CJ. Randomisation and baseline comparison in clinical trials. Lancet 1990; 335: 149-153.
-
 -   Friedman LM, et al. Fundamentals of clinical trials, 5th ed. New York: Springer; 2015.
-
 -   Gupta SK. Intention-to-treat concept: a review. Perspectives in clinical research. 2011;2(3), 109.
-
 -   Kent DM, Trikalinos TA, Hill MD. Are unadjusted analyses of clinical trials inappropriately biased toward the null? Stroke 2009; 40(3): 672-673
-
 -   McCoy CE. Understanding the Intention-to-treat Principle in Randomized Controlled Trials. West J Emerg Med. 2017;18(6):1075-1078
-
 -   Moher D. et al. (2010). CONSORT 2010 explanation and elaboration: Updated guidelines for reporting parallel group randomised trial. BMJ 340:c869.
-
 -   Senn SJ. Testing for baseline balance in clinical trials. Stat Med 1994; 13: 1715-1726.
-
 -   Vickers AJ, Altman DG. Analysing controlled trials with baseline and follow up measurements. Bmj. 2001 Nov 10;323(7321):1123-4.
  

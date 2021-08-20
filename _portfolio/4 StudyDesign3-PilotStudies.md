@@ -52,12 +52,10 @@ Sample size calculations are not required for pilot studies, however pilot studi
 
 A confidence interval (CI) approach (focused on precision) can be used if the objective is to estimate a proportion of people with a given outcome (e.g. adherence rate). For example, a trial would be considered successful if ???90% of patients adhere to the treatment; the smallest sample size required to have a confidence level of 95% that the adherence rate is within 5% of the desired adherence rate, will be at least 139 participants based on:
 
-    $$\x = \frac{$\rho\(1 - $\rho\)(z^2$)}{d^2$}
-    
+    $$\x = \frac{$\rho$\(1 - $\rho\)(z^2$)}{d^2$}
+   
 
 *Note: for 80%, 90% or 95% CI, the z value is equal to 1.28, 1.64, or 1.96, respectively.*
-
-$x_{1,2} = \frac{-5 \pm \sqrt{5^2-12}}{6}$
 
 You can also use an online calculator, such as that found here: <http://statulator.com/SampleSize/ss1P.html>
 

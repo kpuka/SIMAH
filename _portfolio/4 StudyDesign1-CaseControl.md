@@ -12,10 +12,9 @@ Review of case-control study designs, and methodological considerations. <!--mor
 
 Related topics:
 
+-   [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
 -   [Clinical Trials 1: Study Design](/resources/rct_design/)
-
 -   [Clinical Trials 2: Randomization](/resources/randomization/)
-
 -   [Clinical Trials 3: Other Considerations](/resources/rct_other/)
 
 # Introduction

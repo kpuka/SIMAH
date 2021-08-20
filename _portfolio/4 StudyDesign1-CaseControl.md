@@ -37,7 +37,6 @@ Related topics:
 # General Procedure
 
 1.  Identify cases (individuals with disease/outcome of interest)
-
     -   Use a clear case definition and explicitly indicate how sample was selected
 
 

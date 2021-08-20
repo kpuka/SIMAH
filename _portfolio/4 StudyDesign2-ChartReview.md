@@ -72,7 +72,6 @@ Review of best practices and the steps involved in conducting a retrospective ch
 -   Create a standardized data collection form (DCF).
 
     -   Design a DCF to follow the data flow/organization from the perspective of the data collectors.
-
         -   If multiple data sources are used, separate DCFs may be helpful.
 
     -   Limit the amount of manual entry for numbers or text to minimize errors.

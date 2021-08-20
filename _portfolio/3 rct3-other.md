@@ -148,7 +148,7 @@ Review of important considerations for clinical trials are outlined, including b
 -   If such events occur after randomization (even if it is before the start of the intervention), participants should be kept in the study and the event counted in the analysis. Removal of such participants may bias the outcome and violates the intention-to-treat principle
 
 
-# Related Topicss
+# Related Topics
 - [Clinical Trials 1: Study Design](/resources/rct_design/)
 - [Clinical Trials 2: Randomization](/resources/randomization/)
 - [Study Design 1: Case Control](/resources/case_control/)

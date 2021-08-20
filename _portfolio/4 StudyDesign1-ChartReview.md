@@ -10,13 +10,6 @@ tags:
 
 Review of best practices and the steps involved in conducting a retrospective chart review. <!--more-->
 
-Related topics:
-
--   [Clinical Trials 1: Study Design](/resources/rct_design/)
-
--   [Clinical Trials 2: Randomization](/resources/randomization/)
-
--   [Clinical Trials 3: Other Considerations](/resources/rct_other/)
 
 # Introduction
 
@@ -98,7 +91,7 @@ Related topics:
 
 -   Training for the collection of data should include a careful review of the variables, procedure, and DCF.
 
-    -   Data collectors should review/code several patient records for practice, which should be carefully verified by the researcher; any discrepancy should be discussed, and any issues clarified.\
+    -   Data collectors should review/code several patient records for practice, which should be carefully verified by the researcher; any discrepancy should be discussed, and any issues clarified.
 
 -   Schedule recurrent meetings to monitor progress and to discuss/clarify any new issues or scenarios.
 
@@ -111,6 +104,15 @@ Related topics:
 -   **Pilot testing is essential** to assess the study design, procedures and its feasibility, and highlight the frequency that key variables of interest are missing from patient records.
 
     -   The pilot sample should be randomly sampled and consist of 10% of the target sample size.
+
+
+# Related topics:
+-   [Study Design 1: Case Control](/resources/case_control/)
+-   [Clinical Trials 1: Study Design](/resources/rct_design/)
+-   [Clinical Trials 2: Randomization](/resources/randomization/)
+-   [Clinical Trials 3: Other Considerations](/resources/rct_other/)
+
+
 
 # References and Further Readings
 

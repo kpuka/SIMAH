@@ -33,14 +33,10 @@ Related topics:
 -   Clearly state your research question. Is your research goal to describe, associate, predict, or compare?
 
     -   Define the **PICO**:
-
-        -   P = Patient/Problem;
-
-        -   I = Intervention;
-
-        -   C = Comparison;
-
-        -   O = Outcome
+            P = Patient/Problem;
+            I = Intervention;
+            C = Comparison;
+            O = Outcome
 
 -   You may need to narrow your focus to what can be accomplished by the study with the given data.
 

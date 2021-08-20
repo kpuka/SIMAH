@@ -40,9 +40,7 @@ Related topics:
 
     -   Use a clear case definition and explicitly indicate how sample was selected
 
-```{=html}
-<!-- -->
-```
+
 2.  Define the study base from which cases arose
 
     -   Study base -- the (hypothetical) population that gives rise to the cases
@@ -55,25 +53,18 @@ Related topics:
 
     -   Controls should provide an unbiased sample of the exposure distribution in the study base
 
-```{=html}
-<!-- -->
-```
+
 3.  Sample controls from study base
 
     -   Traditional, case-cohort, or nested case-control (discussed below)
 
     -   Controls must be selected **independent of exposure status**
 
-```{=html}
-<!-- -->
-```
 4.  Ascertain exposure status for cases and controls using comparable methods
 
     -   Exposure and outcome should be measured in the same way for cases and controls
 
-```{=html}
-<!-- -->
-```
+
 5.  Calculate measures of effect to compare the odds of exposure between cases and controls
 
     -   Calculate odds ratio (OR) and adjustment for confounders; typically using Mental-Haenszel method or logistic regression

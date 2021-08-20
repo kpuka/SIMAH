@@ -11,10 +11,6 @@ tags:
 Introduction to basic concepts of clinical trials and their categorization.
 <!--more-->
 
-Other posts on this topic:
-- [Clinical Trials 2: Randomization](/resources/randomization/)
-- [Clinical Trials 3: Other Considerations](/resources/rct_other/)
-
 
 # Introduction
 
@@ -136,6 +132,12 @@ Superiority is not always the aim. New treatments may be desirable even when the
 - *Reporting*. Reporting guidelines for clustered trials are available and should be followed (Campbell 2004).
   - Principle additions include rational for adopting a cluster design, specifying how effects of clustering were incorporated into the sample size calculation and analysis, and an updated flow chart diagram. 
 
+
+# Related topics:
+- [Clinical Trials 2: Randomization](/resources/randomization/)
+- [Clinical Trials 3: Other Considerations](/resources/rct_other/)
+- [Study Design 1: Case Control](/resources/case_control/)
+- [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
 
 
 

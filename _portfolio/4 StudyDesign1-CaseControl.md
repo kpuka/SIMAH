@@ -10,12 +10,6 @@ tags:
 
 Review of case-control study designs, and methodological considerations. <!--more-->
 
-Related topics:
-
--   [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
--   [Clinical Trials 1: Study Design](/resources/rct_design/)
--   [Clinical Trials 2: Randomization](/resources/randomization/)
--   [Clinical Trials 3: Other Considerations](/resources/rct_other/)
 
 # Introduction
 
@@ -147,6 +141,14 @@ Related topics:
     -   The main reason for using conditional (rather than the standard) logistic regression is that when the analysis strata are very small, problems of sparse data will occur with standard methods
 
 -   Overall, matching may introduce bias and if it does, it is extremely difficult to salvage the study
+
+
+# Related topics:
+-   [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
+-   [Clinical Trials 1: Study Design](/resources/rct_design/)
+-   [Clinical Trials 2: Randomization](/resources/randomization/)
+-   [Clinical Trials 3: Other Considerations](/resources/rct_other/)
+
 
 # References and Further Readings
 

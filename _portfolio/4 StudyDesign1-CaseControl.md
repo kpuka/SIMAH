@@ -143,7 +143,7 @@ Review of case-control study designs, and methodological considerations. <!--mor
 -   Overall, matching may introduce bias and if it does, it is extremely difficult to salvage the study
 
 
-# Related topics:
+# Related topics
 -   [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
 -   [Clinical Trials 1: Study Design](/resources/rct_design/)
 -   [Clinical Trials 2: Randomization](/resources/randomization/)

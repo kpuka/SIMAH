@@ -50,14 +50,14 @@ The reasons for conducting pilot trials can be categorized as:
 
 Sample size calculations are not required for pilot studies, however pilot studies are not exempt from the need to have a clear and well-reasoned rationale for the number of participants included. The sample size should be large enough to provide useful information about the aspects of feasibility that are being evaluated. The aim of pilot studies is not to provide definitive evidence for a treatment effect; power calculations are not a valid consideration for sample size if the objective does not include any hypothesis tests.
 
-A confidence interval (CI) approach (focused on precision) can be used if the objective is to estimate a proportion of people with a given outcome (e.g. adherence rate). For example, a trial would be considered successful if $\geq$90% of patients adhere to the treatment; the smallest sample size required to have a confidence level of 95% that the adherence rate is within 5% of the desired adherence rate, will be at least 139 participants based on:
+A confidence interval (CI) approach (focused on precision) can be used if the objective is to estimate a proportion of people with a given outcome (e.g. adherence rate). For example, if a trial would be considered successful if $\geq$90% of patients adhere to the treatment; the smallest sample size required to have a confidence level of 95% that the adherence rate is within 5% of the desired adherence rate, will be at least 139 participants. This calculation is based on the formula below:
 
 $$ n = \dfrac{\rho(1 - \rho)(z^2)}{d^2} = \dfrac{0.90(1 - 0.90(1.96^2)}{0.05^2} = 139 $$
 
 
 *Note: for 80%, 90% or 95% CI, the z value is equal to 1.28, 1.64, or 1.96, respectively.*
 
-You can also use an online calculator, such as that found here: <http://statulator.com/SampleSize/ss1P.html>
+You can also use an online calculator, such as that found <a href="http://statulator.com/SampleSize/ss1P.html" target="_blank"> here </a>
 
 # Inappropriate or problematic applications of the term "pilot" 
 

@@ -50,7 +50,7 @@ The reasons for conducting pilot trials can be categorized as:
 
 Sample size calculations are not required for pilot studies, however pilot studies are not exempt from the need to have a clear and well-reasoned rationale for the number of participants included. The sample size should be large enough to provide useful information about the aspects of feasibility that are being evaluated. The aim of pilot studies is not to provide definitive evidence for a treatment effect; power calculations are not a valid consideration for sample size if the objective does not include any hypothesis tests.
 
-A confidence interval (CI) approach (focused on precision) can be used if the objective is to estimate a proportion of people with a given outcome (e.g. adherence rate). For example, a trial would be considered successful if ???90% of patients adhere to the treatment; the smallest sample size required to have a confidence level of 95% that the adherence rate is within 5% of the desired adherence rate, will be at least 139 participants based on:
+A confidence interval (CI) approach (focused on precision) can be used if the objective is to estimate a proportion of people with a given outcome (e.g. adherence rate). For example, a trial would be considered successful if $\geq$90% of patients adhere to the treatment; the smallest sample size required to have a confidence level of 95% that the adherence rate is within 5% of the desired adherence rate, will be at least 139 participants based on:
 
 $$ n \geq \dfrac{\rho(1 - \rho)(z^2)}{d^2} = \dfrac{0.90(1 - 0.90(1.96^2)}{0.05^2} = 139 $$
 
@@ -75,7 +75,7 @@ Our **long-term goal** is to improve the quality of life of children with epilep
 
 1.  To assess the feasibility of successfully implementing drug A as an intervention for CWE. Specifically, we will evaluate: a) Participant adherence to treatment b) Study procedures (e.g. recruitment, randomization, attrition, time to complete study procedures).
 
-The main trial would be feasible if the overall adherence rate to the medication is ???80%. This information will be essential in preparing for a subsequent multi-centered trial across Canada. Feasibility outcomes will be evaluated throughout the course of the study and the specific outcomes collected and evaluated are presented in Section X.
+The main trial would be feasible if the overall adherence rate to the medication is $\geq$80%. This information will be essential in preparing for a subsequent multi-centered trial across Canada. Feasibility outcomes will be evaluated throughout the course of the study and the specific outcomes collected and evaluated are presented in Section X.
 
 *Secondary aims* are to obtain preliminary data regarding the impact of drug A and B on:
 

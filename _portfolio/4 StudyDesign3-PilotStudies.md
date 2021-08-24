@@ -55,6 +55,8 @@ A confidence interval (CI) approach (focused on precision) can be used if the ob
 $$ n = \dfrac{\rho(1 - \rho)(z^2)}{d^2} = \dfrac{0.90(1 - 0.90)(1.96^2)}{0.05^2} = 139 $$
 
 
+<iframe src=" https://kpuka.shinyapps.io/samplesize/"></iframe>.
+
 *Note: for 80%, 90% or 95% CI, the z value is equal to 1.28, 1.64, or 1.96, respectively.*
 
 You can also use an online calculator, such as that found <a href="http://statulator.com/SampleSize/ss1P.html" target="_blank"> here. </a>

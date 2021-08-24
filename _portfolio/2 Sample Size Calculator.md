@@ -13,4 +13,4 @@ Sample size calculator  <!--more-->
 
 # Sample size calculator
 
-<iframe height="1000" width="100%" frameborder="no" src="https://kpuka.shinyapps.io/samplesize/"> </iframe>
+<iframe height="1200" width="100%" frameborder="no" src="https://kpuka.shinyapps.io/samplesize/"> </iframe>

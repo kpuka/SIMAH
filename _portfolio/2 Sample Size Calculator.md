@@ -1,5 +1,5 @@
 ---
-title: 'Sample size calculator'
+title: 'Sample Size Calculator'
 permalink: /resources/sample_size_calculator/
 excerpt_separator: <!--more-->
 toc: true

@@ -8,7 +8,34 @@ tags:
   - study design
 ---
 <!--more-->
+# Introduction 
 
-<iframe height="1100" width="100%" frameborder="no" src="https://kpuka.shinyapps.io/samplesize/"> </iframe>
+Sample size calculations form an important part of the study design, but the formula and implementation of sample size calculations can be complex and intimidating. The sample size calculator below was designed guide researchers through the process of calculating a sample size using a simple to use and informative interface. 
+
+The sample size calculator is based on the formula described <a href="https://doi.org/10.1007/978-1-4614-1353-0" target="_blank">Vittinghoff et al. (2012) </a>
+
+# Sample Size Calculator
+<iframe height="950" width="100%" frameborder="no" src="https://kpuka.shinyapps.io/samplesize/"> </iframe>
 
 
+
+# Examples 
+The examples below are based on the examples described by <a href="https://doi.org/10.1007/978-1-4614-1353-0" target="_blank">Vittinghoff et al. (2012) </a>
+
+**Example 1: Continuous Outcome**
+Estimate the sample size for a randomized trial with equal allocation to treatment and placebo to assess the effect of a new lipid-lowering agent on LDL levels. From pilot data, the standard deviation for LDL is expected to be 38 mg/dL, and it is hypothesized that the treatment will lower average LDL levels about 40 mg/dL. Because this is a clinical trial, it is unlikely that we will need to adjust for covariates. The sample size must provide 80% power in a two-sided test with $\alpha$ of 5%. 
+
+- *Type of outcome variable:* Continuous
+- *Type of independent variable:* Binary
+- *Minimum detectable effect:* 40
+- *Standard deviation of the outcome:* 38
+- *Proportion of participants in group of interest:* 0.5
+- *Multiple correction:* 0
+- *False positive rate:* 0.05
+- *Statistical power:* 0.80
+- *Anticipated attrition rate:* 0
+
+**Total sample size required: 28**
+
+
+ 

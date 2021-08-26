@@ -16,20 +16,20 @@ parameter_reg <- tabsetPanel(
   type = "hidden",  
   
   tabPanel("linear",
-    numericInput("b", "Smallest clinically meaningful effect", value=NULL, min=0.01, max=NA, step=0.1) %>% tipify ("The smallest mean difference you want to detect 1) between the two groups (if the indepedent variable is binary) or 2) per one-unit increase in the indepdent variable (if the independent variable is continuous)? Minimum: 0.1"),
+    numericInput("b", "Minimum detectable effect", value=NULL, min=0.01, max=NA, step=0.1) %>% tipify ("The smallest mean difference you want to be able to detect 1) between the two groups (if the indepedent variable is binary) or 2) per one-unit increase in the indepdent variable (if the independent variable is continuous)? Minimum: 0.1"),
     numericInput("sd_out", "Standard deviation of the outcome", value=NULL, min=0.01, max=NA, step=0.1) %>% tipify ("What is the standard deviation of the outcome in your population of interest? Minimum: 0")),
   
   tabPanel("logistic",
-    numericInput("OR", "Smallest clinically meaningful odds ratio", value=NULL, min=0.01, max=NA, step=0.1) %>% tipify ("The smallest odds ratio you want to detect 1) between the two groups (if the indepedent variable is binary) or 2) per one-unit increase in the indepdent variable (if the independent variable is continuous)? Minimum: 0.01"),
-    numericInput("prob_out", "Marginal probability of outcome", value=NULL, min=0.01, max=0.99, step=0.01) %>% tipify ("What proportion of participants do you expect will get the outcome? Minimum: 0.01, Maximum: 0.99")),
+    numericInput("OR", "Minimum detectable odds ratio", value=NULL, min=0.01, max=NA, step=0.1) %>% tipify ("The smallest odds ratio you want to be able to detect 1) between the two groups (if the indepedent variable is binary) or 2) per one-unit increase in the indepdent variable (if the independent variable is continuous)? Minimum: 0.01"),
+    numericInput("prob_out", "Marginal probability of outcome", value=NULL, min=0.01, max=0.99, step=0.01) %>% tipify ("What proportion of all participants do you expect will get the outcome? Minimum: 0.01, Maximum: 0.99")),
   
   tabPanel("cox",
-    numericInput("HR", "Smallest clinically meaningful hazard ratio", value=NULL, min=0.01, max=NA, step=0.1) %>% tipify ("The smallest hazard you want to detect 1) between the two groups (if the indepedent variable is binary) or 2) per one-unit increase in the indepdent variable (if the independent variable is continuous)? Minimum: 0.01"),
-    numericInput("prob_out2", "Probability of uncensored observation", value=NULL, min=0.01, max=0.99, step=0.01) %>% tipify ("What proportion of participants do you expecte to have the event within the study period? Minimum: 0.01, Maximum: 0.99")),
+    numericInput("HR", "Minimum detectable  hazard ratio", value=NULL, min=0.01, max=NA, step=0.1) %>% tipify ("The smallest hazard you want to be able to detect 1) between the two groups (if the indepedent variable is binary) or 2) per one-unit increase in the indepdent variable (if the independent variable is continuous)? Minimum: 0.01"),
+    numericInput("prob_out2", "Probability of uncensored observation", value=NULL, min=0.01, max=0.99, step=0.01) %>% tipify ("What proportion of all participants do you expecte to have the event within the study period? Minimum: 0.01, Maximum: 0.99")),
   
   tabPanel("poisson",
-    numericInput("RR", "Smallest clinically meaningful risk ratio", value=NULL, min=0.01, max=NA, step=0.1) %>% tipify ("The smallest risk ratio you want to detect 1) between the two groups (if the indepedent variable is binary) or 2) per one-unit increase in the indepdent variable (if the independent variable is continuous)? Minimum: 0.01"),
-    numericInput("dispr", "Dispersion", value=NULL, min=0.01, max=NA, step=0.01) %>% tipify ("To the best of your knowledge, how many times larger is the variance of the outcome compared to the mean of the outcome? Minimum: 0.01")))
+    numericInput("RR", "Minimum detectable risk ratio", value=NULL, min=0.01, max=NA, step=0.1) %>% tipify ("The smallest risk ratio you want to be able to detect 1) between the two groups (if the indepedent variable is binary) or 2) per one-unit increase in the indepdent variable (if the independent variable is continuous)? Minimum: 0.01"),
+    numericInput("dispr", "Dispersion", value=NULL, min=0.01, max=NA, step=0.01) %>% tipify ("How many times larger is the variance of the outcome compared to the mean of the outcome? Minimum: 0.01")))
 
 
 

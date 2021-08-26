@@ -21,7 +21,8 @@ The use and interpretations of risk difference (RD), relative risk (RR) and odds
 
 $$ Risk = \dfrac{number of people with disease/outome}{total number of people}     Odds = \dfrac{umber of people with disease/outome}{umber of people without disease/outome} $$
 
-**Example**
+**Example:**
+
 |         | Disease | No Disease | Total  |
 |---------|---------|------------|--------|
 | Group A | 141     | 420        | 561    |
@@ -82,16 +83,32 @@ $$ dfrac\ OR = {Odds of Group A}{Odds of Group B} = {141/420}{928/13,525} = 4.89
 
 Example: Impact of doubling the control group on the OR and RR.
 
-|            | Case    | Control | Total |   | Case    | Control | Total |
-|------------|---------|---------|-------|---|---------|---------|-------|
-| Exposed*   | 59      | **122**     | 181   |   | 59      | **244**    | 303   |
-| Unexposed* | 48      | **190**     | 238   |   | 48      | **380**    | 428   |
-|            |OR = (59/48)/(122/190)=1.91|   |OR = (59/48)/(244/380)=1.91|
-|            |RR = (59/181)/(48/238)=1.68|   |RR = (59/303)/(48/428)=1.77|
+Scenario 1: 
+
+|            | Case    | Control | Total |
+|------------|---------|---------|-------|
+| Exposed    | 59      | **122** | 181   |
+| Unexposed  | 48      | **190** | 238   |
+
+OR = (59/48) / (122/190) = 1.91
+RR = (59/181) / (48/238) = 1.68
+
+
+
+Scenario 2 (Control group doubled): 
+|            | Case    | Control | Total |
+|------------|---------|---------|-------|
+| Exposed    | 59      | **244** | 303   |
+| Unexposed  | 48      | **380** | 428   |
+
+OR = (59/48) / (244/380) = 1.91
+RR = (59/303) / (48/428)= 1.77
+
+
 
 Notice that when the size of the control is doubled, the OR remains unchanged, but the RR changes. 
 
-*Refers to whether the individual was "exposed" or not to the variable of interest (e.g. a specific drug).
+
 
 
 

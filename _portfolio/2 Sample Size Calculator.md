@@ -21,7 +21,7 @@ The sample size calculator is based on the formula described by Vittinghoff et a
 The examples below are based on the examples described by Vittinghoff et al. (2012)
 
 **Example 1**
-We plan on conducting a randomized trial with equal allocation to treatment and placebo to assess the effect of a new lipid-lowering agent on LDL levels. From pilot data, the residual standard deviation for LDL is expected to be 38 mg/dL, and we hypothesize that the treatment will lower average LDL levels about 40 mg/dL. Because this is a clinical trial, it is unlikely that we will need to adjust for covariates. The sample size must provide 80% power in a two-sided test with $\alpha$ of 5%. 
+We plan on conducting a randomized trial with equal allocation to treatment and placebo to assess the effect of a new lipid-lowering agent on LDL levels. From pilot data, the standard deviation for LDL is expected to be 38 mg/dL, and we hypothesize that the treatment will lower average LDL levels about 40 mg/dL. Because this is a clinical trial, it is unlikely that we will need to adjust for covariates. The sample size must provide 80% power in a two-sided test with $\alpha$ of 5%. 
 
 *Type of outcome variable:* Continuous
 *Type of independent variable:* Binary

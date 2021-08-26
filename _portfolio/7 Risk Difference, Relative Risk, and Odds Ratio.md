@@ -15,7 +15,7 @@ The relationship between a binary outcome (e.g. yes vs. no) and other variables 
 
 'Risk' refers to the probability of having a disease or some outcome. Risk difference and relative risk are used to compare the risk among two or more groups.
 
-$$Risk = \frac{number of people with disease/outome}{total number of people}$$
+$$Risk = \dfrac{number of people with disease/outome}{total number of people}$$
 
 
 
@@ -33,9 +33,8 @@ $$Odds = \frac{umber of people with disease/outome}{umber of people without dise
 | Total   | 1,063   | 13,945     | 15,522 |
 
 
-Risk of disease in Group A is 141/561; the odds are 141/420
-
-Risk of disease in Group B is 928/14,453; the odds are 928/13,525
+Risk of disease in Group A is 141/561; the odds are 141/420.
+Risk of disease in Group B is 928/14,453; the odds are 928/13,525.
 
 
 Can compare these groups in several ways (outlined below):
@@ -93,8 +92,8 @@ Scenario 1:
 | Exposed    | 59      | **122** | 181   |
 | Unexposed  | 48      | **190** | 238   |
 
-OR = (59/48) / (122/190) = 1.91
-RR = (59/181) / (48/238) = 1.68
+OR = (59/48) / (122/190) = 1.91.
+RR = (59/181) / (48/238) = 1.68.
 
 
 
@@ -105,8 +104,8 @@ Scenario 2 (Control group doubled):
 | Exposed    | 59      | **244** | 303   |
 | Unexposed  | 48      | **380** | 428   |
 
-OR = (59/48) / (244/380) = 1.91
-RR = (59/303) / (48/428)= 1.77
+OR = (59/48) / (244/380) = 1.91.
+RR = (59/303) / (48/428)= 1.77.
 
 
 

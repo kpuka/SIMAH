@@ -11,15 +11,15 @@ tags:
 The use and interpretations of risk difference (RD), relative risk (RR) and odds ratio (OR). RD, RR, and OR provide an estimate (with confidence interval) for the relationship between a  binary outcome ("yes" or "no") and other variables.  <!--more-->
 
 # Introduction
-- The relationship between a binary outcome (e.g. yes vs. no) and other variables may be expressed through risk difference (RD), relative risk (RR) and odds ratio (OR) 
-  - Measures of RD, RR, and OR should always be reported with confidence intervals 
-- 'Risk' refers to the probability of having a disease or some outcome
-  - RD and RR are used to compare the risk among two or more groups
-- 'Odds' refers to the probability that the event of interest occurs to the probability that it does not
-  - E.g. the odds that a single throw of a die will produce a six (for example) are 1 to 5, or 1/5
-  - OR is used to compare the odds among two or more groups 
+The relationship between a binary outcome (e.g. yes vs. no) and other variables may be expressed through risk difference, relative risk and odds ratio. These measures are described below and should always be reported with confidence intervals. 
 
-$$ Risk = \frac{number of people with disease/outome}{total number of people}$$
+'Risk' refers to the probability of having a disease or some outcome. Risk difference and relative risk are used to compare the risk among two or more groups.
+
+$$Risk = \frac{number of people with disease/outome}{total number of people}$$
+
+
+
+'Odds' refers to the probability that the event of interest occurs to the probability that it does not. For example, the odds that a single throw of a die will produce a six (for example) are 1 to 5, or 1/5. The odds ratio is used to compare the odds among two or more groups.
 
 $$Odds = \frac{umber of people with disease/outome}{umber of people without disease/outome} $$
 
@@ -79,12 +79,9 @@ $$ OR = \frac{Odds of Group A}{Odds of Group B} = \frac{141/420}{928/13,525} = 4
 
 # Relative Risk (RR) vs. Odds Ratio (OR)
 
-- The OR will approximate the RR when the prevalence of disease/outcome is low (i.e. <10%)
-  - If > 10%, then ORs that are less than 1.0 underestimate the RR, and ORs that are greater than 1.0 overestimate the RR (OR will be more extreme than RR).
-- Unlike RR, OR is symmetrical, and therefore the OR of event = 1 / (OR of non-event)
-- RR can be calculated from randomized controlled trials, cohort studies, case-cohort studies, or nested case-control studies. RR cannot be calculated from traditional case-control trials.
-- Calculation of risk requires the use of "people at risk" as the denominator. In retrospective (traditional case-control) studies, the total number of exposed people is not available, therefore RR cannot be calculated and OR must be used.
-  - Case-control studies are not based on the population, the researcher chooses how many controls to include in the study and this will impact RR but not OR (see example below)
+- The OR will approximate the RR when the prevalence of disease/outcome is low (i.e. <10%). If > 10%, then ORs that are less than 1.0 underestimate the RR, and ORs that are greater than 1.0 overestimate the RR (OR will be more extreme than RR).
+- OR is symmetrical, such that the OR of event = 1 / (OR of non-event). RR is not symmetrical. 
+- RR can (and should be) calculated from randomized controlled trials, cohort studies, case-cohort studies, or nested case-control studies. RR cannot be calculated from traditional case-control trials, for which ORs should be calculated. The reason is related to how risk and odds are defined; calculation of risk requires the use of "people at risk" as the denominator. In retrospective (traditional case-control) studies, the total number of exposed people is not available, therefore RR cannot be calculated and OR must be used. Case-control studies are not based on the population, the researcher chooses how many controls to include in the study and this will impact RR but not OR (see example below). 
 
 
 Example: Impact of doubling the control group on the OR and RR.

@@ -20,7 +20,7 @@ The sample size calculator is based on the formula described by Vittinghoff et a
 
 
 # Examples 
-The examples below are based on the examples described by [Vittinghoff et al. (2012)](https://doi.org/10.1007/978-1-4614-1353-0)
+The examples below are based on the examples described by<a href="https://doi.org/10.1007/978-1-4614-1353-0" target="_blank"> Vittinghoff et al. (2012) </a>
 
 **Example 1: Continuous Outcome**
 We plan on conducting a randomized trial with equal allocation to treatment and placebo to assess the effect of a new lipid-lowering agent on LDL levels. From pilot data, the standard deviation for LDL is expected to be 38 mg/dL, and we hypothesize that the treatment will lower average LDL levels about 40 mg/dL. Because this is a clinical trial, it is unlikely that we will need to adjust for covariates. The sample size must provide 80% power in a two-sided test with $\alpha$ of 5%. 
@@ -38,5 +38,17 @@ We plan on conducting a randomized trial with equal allocation to treatment and 
 **Total sample size required: 28**
 
 
+**Example 2: Binary Outcome**
 
+- *Type of outcome variable:* Binary
+- *Type of independent variable:* 
+- *Minimum detectable effect:* 
+- *Standard deviation of the outcome:* 
+- *Proportion of participants in group of interest:* 
+- *Multiple correction:* 
+- *False positive rate:* 
+- *Statistical power:* 
+- *Anticipated attrition rate:* 
+
+**Total sample size required: **
  

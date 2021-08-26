@@ -14,51 +14,31 @@ Statistics plays two main roles: 1) measure variability in the data in an effort
 
 # Statistical Significance (the p -value)
 
--   *The p-value is the probability of getting the result obtained (or more extreme results) if the null hypothesis were true*
+-   *The p-value is the probability of getting the result obtained (or more extreme results) if the null hypothesis were true*. Null hypothesis is a statement suggesting that nothing interesting is going on (e.g. no difference between two groups).
 
-    -   Null hypothesis is a statement suggesting that nothing interesting is going on (e.g. no difference between two groups)
+-   A p-value of .04 means that, if the null hypothesis is true (i.e. groups are equivalent), there is a 4% chance of seeing the observed data or data even more extreme. It does not mean that the probability of the groups being equivalent is 4%, nor does it mean that the probability that the groups differ is 96%.
 
--   A p-value of .04 means that, if the null hypothesis is true (i.e. groups are equivalent), there is a 4% chance of seeing the observed data or data even more extreme
+-   If the p-value is less than 0.05, the observed results are unlikely if the null hypothesis were true. You can conclude statistically significant results; i.e. null hypothesis is not true; i.e. groups are different.
 
-    -   It does not mean that the probability of the groups being equivalent is 4%, nor does it mean that the probability that the groups differ is 96%
+-   If the p-value is high ($\geq$0.05), you **cannot** conclude that there is no difference between the groups, or that the intervention doesn't improve outcome, etc. You can only conclude that your experience did not prove or find a difference. Failure to prove a treatment is effective is not the same as proving it ineffective.
 
--   If the p-value is less than 0.05, the observed results are unlikely if the null hypothesis were true
-
-    -   Conclude statistically significant results; i.e. null hypothesis is not true; i.e. groups are different
-
--   If the p-value is high (???0.05), you **cannot** conclude that there is no difference between the groups, or that the intervention doesn't improve outcome, etc.
-
-    -   *Can only conclude that your experience did not prove or find a difference*
-
-    -   *Failure to prove a treatment is effective is not the same as proving it ineffective*
-
--   Importantly, p-values are dependent on sample size and *provide virtually no information about the strength of the evidence supporting or refuting the null hypothesis*
+-   Importantly, p-values are dependent on sample size and *provide virtually no information about the strength of the evidence supporting or refuting the null hypothesis*.
 
 # Clinical Significance
 
 -   If a study is very large, the results may be statistically significant, but the difference between the two groups may be too small to be of any clinical interest
 
--   Conversely, a large differences may not be statistically significant if the study sample size was small (or "under powered"), however the large difference may be of clinical relevance and needs further testing from future studies
+-   Conversely, a large differences may not be statistically significant if the study sample size was small (or "under powered"), however the large difference may be of clinical relevance and needs further testing from future studies.
 
--   Therefore, do not overly focus on the p-value
+-   Therefore, do not overly focus on the p-value. If you have a small sample, a descriptive study (without any statistical tests or p-values) can provide valuable information and can be published.
 
-    -   If you have a small sample, a descriptive study (without any statistical tests or p-values) can provide valuable information and can be published .
-
--   Magnitude of improvement is of primary interest, not the p-value or statistical significance
-
-    -   Statistics cannot answer this question; requires clinical judgment and consideration for the magnitude of benefit, side effects, costs, and patient preferences
+-   Magnitude of improvement is of primary interest, not the p-value or statistical significance. Statistics cannot answer this question; requires clinical judgment and consideration for the magnitude of benefit, side effects, costs, and patient preferences.
 
 # Confidence Intervals (CI)
 
 -   Confidence Intervals (CI) express the uncertainty associated with the results, typically 95% CI
 
-    -   Example. if mean reduction is 7mm Hg, p =.03, and 95% CI is 4 to 10
-
-    -   Instead of focusing on significance (p-value) indicating the probability of seeing the observed (or more extreme) data if the null hypothesis were true, CIs convey more relevant information
-
-    -   CIs indicate the best guess for the size of the effect in the population, 95% of the time
-
-    -   In this case, the estimated mean reduction in blood pressure is between 4 to 10 mm Hg
+    -   Example: mean reduction is 7mm Hg, p =.03, and 95% CI is 4 to 10. Instead of focusing on significance (p-value) indicating the probability of seeing the observed (or more extreme) data if the null hypothesis were true, CIs convey more relevant information. CIs indicate the best guess for the size of the effect in the population, 95% of the time. In this case, the estimated mean reduction in blood pressure is between 4 to 10 mm Hg
 
 -   CIs that exclude the null value (0 for differences, 1 for ratios), are statistically significant at p\<.05
 

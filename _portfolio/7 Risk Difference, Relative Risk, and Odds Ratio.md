@@ -33,16 +33,18 @@ $$Odds = \frac{umber of people with disease/outome}{umber of people without dise
 | Total   | 1,063   | 13,945     | 15,522 |
 
 
-Risk of disease in Group A is 141/561; The odds are 141/420
-Risk of disease in Group B is 928/14,453; The odds are 928/13,525
+Risk of disease in Group A is 141/561; the odds are 141/420
+
+Risk of disease in Group B is 928/14,453; the odds are 928/13,525
 
 
 Can compare these groups in several ways (outlined below):
 
 
 # Risk Difference
-Risk Difference (RD) is the difference between risks
-$$RD = [risk of group A] - [risk of group B] = \frac{141}{561} -  \frac{928}{14,453} = 0.187 $$
+Risk Difference (RD) is the difference between risks:
+
+RD = [risk of group A] - [risk of group B] = $$\frac{141}{561} -  \frac{928}{14,453} = 0.187 $$
 
 
 **Interpretation:** Can convert into a fraction 18.7% = 187/1,000. Patients in Group A had 187 additional cases of disease per 1000 people, compared to patients in Group B. 
@@ -53,7 +55,8 @@ Need to treat 5.34 persons with treatment received by Group A to prevent 1 case 
 
 # Relative Risk
 Relative Risk (RR) is the ratio of risks: 
-$$RR = \frac{Risk of Group A}{Risk of Group B} = {141/561}{928/14,453} = 3.91 $$
+
+$$RR = \frac{Risk of Group A}{Risk of Group B} = \frac{141/561}{928/14,453} = 3.91 $$
 
 **Interpretation:** The risk of disease is 3.91 times higher in Group A, relative to Group B. 
 
@@ -67,7 +70,8 @@ RR of 1.0 indicates no association. If the 95% Confidence Interval (CI) of the R
 
 # Odds Ratio
 Odds Ratio (OR) is the ratio of the odds: 
-$$ dfrac\ OR = {Odds of Group A}{Odds of Group B} = {141/420}{928/13,525} = 4.89 $$
+
+$$ OR = \frac{Odds of Group A}{Odds of Group B} = \frac{141/420}{928/13,525} = 4.89 $$
 
 **Interpretation**: Similar to RR, but must specify "odds": The *odds* of disease are 4.89 times higher in Group A, relative to Group B. 
 

@@ -19,7 +19,10 @@ The use and interpretations of risk difference (RD), relative risk (RR) and odds
   - E.g. the odds that a single throw of a die will produce a six (for example) are 1 to 5, or 1/5
   - OR is used to compare the odds among two or more groups 
 
-$$ Risk = \dfrac{number of people with disease/outome}{total number of people}     Odds = \dfrac{umber of people with disease/outome}{umber of people without disease/outome} $$
+$$ Risk = \frac{number of people with disease/outome}{total number of people}$$
+
+$$Odds = \frac{umber of people with disease/outome}{umber of people without disease/outome} $$
+
 
 **Example:**
 
@@ -30,8 +33,7 @@ $$ Risk = \dfrac{number of people with disease/outome}{total number of people}  
 | Total   | 1,063   | 13,945     | 15,522 |
 
 
-Risk of disease in Group A is 141/561; The odds are 141/420   
-br()
+Risk of disease in Group A is 141/561; The odds are 141/420
 Risk of disease in Group B is 928/14,453; The odds are 928/13,525
 
 
@@ -40,7 +42,7 @@ Can compare these groups in several ways (outlined below):
 
 # Risk Difference
 Risk Difference (RD) is the difference between risks
-$$\ RD = [risk of group A] - [risk of group B] = dfrac{141}{561} -  dfrac{928}{14,453} = 0.187 $$
+$$RD = [risk of group A] - [risk of group B] = \frac{141}{561} -  \frac{928}{14,453} = 0.187 $$
 
 
 **Interpretation:** Can convert into a fraction 18.7% = 187/1,000. Patients in Group A had 187 additional cases of disease per 1000 people, compared to patients in Group B. 
@@ -51,7 +53,7 @@ Need to treat 5.34 persons with treatment received by Group A to prevent 1 case 
 
 # Relative Risk
 Relative Risk (RR) is the ratio of risks: 
-$$ dfrac\RR = {Risk of Group A}{Risk of Group B} = {141/561}{928/14,453} = 3.91 $$
+$$RR = \frac{Risk of Group A}{Risk of Group B} = {141/561}{928/14,453} = 3.91 $$
 
 **Interpretation:** The risk of disease is 3.91 times higher in Group A, relative to Group B. 
 
@@ -96,6 +98,7 @@ RR = (59/181) / (48/238) = 1.68
 
 
 Scenario 2 (Control group doubled): 
+
 |            | Case    | Control | Total |
 |------------|---------|---------|-------|
 | Exposed    | 59      | **244** | 303   |

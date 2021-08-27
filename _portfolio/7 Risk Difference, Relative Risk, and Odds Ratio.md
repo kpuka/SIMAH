@@ -127,7 +127,7 @@ Notice that when the size of the control is doubled, the OR remains unchanged, b
 
 **Disadvantages:** A lot of information is lost - variation in the variable is ignored. That is, individuals close to but on opposite sides of the cut point are characterized as being very different rather than very similar Therefore, statistical power to detect a relationship is reduced. Dichotomizing by a median split reduces power by the same amount as would discarding a third of the data!
 
-Although it may be beneficial in some circumstances, categorizing continuous data is generally discouraged given the reasons listed above.
+Therefore, categorizing continuous data is generally discouraged. Although it is not advisable, it may be ideal when there is an underlying dichotomy in the variable, that truly differentiates individuals on different sides of the cut point. 
 
 If continuous data is categorized, where should the cut off points be? 
 -  Use recognized cut points if they exist, for example define 'overwight' as a BMI >25. 
@@ -141,6 +141,8 @@ If continuous data is categorized, where should the cut off points be?
 
 
 # References and Further readings
+
+Altman DG, Royston P. The cost of dichotomising continuous variables. BMJ. 2006 ;332(7549):1080.
 
 Tripepi, G., Jager, K. J., Dekker, F. W., Wanner, C., & Zoccali, C. (2007). Measures of effect: relative risks, odds ratios, risk difference, and 'number needed to treat'. Kidney international, 72(7), 789-791.
 

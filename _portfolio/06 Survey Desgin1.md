@@ -22,7 +22,7 @@ This document follows the recommendations of the Tailored Design Method by D.A. 
 
 -   The *strategies and methods described below have been empirically shown to increase response rate and quality of reporting*. Again, customize your study procedures and survey to fit your context.
 
-# **Study Invitation**
+# Study Invitation
 
 -   Build upon previously established relationships and specify how the survey results will be useful and why the study is important. Ask for participants' help to provide insight into the problem.
 
@@ -44,7 +44,9 @@ This document follows the recommendations of the Tailored Design Method by D.A. 
 
 -   If possible, do not deny the existence of benefits to the individual. Doing so denies the possibility and likelihood that some respondents enjoy completing surveys, providing answers to questions they find interesting, and/or contributing to research that may be helpful to others.
 
-# **Incentives and Follow-up**
+
+
+# Incentives and Follow-up
 
 -   Send a monetary incentive along with the study survey. This is more effective than a larger incentive given upon completion of the survey, and more effective than lotteries.
 
@@ -60,7 +62,7 @@ This document follows the recommendations of the Tailored Design Method by D.A. 
 
 -   If possible, show the similarity of the survey request to other requests to which the person has responded. People strive to be consistent in their attitudes, beliefs, and actions. For example, when following up with the follow-up survey indicate that the participants' response to the baseline survey was very helpful and much appreciated.  
 
-# **Decrease the Cost of Participation**
+# Decrease the Cost of Participation
 
 -   Be mindful of the participant burden. Should avoid placing participants in situations where they are required to respond to long and detailed survey, with questions the respondent either does not understand or cannot answer.
 
@@ -86,6 +88,6 @@ This document follows the recommendations of the Tailored Design Method by D.A. 
 
         -   For example, "the next two questions will allow us to compare your health to that of other people in the study who are similar to you".
 
-# **References and Further Readings**
+# References and Further Readings
 
 Dillman, D. A., Smyth, J. D., & Christian, L. M. (2014). Internet, phone, mail, and mixed-mode surveys: the tailored design method. John Wiley & Sons.

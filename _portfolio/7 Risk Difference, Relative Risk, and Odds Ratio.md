@@ -1,5 +1,6 @@
 ---
-title: 'Risk Difference, Relative Risk and Odds Ratio'
+title: 'Working with Categorical Data'
+subtitle: 'Risk Difference, Relative Risk and Odds Ratio'
 permalink: /resources/rd_rr_od/
 excerpt_separator: <!--more-->
 toc: true
@@ -8,7 +9,8 @@ tags:
   - methods
 ---
 
-The use and interpretations of risk difference (RD), relative risk (RR) and odds ratio (OR). RD, RR, and OR provide an estimate (with confidence interval) for the relationship between a  binary outcome ("yes" or "no") and other variables.  <!--more-->
+The use and interpretations of risk difference (RD), relative risk (RR) and odds ratio (OR) are discussed. Categorization of continuous data is also briefly discussed. <!--more-->
+
 
 # Introduction
 The relationship between a binary outcome (e.g. yes vs. no) and other variables may be expressed through risk difference, relative risk and odds ratio. The choice of which effect measure to use is informed by study objectives and study design. These measures are described below and should always be reported with confidence intervals.Logistic regression, a frequently used method to identify the covariates associated with a binary outcome yields odds ratios.
@@ -127,12 +129,11 @@ Notice that when the size of the control is doubled, the OR remains unchanged, b
 
 Although it may be beneficial in some circumstances, categorizing continuous data is generally discouraged given the reasons listed above.
 
-If continuous data is categorized, where should the cut off points be? Use recognized cut points if they exist 
-e.g., for BMI >25 to define 'overweight'
-Adopt cut points used in previous studies
-Using the sample median makes it hard to compare studies. 
-This is because the median value is dependent on the sample, and will be different for every study
-Do not perform several analyses and choose that which gives the most convincing result
+If continuous data is categorized, where should the cut off points be? 
+-  Use recognized cut points if they exist, for example define 'overwight' as a BMI >25. 
+- Adopt cut points used in previous studies
+-  Using the sample median makes it hard to compare studies. This is because the median value is dependent on the sample, and will be different for every study.
+- Do not perform several analyses and choose that which gives the most convincing result
 
 
 

@@ -142,7 +142,7 @@ If continuous data is categorized, where should the cut off points be?
 
 # References and Further readings
 
-Altman DG, Royston P. The cost of dichotomising continuous variables. BMJ. 2006 ;332(7549):1080.
+Altman DG, Royston P. (2006). The cost of dichotomising continuous variables. BMJ, 2006332(7549):1080.
 
 Tripepi, G., Jager, K. J., Dekker, F. W., Wanner, C., & Zoccali, C. (2007). Measures of effect: relative risks, odds ratios, risk difference, and 'number needed to treat'. Kidney international, 72(7), 789-791.
 

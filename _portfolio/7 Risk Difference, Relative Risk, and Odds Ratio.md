@@ -1,5 +1,5 @@
 ---
-title: 'Working with Categorical Data'
+title: 'Working with Categorical Data: Risk Difference, Relative Risk and Odds Ratio'
 permalink: /resources/rd_rr_od/
 excerpt_separator: <!--more-->
 toc: true
@@ -7,7 +7,7 @@ comments: true
 tags:
   - methods
 ---
-h2(Risk Difference, Relative Risk and Odds Ratio)
+
 
 The use and interpretations of risk difference (RD), relative risk (RR) and odds ratio (OR) are discussed. Categorization of continuous data is also briefly discussed. <!--more-->
 

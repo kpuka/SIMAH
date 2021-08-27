@@ -16,8 +16,9 @@ I provide individual statistical and methodological consulting services, and can
 * Data visualization 
 * Scientific manuscript preparation
 
+I have also developed numerous resources designed to introduce trainees to a variety of methodological and statistical topics, as well as a sample size calculator. To access these resources, click [here](/resources/). 
 
-Please get in touch to inquire about these services and whether I may be able to help with your project. I offer a free 30 minute consultation to scope the project needs and estimate the cost of the work. 
+Please get in touch to inquire about these services and whether I may be able to help with your project. I offer a free consultation to scope the project needs and estimate the cost of the work. 
 
 <!-- Contact form  -->
 <div id="contact">

@@ -38,9 +38,9 @@ Multilevel modelling can be conducted using R (through the lme4 or nlme packages
 Special sample size formulas and computer programs are available for hierarchical data structures. The STATA *clsampsi* command may be helpful, though working with a statistician is advisable. Simulations for sample size estimates may also be needed. 
 
 The statistical power when working with clustered data may be substantially lower compared to a similarly-sized non-clustered data; that is, clustering makes it harder to detect differences. It is harder to detect differences when the 'design effect' is higher. 
-**Design Effect = 1 + ?? (m - 1)**
+**Design Effect = 1 + $\rho$ (m - 1)**
 m = average cluster size (e.g. group size), and 
-?? = intra-cluster correlation (ICC); i.e. the correlation among participants within a cluster, or the proportion of overall variation in the outcome that can be attributable to clusters. 
+$\rho$ = intra-cluster correlation (ICC); i.e. the correlation among participants within a cluster, or the proportion of overall variation in the outcome that can be attributable to clusters. 
 
 The design effect is small when the group size and ICC is small. Generally, increasing the number of clusters offers a greater increase in power than increasing the number of individuals per cluster. The existing literature on your target population and intervention should be used to estimate your ICC. The ICC tends to be larger for knowledge and attitudes, smaller for behaviors, and even smaller for physiologic measures. As a very general guide, for health-related outcomes the ICC values may be (Murray 2016):       
 - 0.00 - 0.05 for large aggregates (such as hospitals, schools, worksites)

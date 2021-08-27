@@ -15,7 +15,7 @@ The relationship between a binary outcome (e.g. yes vs. no) and other variables 
 
 'Risk' refers to the probability of having a disease or some outcome. Risk difference and relative risk are used to compare the risk among two or more groups.
 
-$$Risk = \frac{"number of people with disease/outome""}{'total number of people'}$$
+$$Risk = \frac{\text{number of people with disease/outome}}{\text{total number of people}}$$
 
 
 

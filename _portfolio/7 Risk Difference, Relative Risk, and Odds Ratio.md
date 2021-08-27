@@ -13,15 +13,16 @@ The use and interpretations of risk difference (RD), relative risk (RR) and odds
 # Introduction
 The relationship between a binary outcome (e.g. yes vs. no) and other variables may be expressed through risk difference, relative risk and odds ratio. These measures are described below and should always be reported with confidence intervals. 
 
-'Risk' refers to the probability of having a disease or some outcome. Risk difference and relative risk are used to compare the risk among two or more groups.
+'Risk' refers to the probability of having a disease or some outcome.
 
 $$Risk = \frac{\text{number of people with disease/outome}}{\text{total number of people}}$$
 
 
 
-'Odds' refers to the probability that the event of interest occurs to the probability that it does not. For example, the odds that a single throw of a die will produce a six (for example) are 1 to 5, or 1/5. The odds ratio is used to compare the odds among two or more groups.
+'Odds' refers to the probability that the event of interest occurs to the probability that it does not. For example, the odds that a single throw of a die will produce a six (for example) are 1 to 5, or 1/5.
 
 $$Odds = \frac{\text{umber of people with disease/outome}}{\text{umber of people without disease/outome}} $$
+
 
 
 **Example:**
@@ -34,16 +35,16 @@ $$Odds = \frac{\text{umber of people with disease/outome}}{\text{umber of people
 
 
 Risk of disease in Group A is 141/561; the odds are 141/420.
+
 Risk of disease in Group B is 928/14,453; the odds are 928/13,525.
 
 
-Can compare these groups in several ways (outlined below):
 
 
 # Risk Difference
 Risk Difference (RD) is the difference between risks:
 
-$$ RD = \frac{\text{risk of group A}}{\text{risk of group B}} = \frac{141}{561} -  \frac{928}{14,453} = 0.187 $$
+$$ RD = \frac{\text{Risk of Group A}}{\text{Risk of Group B}} = \frac{141}{561} -  \frac{928}{14,453} = 0.187 $$
 
 
 **Interpretation:** Can convert into a fraction 18.7% = 187/1,000. Patients in Group A had 187 additional cases of disease per 1000 people, compared to patients in Group B. 

@@ -1,5 +1,5 @@
 ---
-title: 'Working with Categorical Data: Risk Difference, Relative Risk and Odds Ratio'
+title: 'Working with Categorical Data'
 permalink: /resources/rd_rr_od/
 excerpt_separator: <!--more-->
 toc: true

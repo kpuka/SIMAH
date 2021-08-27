@@ -11,15 +11,16 @@ tags:
 The use and interpretations of risk difference (RD), relative risk (RR) and odds ratio (OR). RD, RR, and OR provide an estimate (with confidence interval) for the relationship between a  binary outcome ("yes" or "no") and other variables.  <!--more-->
 
 # Introduction
-The relationship between a binary outcome (e.g. yes vs. no) and other variables may be expressed through risk difference, relative risk and odds ratio. These measures are described below and should always be reported with confidence intervals. 
+The relationship between a binary outcome (e.g. yes vs. no) and other variables may be expressed through risk difference, relative risk and odds ratio. The choice of which effect measure to use is informed by study objectives and study design. These measures are described below and should always be reported with confidence intervals.Logistic regression, a frequently used method to identify the covariates associated with a binary outcome yields odds ratios.
 
-'Risk' refers to the probability of having a disease or some outcome.
+
+'Risk' refers to the probability of having a disease or some outcome. For example, the risks that a single throw of a fair die will produce a six (for example) are 1 to 6, or 1/6.
 
 $$Risk = \frac{\text{number of people with disease/outome}}{\text{total number of people}}$$
 
 
 
-'Odds' refers to the probability that the event of interest occurs to the probability that it does not. For example, the odds that a single throw of a die will produce a six (for example) are 1 to 5, or 1/5.
+'Odds' refers to the probability that the event of interest occurs to the probability that it does not. For example, the odds that a single throw of a fair die will produce a six (for example) are 1 to 5, or 1/5.
 
 $$Odds = \frac{\text{umber of people with disease/outome}}{\text{umber of people without disease/outome}} $$
 
@@ -34,10 +35,11 @@ $$Odds = \frac{\text{umber of people with disease/outome}}{\text{umber of people
 | Total   | 1,063   | 13,945     | 15,522 |
 
 
-Risk of disease in Group A is 141/561; the odds are 141/420.
+Risk of disease in Group A is 141/561 = 0.25; the odds are 141/420 = 0.33.
 
-Risk of disease in Group B is 928/14,453; the odds are 928/13,525.
+Risk of disease in Group B is 928/14,453 = 0.064; the odds are 928/13,525 = 0.069.
 
+This example will continue to be used below. 
 
 
 
@@ -64,7 +66,7 @@ Alternatively, can indicate that the risk of disease is 291% (i.e. [3.91 - 1.00]
 
 If the RR is less than 1, (for example RR = 0.256), can indicate that the risk of disease in Group A is 74.4% ([1.00 - 0.256] x 100%) lower, relative to group B.
 
-RR of 1.0 indicates no association. If the 95% Confidence Interval (CI) of the RR does not include the value of 1, this indicates that the difference between groups is statistically significant at p<.05. 
+**RR of 1.0 indicates no association**. If the 95% Confidence Interval (CI) of the RR does **not** include the value of 1, this indicates that the difference between groups is statistically significant at p<.05. 
 
 
 
@@ -79,9 +81,11 @@ $$ OR = \frac{\text{Odds of Group A}}{\text{Odds of Group B}} = \frac{141/420}{9
 
 # Relative Risk (RR) vs. Odds Ratio (OR)
 
-- The OR will approximate the RR when the prevalence of disease/outcome is low (i.e. <10%). If > 10%, then ORs that are less than 1.0 underestimate the RR, and ORs that are greater than 1.0 overestimate the RR (OR will be more extreme than RR).
-- OR is symmetrical, such that the OR of event = 1 / (OR of non-event). RR is not symmetrical. 
-- RR can (and should be) calculated from randomized controlled trials, cohort studies, case-cohort studies, or nested case-control studies. RR cannot be calculated from traditional case-control trials, for which ORs should be calculated. The reason is related to how risk and odds are defined; calculation of risk requires the use of "people at risk" as the denominator. In retrospective (traditional case-control) studies, the total number of exposed people is not available, therefore RR cannot be calculated and OR must be used. Case-control studies are not based on the population, the researcher chooses how many controls to include in the study and this will impact RR but not OR (see example below). 
+**ORs and RRs are not equivalent**. Interpretation of RRs is more intuitive and may be preferred.
+
+The OR will approximate the RR when the prevalence of disease/outcome is low (i.e. <10%). If > 10%, then ORs that are less than 1.0 underestimate the RR, and ORs that are greater than 1.0 overestimate the RR (OR will be more extreme than RR).
+
+RR are appropriate for randomized controlled trials, cohort studies, case-cohort studies, or nested case-control studies. **RRs are not appropriate for traditional case-control studies**. The reason is related to how risk and odds are defined; calculation of risk requires the use of "people at risk" as the denominator. In retrospective (traditional case-control) studies, the total number of exposed people is not available, therefore RR cannot be calculated and OR must be used. Case-control studies are not based on the population, the researcher chooses how many controls to include in the study and this will impact RR but not OR (see example below). 
 
 
 Example: Impact of doubling the control group on the OR and RR.
@@ -113,6 +117,23 @@ RR = (59/303) / (48/428)= 1.77.
 
 
 Notice that when the size of the control is doubled, the OR remains unchanged, but the RR changes. 
+
+
+
+# Categorizing Continuous Variables
+**Perceived advantage:** simplifies the statistical analysis and leads to easier interpretation and presentation of results
+
+**Disadvantages:** A lot of information is lost - variation in the variable is ignored. That is, individuals close to but on opposite sides of the cut point are characterized as being very different rather than very similar Therefore, statistical power to detect a relationship is reduced. Dichotomizing by a median split reduces power by the same amount as would discarding a third of the data!
+
+Although it may be beneficial in some circumstances, categorizing continuous data is generally discouraged given the reasons listed above.
+
+If continuous data is categorized, where should the cut off points be? Use recognized cut points if they exist 
+e.g., for BMI >25 to define 'overweight'
+Adopt cut points used in previous studies
+Using the sample median makes it hard to compare studies. 
+This is because the median value is dependent on the sample, and will be different for every study
+Do not perform several analyses and choose that which gives the most convincing result
+
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: 'Multilevel / Mixed Models'
-permalink: /resources/mixed_models/
+title: 'Multilevel (Mixed) Models'
+permalink: /resources/multilevel_models/
 excerpt_separator: <!--more-->
 toc: true
 comments: true
@@ -12,13 +12,12 @@ tags:
 What are multilevel models, when they should be used, and sample size considerations. 
 <!--more-->
 
-# What are Multilevel Models?
-
+# Introduction
 Multilevel models are needed to analyze data that has a hierarchical or clustered structure, such as patients treated by the same clinic, or drug levels in the same patient at multiple times.Multi-level models might also be called, mixed models, mixed-effects models, random-effects models, hierarchical models, or split-plot designs. 
 
  
 
-## When Are Multilevel Models Used?
+# When Are Multilevel Models Used?
 A common assumption of 'standard' statistical methods (e.g. t-tests, ANOVAs, regressions) is that observations (e.g. patients) are independent of each other. This assumption is violated when observations (e.g. patients) have a 'hierarchy', 'clustered', or 'nested' structure (as shown in the figure below) because the observations are correlated. For example, the figure below shows a 'three-level' data structure, whereby patients are nested within clinics, and clinics are nested within regions. Patients treated in the same clinic may be more alike with each other compared to patients seen in other clinics and are therefore positively correlated. Likewise, clinics in the same region may be more alike compared to clinics in different regions.
 
 <br/><img src='/images/posts/mixed_models/MixedModels1.JPG'>  <br/>
@@ -28,6 +27,7 @@ Multilevel data structures also arise in longitudinal studies where multiple obs
 <br/><img src='/images/posts/mixed_models/MixedModels2.JPG'>  <br/>
 
 
+# What are Multilevel Models?
 When working with multilevel data, the existence of data hierarchies must be taken into account in the analysis; this is accomplished by using multilevel models. When data is correlated, using standard statistical methods (e.g. t-tests, ANOVAs, regressions) is not appropriate and will lead to an inappropriate estimates of standard errors, which in turn will lead to errors in statistical inference, such as p-values smaller than they really should be. The magnitude of the bias will be associated with how similar the observations are within a given cluster, this is described by the 'design effect' (explained below). An additional problem with ignoring the multilevel structure of the data is that we may miss important relationships involving each level in the data. For example, by not including information about the hospital  we may miss important variables at the hospital level that help to explain outcomes at the patient level. 
 
 Multilevel modelling can be conducted using R (through the lme4 or nlme packages), SAS (using proc mixed or glimmix), STATA (using the mixed or melogit commands) and SPSS (using the MIXED command). These models are quite complex and consultation with a statistician is strongly recommended.

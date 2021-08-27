@@ -60,7 +60,7 @@ This document follows the recommendations of the Tailored Design Method by D.A. 
 
 -   Convey that others have responded. Knowing that others have completed a survey can encourage people to participate. For example, indicate "we are just waiting on a few last responses to finish the study, and would like to include yours".
 
--   If possible, show the similarity of the survey request to other requests to which the person has responded. People strive to be consistent in their attitudes, beliefs, and actions. For example, when following up with the follow-up survey indicate that the participants' response to the baseline survey was very helpful and much appreciated.  
+-   If possible, show the similarity of the survey request to other requests to which the person has responded. People strive to be consistent in their attitudes, beliefs, and actions. For example, when following up with the follow-up survey indicate that the participants' response to the baseline survey was very helpful and much appreciated.
 
 # Decrease the Cost of Participation
 

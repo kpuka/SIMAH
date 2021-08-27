@@ -21,7 +21,7 @@ $$Risk = \frac{\text{number of people with disease/outome}}{\text{total number o
 
 'Odds' refers to the probability that the event of interest occurs to the probability that it does not. For example, the odds that a single throw of a die will produce a six (for example) are 1 to 5, or 1/5. The odds ratio is used to compare the odds among two or more groups.
 
-$$Odds = \frac{umber of people with disease/outome}{umber of people without disease/outome} $$
+$$Odds = \frac{\text{umber of people with disease/outome}}{\text{umber of people without disease/outome}} $$
 
 
 **Example:**
@@ -43,7 +43,7 @@ Can compare these groups in several ways (outlined below):
 # Risk Difference
 Risk Difference (RD) is the difference between risks:
 
-RD = [risk of group A] - [risk of group B] = $$\frac{141}{561} -  \frac{928}{14,453} = 0.187 $$
+$$ RD = \frac{\text{risk of group A}}{\text{risk of group B}} = \frac{141}{561} -  \frac{928}{14,453} = 0.187 $$
 
 
 **Interpretation:** Can convert into a fraction 18.7% = 187/1,000. Patients in Group A had 187 additional cases of disease per 1000 people, compared to patients in Group B. 
@@ -55,7 +55,7 @@ Need to treat 5.34 persons with treatment received by Group A to prevent 1 case 
 # Relative Risk
 Relative Risk (RR) is the ratio of risks: 
 
-$$RR = \frac{Risk of Group A}{Risk of Group B} = \frac{141/561}{928/14,453} = 3.91 $$
+$$RR = \frac{\text{Risk of Group A}}{\text{Risk of Group B}} = \frac{141/561}{928/14,453} = 3.91 $$
 
 **Interpretation:** The risk of disease is 3.91 times higher in Group A, relative to Group B. 
 
@@ -70,7 +70,7 @@ RR of 1.0 indicates no association. If the 95% Confidence Interval (CI) of the R
 # Odds Ratio
 Odds Ratio (OR) is the ratio of the odds: 
 
-$$ OR = \frac{Odds of Group A}{Odds of Group B} = \frac{141/420}{928/13,525} = 4.89 $$
+$$ OR = \frac{\text{Odds of Group A}}{\text{Odds of Group B}} = \frac{141/420}{928/13,525} = 4.89 $$
 
 **Interpretation**: Similar to RR, but must specify "odds": The *odds* of disease are 4.89 times higher in Group A, relative to Group B. 
 

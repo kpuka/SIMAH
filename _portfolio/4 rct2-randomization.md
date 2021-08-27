@@ -6,6 +6,7 @@ toc: true
 comments: true
 tags:
   - RCT
+  - Study Design
 ---
 
 Review of randomization, its importance, and the different options for randomization. How to generate a randomization list with R is also discussed.
@@ -145,8 +146,6 @@ Stratified randomization was completed centrally through REDCap, maintaining all
 # Related topics
 - [Clinical Trials 1: Study Design](/resources/rct_design/)
 - [Clinical Trials 3: Other Considerations](/resources/rct_other/)
-- [Study Design 1: Case Control](/resources/case_control/)
-- [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
 
 
 

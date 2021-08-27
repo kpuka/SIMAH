@@ -30,10 +30,13 @@ When designing a clinical trial, a detailed study protocol should be created and
 
 Clinical trials involving pharmaceutical products are commonly categorized into four phases:
 
--   *Phase I:* Non-randomized study; test drug in healthy volunteers (15 - 30 volunteers); aim to evaluate the pharmacokinetics/pharmacodynamics of the drug and establish safety and toxicity limits.
--   *Phase II*: Randomized or non-randomized; test drug in patients with the disease (\<100 volunteers); 'proof of principle' stage and aim to evaluate dose-response relationship.
--   *Phase III*: Randomized study; test drug against placebo (100s - 1000s of volunteers). Drug tested in a controlled fashion against a placebo or standard therapy.
--   *Phase IV*: Non-randomized surveillance study; test drug while in the marketplace; important to gather additional safety information from a larger group of patients, over the long-term.
+*Phase I:* Non-randomized study; test drug in healthy volunteers (15 - 30 volunteers); aim to evaluate the pharmacokinetics/pharmacodynamics of the drug and establish safety and toxicity limits.
+
+*Phase II*: Randomized or non-randomized; test drug in patients with the disease (\<100 volunteers); 'proof of principle' stage and aim to evaluate dose-response relationship.
+
+*Phase III*: Randomized study; test drug against placebo (100s - 1000s of volunteers). Drug tested in a controlled fashion against a placebo or standard therapy.
+
+*Phase IV*: Non-randomized surveillance study; test drug while in the marketplace; important to gather additional safety information from a larger group of patients, over the long-term.
 
 
 # Trial Design
@@ -90,9 +93,9 @@ For a review of the methods used to define the non-inferiority margin ($\\Delta\
 # Clustered Trials
 
 ## Why Are Clustered Trials Used
-- Clustered trials may be the best option when investigators want to evaluate an intervention that 1) operates at a group level, 2) manipulates the social or physical environment, 3) when interventions are delivered in groups, 4) cannot be delivered to individuals without 'contamination' (e.g. 'spill-over' effects).  
-  - For example, a trial evaluating patient outcomes following an educational program for clinicians must use a clustered trial design, whereby clinicians (i.e. the cluster) are randomized, as opposed to randomizing patients. This is because of 'spill-over' effects, in that clinicians will utilize the materials learned for all patients; they cannot "use" the materials learned for some patients, and not others. 
-- Due to the challenges outlined below, clustered trials should be avoided unless individually randomized trials are scientifically inferior or practically impossible. 
+Clustered trials may be the best option when investigators want to evaluate an intervention that 1) operates at a group level, 2) manipulates the social or physical environment, 3) when interventions are delivered in groups, 4) cannot be delivered to individuals without 'contamination' (e.g. 'spill-over' effects). For example, a trial evaluating patient outcomes following an educational program for clinicians must use a clustered trial design, whereby clinicians (i.e. the cluster) are randomized, as opposed to randomizing patients. This is because of 'spill-over' effects, in that clinicians will utilize the materials learned for all patients; they cannot "use" the materials learned for some patients, and not others. 
+
+Due to the challenges outlined below, clustered trials should be avoided unless individually randomized trials are scientifically inferior or practically impossible. 
 
 
 ## Statistical Challenges of Clustered Trials

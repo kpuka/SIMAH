@@ -14,56 +14,44 @@ Review of randomization, its importance, and the different options for randomiza
 
 # What Is Randomization and Why Use It?
 
--   Random assignment means that each participant has a known chance, usually an equal chance, of being assigned to a specific group, but the assignment cannot be predicted.
--   Randomization minimizes bias and controls for known and unknown confounding variables. It ensures that patients in each group are similar with respect to all possible characteristics/variables.
--   Assigning patients to a treatment group according to a systematic factor (such as date of birth, terminal digit of the hospital number, or alternatively into the different groups) is not true randomization. Such methods also make it possible to know what treatment a potential patient would receive, and this knowledge may influence the decision to recruit that patient, leading to selection bias.
+Random assignment means that each participant has a known chance, usually an equal chance, of being assigned to a specific group, but the assignment cannot be predicted. Randomization minimizes bias and controls for known and unknown confounding variables. It ensures that patients in each group are similar with respect to all possible characteristics/variables.
+
+Assigning patients to a treatment group according to a systematic factor (such as date of birth, terminal digit of the hospital number, or alternatively into the different groups) is not true randomization. Such methods also make it possible to know what treatment a potential patient would receive, and this knowledge may influence the decision to recruit that patient, leading to selection bias.
 
 
 
 # Allocation Concealment
 
--   Randomization would be completely undermined if a poor procedure is adopted to implement the allocation sequence. Allocation concealment is achieved when the allocation sequence is unknown to those assessing eligibility and assigning participants to the treatment groups, until the moment of assignment. It prevents researchers from influencing which participants are assigned to a given group.
--   Allocation concealment involves not knowing the allocation sequence before random allocation occurs. In contrast, blinding involves not knowing the treatment allocation after random allocation occurs.
--   Central randomization (e.g. having to contact a central location or utilize a computer program such as REDCap) is more convenient and preferred, relative to other methods such as sealed envelopes. Allocation concealment is enforced because no one knows what the next allocation can be and no one can tamper with the system (e.g. cannot check the next envelope to know the next assignment).
+Randomization would be completely undermined if a poor procedure is adopted to implement the allocation sequence. Allocation concealment is achieved when the allocation sequence is unknown to those assessing eligibility and assigning participants to the treatment groups, until the moment of assignment. It prevents researchers from influencing which participants are assigned to a given group.
+
+Allocation concealment involves not knowing the allocation sequence before random allocation occurs. In contrast, blinding involves not knowing the treatment allocation after random allocation occurs.
+
+Central randomization (e.g. having to contact a central location or utilize a computer program such as REDCap) is more convenient and preferred, relative to other methods such as sealed envelopes. Allocation concealment is enforced because no one knows what the next allocation can be and no one can tamper with the system (e.g. cannot check the next envelope to know the next assignment).
 
 
 
 # Types of Randomization
 
 ## Simple randomization
-
-- Patients are assigned to each group at random for every assignment. 
-- This is akin to a coin flip for each patient assignment, and consequently you may not end up with an equal number of patients in each group, especially when the sample size is small. 
-- This method is not recommended for studies with a small sample size (e.g. <100 patients).
-
+Patients are assigned to each group at random for every assignment. This is akin to a coin flip for each patient assignment, and consequently you may not end up with an equal number of patients in each group, especially when the sample size is small. This method is not recommended for studies with a small sample size (e.g. <100 patients).
 
 
 ## Block randomization
+Ensures that a similar number of patients are assigned to each group at any time during the study. Patients subgroups (called 'blocks') are created, then patients within each block are randomized such that an equal number of patients are assigned to each treatment group within each block. For example, when there are two treatment groups (A and B) and the block size is 4, if the first person is randomized to A, and the second to A, then the 3rd and 4th patient will be assigned to group B. This ensures that similar number of patients are assigned to each treatment group, while ensuring that each patient has an equal probability of being allocated to each group. 
 
-- Ensures that a similar number of patients are assigned to each group at any time during the study. 
-- Having similarly sized groups minimizes the standard error of the treatment effect and therefore maximizes the statistical power. 
-- Patients subgroups (called 'blocks') are created, then patients within each block are randomized such that an equal number of patients are assigned to each treatment group within each block. 
-- For example, when there are two treatment groups (A and B) and the block size is 4, if the first person is randomized to A, and the second to A, then the 3rd and 4th patient will be assigned to group B. This ensures that similar number of patients are assigned to each treatment group, while ensuring that each patient has an equal probability of being allocated to each group. 
-- The disadvantage of blocked randomization is that it may be possible to guess some allocations, thereby breaking allocation concealment. 
-- However, allocation concealment is maintained if the block size is set to vary at random; e.g. using a mixture of blocks of size 2, 4, or 6. This may be your ideal choice; blocked randomization with randomly permuted block sizes.
-
+Having similarly sized groups minimizes the standard error of the treatment effect and therefore maximizes the statistical power. The disadvantage of blocked randomization is that it may be possible to guess some allocations, thereby breaking allocation concealment. However, allocation concealment is maintained if the block size is set to vary at random; e.g. using a mixture of blocks of size 2, 4, or 6. This may be your ideal choice; blocked randomization with randomly permuted block sizes.
 
 
 ## Stratified randomization
+Is used when there is a key variable measurable at the time of randomization that is considered to be strongly associated with the primary outcome (e.g. study site). It ensures that the treatment groups are balanced with respect to that variable (e.g. study site). 
 
-- Is used when there is a key variable measurable at the time of randomization that is considered to be strongly associated with the primary outcome (e.g. study site). It ensures that the treatment groups are balanced with respect to that variable (e.g. study site). 
-- A separate randomization list (created through simple or blocked randomization) is created for each stratum (e.g. for each category of the variable; e.g. for each study site). The randomization list specifies the sequence of treatment allocation, e.g. 1st patient will receive treatment, 2nd will receive treatment, 3rd will receive placebo, etc. 
-- When stratifying by $\geq$2 variables, the number of randomization lists is the product of the number of categories. E.g. to stratify by site (4 sites) and sex (2 categories), the number of randomization lists should be 8 (i.e., 4 x 2); 1st list for site 1, males; 2nd list for site 1, females; 3rd list for site 2, males; etc.
+A separate randomization list (created through simple or blocked randomization) is created for each stratum (e.g. for each category of the variable; e.g. for each study site). The randomization list specifies the sequence of treatment allocation, e.g. 1st patient will receive treatment, 2nd will receive treatment, 3rd will receive placebo, etc. When stratifying by $\geq$2 variables, the number of randomization lists is the product of the number of categories. E.g. to stratify by site (4 sites) and sex (2 categories), the number of randomization lists should be 8 (i.e., 4 x 2); 1st list for site 1, males; 2nd list for site 1, females; 3rd list for site 2, males; etc.
 
 
 # Randomizing Participants for your Study
+It is essential that patients are randomized to the treatment group after all inclusion/exclusion criteria have been checked, and after the participant consents to participate in the study.
 
--   It is essential that patients are randomized to the treatment group after all inclusion/exclusion criteria have been checked, and after the participant consents to participate in the study.
--   Determine the type of randomization, and create the randomization list (see examples below)
--   You should generate a randomization list that is longer than the total number of participants needed in case errors in recruitment occur and additional participants will need to be recruited (e.g. attrition).
--   Best way to utilize this list is through a central system that would indicate the next allocation once a participant is recruited. Alternatively, can use sealed envelopes indicating the treatment allocation.
--   REDCap, available free through many institutions, may be ideal for data management & central randomization
-
+Determine the type of randomization, and create the randomization list (see examples below). You should generate a randomization list that is longer than the total number of participants needed in case errors in recruitment occur and additional participants will need to be recruited (e.g. attrition). The best way to utilize this list is through a central system that would indicate the next allocation once a participant is recruited. Alternatively, can use sealed envelopes indicating the treatment allocation. REDCap, available free through many institutions, may be ideal for data management & central randomization.
 
 
 # Example 1: Simple and Block Randomization 
@@ -167,6 +155,5 @@ Stratified randomization was completed centrally through REDCap, maintaining all
 Altman DG, Bland JM. Treatment allocation in controlled trials: why randomise? BMJ. 1999; 318:1209. <a href="https://doi.org/10.1136/bmj.318.7192.1209" target="_blank">Link</a>
 
 Altman DG, Schulz KF. Concealing treatment allocation in randomised trials. BMJ. 2001; 323:446-7. <a href="https://dx.doi.org/10.1136%2Fbmj.323.7310.446" target="_blank">Link</a>
-
 
 Broglio K. Randomization in clinical trials: permuted blocks and stratification. JAMA. 2018;319:2223-4. <a href="https://doi.org/10.1001/jama.2018.6360" target="_blank">Link</a>

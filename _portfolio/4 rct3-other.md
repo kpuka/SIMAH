@@ -41,8 +41,6 @@ Poor treatment adherence may result in lower estimates of treatment efficacy and
 
 Both these methods may lead to clinically misleading results. Studies following modified ITT are more likely to find significant results than those following a strict ITT.
 
- 
-
 ## ITT Caveats to Consider 
 
 For [Non-inferiority trials](/resources/rct1_study_design/) both ITT and per-protocol analyses should be conducted and reported. Non-inferiority trials are designed to demonstrate that an experimental treatment is no worse than an established one. Patients randomized to the established therapy may not adhere to treatment, and fail treatment due to non-adherence. In this case, established treatment appears less efficacious, and new treatment may incorrectly appear non-inferior to established treatment.

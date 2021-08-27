@@ -9,15 +9,13 @@ tags:
 ---
 
 
-Review of the concept, and strategies to address, confounding. 
-A confounding variable distorts the estimated effect of another variable on the outcome. Confounding may be addressed at the design and/or analysis stage of a study, and is frequently addressed using multiple regression. It is inappropriate to rely on statistical significance to identify confounding. 
-
+Review of the concept, and strategies to address, confounding. A confounding variable distorts the estimated effect of another variable on the outcome.
 <!--more-->
 
 # Introduction
-The observed relationship of a primary variable of interested (referred to as the "exposure"; e.g. treatment group), and the outcome may be biased because of random error/chance or systematic errors
+The observed relationship of a primary variable of interested (referred to as the "exposure"; e.g. treatment group), and the outcome may be biased because of random error/chance or systematic errors.
 
-Systematic error 
+Systematic error includes:
 - Selection bias - bias from the procedures used to select people into the study or retain them in the analysis
 - Information bias - bias from a flaw in measuring exposure, outcome, or covariates 
 - Confounding - discussed below
@@ -26,7 +24,7 @@ Systematic error
 # What is Confounding?
 A confounding variable (i.e. confounder) is a variable that distorts the observed relationship between the exposure and outcome. A confounder is associated with the exposure, and causally associated with the outcome. For example, if smoking effects the outcome and, if smoking is more prevalent in one group, the estimated effect of group on outcome will be biased.
 
-<br/><img src='/images/posts/confounder/confounder.JPG'><br/>
+<br/><img src='/images/posts/confounding/confounding.JPG'><br/>
 
 There is nothing intrinsic about confounders - whether a variable is a confounder depends on the other variables in the model, the outcome of interest, and the aim of the study/analysis. To identify confounders, researchers must rely on theoretical knowledge of the subject area and/or data driven methods (see 'Multivariable adjustment' below). 
 

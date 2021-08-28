@@ -64,5 +64,10 @@ This document follows the recommendations of the Tailored Design Method by D.A. 
 -   Group related questions together, and order questions about events in the order the events occurred. This is consistent with normal conversation and makes it easier for respondents to answer.
 
 
+# Related topics
+- [Survey Design 1: Invitation and Follow-up](/resources/survey1_invitation/)
+- [Survey Design 3: Optimizing Visual Design Elements](/resources/survey3_visual/)
+
+
 # References and Further Readings
 Dillman, D. A., Smyth, J. D., & Christian, L. M. (2014). Internet, phone, mail, and mixed-mode surveys: the tailored design method. John Wiley & Sons.

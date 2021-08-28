@@ -78,13 +78,13 @@ ui <- fluidPage(
             tabPanelBody("linear.binary", textOutput("linear.binary_desc")),
             tabPanelBody("linear.continuous", textOutput("linear.cont_desc")),
             tabPanelBody("logistic.binary", textOutput("logistic.binary_desc")),
-            tabPanelBody("logistic.continuous", textOutput("logistic.continuous_desc")),
+            tabPanelBody("logistic.continuous", textOutput("logistic.cont_desc")),
             
             tabPanelBody("cox.binary", textOutput("cox.binary_desc")),
-            tabPanelBody("cox.continuous", textOutput("cox.continuous_desc")),
+            tabPanelBody("cox.continuous", textOutput("cox.cont_desc")),
             
             tabPanelBody("poisson.binary", textOutput("poisson.binary_desc")),
-            tabPanelBody("poisson.continuous", textOutput("poisson.continuous_desc"))
+            tabPanelBody("poisson.continuous", textOutput("poisson.cont_desc"))
           )  
         )
       )

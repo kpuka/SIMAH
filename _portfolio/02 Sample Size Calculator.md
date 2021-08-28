@@ -42,7 +42,7 @@ Estimate the sample size for a randomized trial with equal allocation to treatme
 
 **Example 2: Time-to-event Outcome:**
 
-Estimate the sample size providing 80% power in a two-sided test with $\alpha$ of 5% to detect an effect of bilirubin levels on survival. We hypothesize that the hazard ratio per mg/dL increase in bilirubin will be 1.15, adjusting for the effects of hepatomegaly, edema, and spiders. Past studies suggest an estimated 15% cumulative mortality over the study period, the standard deviation of bilirubin is 4.5 mg/dL, and the other variables adjusted for in the model are estimated to account for 0.20 of the variance in bilirubin. Lastly, assume that 10% of participants will be lost to follow-up. 
+Estimate the sample size providing 80% power in a two-sided test with $\alpha$ of 5% to detect an effect of bilirubin levels on survival. We hypothesize that the hazard ratio per mg/dL increase in bilirubin will be 1.15, adjusting for the effects of hepatomegaly, edema, and spiders. Past studies suggest an estimated 15% cumulative mortality over the study period, the standard deviation of bilirubin is 4.5 mg/dL, and the other variables adjusted for in the model are estimated to account for 20% of the variance in bilirubin. Lastly, assume that 10% of participants will be lost to follow-up. 
 
 - *Type of outcome variable:* Time-to-event
 - *Type of independent variable:* Continuous

@@ -61,6 +61,13 @@ This document follows the recommendations of the Tailored Design Method by D.A. 
     -   Ask for this data later in the survey to allow time for trust and rapport to develop.
     -   Provide a simple explanation for why responses to these questions are important. For example, "the next two questions will allow us to compare your health to that of other people in the study who are similar to you".
 
+
+# Related topics
+- [Survey Design 2: Writting Effective Questions](/resources/survey2_questions/)
+- [Survey Design 3: Optimizing Visual Design Elements](/resources/survey3_visual/)
+
+
+
 # References and Further Readings
 
 Dillman, D. A., Smyth, J. D., & Christian, L. M. (2014). Internet, phone, mail, and mixed-mode surveys: the tailored design method. John Wiley & Sons.

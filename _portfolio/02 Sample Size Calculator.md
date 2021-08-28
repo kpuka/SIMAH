@@ -22,7 +22,8 @@ The sample size calculator is based on the formula described <a href="https://do
 # Examples 
 The examples below are based on the examples described by <a href="https://doi.org/10.1007/978-1-4614-1353-0" target="_blank">Vittinghoff et al. (2012) </a>
 
-**Example 1: Continuous Outcome**
+**Example 1: Continuous Outcome:**
+
 Estimate the sample size for a randomized trial with equal allocation to treatment and placebo to assess the effect of a new lipid-lowering agent on LDL levels. From pilot data, the standard deviation for LDL is expected to be 38 mg/dL, and it is hypothesized that the treatment will lower average LDL levels about 40 mg/dL. Because this is a clinical trial, it is unlikely that we will need to adjust for covariates. The sample size must provide 80% power in a two-sided test with $\alpha$ of 5%. 
 
 - *Type of outcome variable:* Continuous
@@ -36,6 +37,24 @@ Estimate the sample size for a randomized trial with equal allocation to treatme
 - *Anticipated attrition rate:* 0
 
 **Total sample size required: 28**
+
+
+
+**Example 2: Time-to-event Outcome:**
+
+Estimate the sample size providing 80% power in a two-sided test with $\alpha$ of 5% to detect an effect of bilirubin levels on survival. We hypothesize that the hazard ratio per mg/dL increase in bilirubin will be 1.15, adjusting for the effects of hepatomegaly, edema, and spiders. Past studies suggest an estimated 15% cumulative mortality over the study period, the standard deviation of bilirubin is 4.5 mg/dL, and the other variables adjusted for in the model are estimated to account for 20% of the variance in bilirubin. Lastly, assume that 10% of participants will be lost to follow-up. 
+
+- *Type of outcome variable:* Time-to-event
+- *Type of independent variable:* Continuous
+- *Minimum detectable hazard ratio:* 1.15 
+- *Proportion of uncensored observation:* 0.15
+- *Standard deviation of the outcome:* 4.5
+- *Multiple correction:* 0.20
+- *False positive rate:* 0.05
+- *Statistical power:* 0.80
+- *Anticipated attrition rate:* 0.10
+
+**Total sample size required: 184**
 
 
  

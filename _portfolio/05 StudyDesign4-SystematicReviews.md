@@ -10,6 +10,9 @@ tags:
 
 Review of systematic reviews and the steps involved in conducting your own review. A step-by-step example of the search strategy is also presented.<!--more-->
 
+Importantly, the guide below is brief and reviewing the [Cochrane Handbook](http://www.handbook.cochrane.org/) and working with a librarian and statistician is highly advisable. 
+
+
 # What is it? What do I need to know before I start?
 
 -   Systematic reviews address a specific research question by identifying and then combining all available evidence using explicit, systematic methods that are specified *a priori* to minimize bias

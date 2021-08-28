@@ -30,7 +30,7 @@ Review of systematic reviews and the steps involved in conducting your own revie
 
 ## 2. Search for articles
 -   Seeking the help of a research librarian is highly recommended to understand which databases may be  relevant and how to access them, how to identify the proper keywords for the search, and other practical issues
--   The search should be based on the main concepts being examined in the review. That is, use search terms relating the to 1) health condition of interest, 2) intervention of interest, 3) study design (e.g. randomized trial); avoid using too many different concepts  
+-   The search should be based on the main concepts being examined in the review. That is, use search terms relating the to 1) health condition of interest, 2) intervention of interest, 3) study design (e.g. randomized trial); avoid using too many different concepts
 -   Should aim for high sensitivity; i.e. extensive search so that all eligible studies are identified and included. It is however, necessary to strike a balance between comprehensiveness and relevance
 -   Multiple databases should be used -- e.g. MEDLINE, EMBASE, CINAHL, Web of Science, Scopus. The appropriate databases will depend on your review (e.g. PsychINFO for mental health topics).
     -   Clinical Trials registers and trials results registers are an increasingly important source of information to ensure that publication bias is minimized (e.g. to minimize the "file-drawer problem").

@@ -15,7 +15,7 @@ Sample size calculations form an important part of the study design, but the for
 The sample size calculator is based on the formula described <a href="https://doi.org/10.1007/978-1-4614-1353-0" target="_blank">Vittinghoff et al. (2012) </a>
 
 # Sample Size Calculator
-<iframe height="950" width="100%" frameborder="no" src="https://kpuka.shinyapps.io/samplesize/"> </iframe>
+<iframe height="1000" width="100%" frameborder="no" src="https://kpuka.shinyapps.io/samplesize/"> </iframe>
 
 
 

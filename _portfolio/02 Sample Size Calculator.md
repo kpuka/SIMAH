@@ -60,7 +60,7 @@ Estimate the sample size providing 80% power in a two-sided test with $\alpha$ o
 
 
  
- **Example 3: Count data as the Outcome:**
+ **Example 3: Count data Outcome:**
 
 Estimate the sample size for a randomized trial to assess the effectiveness of a behavioral intervention for reducing syringe sharing among drug users. Equal numbers will be allocated to the intervention and wait-list control. Because of randomization, we can assume that the multiple correction is 0 (no variables are associated with the group assignment). From pilit data, we estimate that the an average of 7.5 syringes are shared among drug users, and the ratio of variance to the mean of the outcome is 30. We hypothesize that the intervention will reduce the frequency of sharing by 50% (i.e., rate rate = 0.50). In this case we require power of 90% in a two-sided test with $\alpha$ of 5%, and we estimate that 15% of participants will be lost to follow-up. 
  

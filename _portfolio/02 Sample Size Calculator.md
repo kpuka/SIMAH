@@ -47,7 +47,7 @@ Estimate the sample size for a randomized trial with equal allocation to treatme
 Estimate the sample size for a observational study comparing the incidence of an adverse postsurgical outcome from a new technique. From past studies, we expect that the incidence is 15% and 5% for the two techniques. We also expect to have an equal proportion of patients in both groups, 10% attrition, and we will not be adjusting for any other variables (i.e., multiple correction = 0). Lastly, we asusme 80% power in a two-sided test with $\alpha$ of 5%. 
 
 To solve, we must first convert the proportions into an [odds ratio (OR)](/resources/rd_rr_od/):
-$$ OR = \frac{\text(Odds in new group)}{\text(Odds in old group)} = \frac{0.05/0.95}{0.15/0.85} = 0.30 $$
+$$ OR = \frac{\text{Odds in new group}}{\text{Odds in old group}} = \frac{0.05/0.95}{0.15/0.85} = 0.30 $$
 
 Additionally, given that two groups will be the same size, the marginal prevalence of adverse events is 7.5%.
 

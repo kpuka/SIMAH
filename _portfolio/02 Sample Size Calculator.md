@@ -22,7 +22,7 @@ The sample size calculator is based on the formula described <a href="https://do
 # Examples 
 The examples below are based on the examples described by <a href="https://doi.org/10.1007/978-1-4614-1353-0" target="_blank">Vittinghoff et al. (2012) </a>
 
-## Example 1: Continuous Outcome:
+## Example 1: Continuous Outcome
 
 Estimate the sample size for a randomized trial with equal allocation to treatment and placebo to assess the effect of a new lipid-lowering agent on LDL levels. From pilot data, the standard deviation for LDL is expected to be 38 mg/dL, and it is hypothesized that the treatment will lower average LDL levels about 40 mg/dL. Because this is a clinical trial, it is unlikely that we will need to adjust for covariates. The sample size must provide 80% power in a two-sided test with $\alpha$ of 5%. 
 
@@ -40,7 +40,7 @@ Estimate the sample size for a randomized trial with equal allocation to treatme
 
 
 
-## Example 2: Time-to-event Outcome:
+## Example 2: Time-to-event Outcome
 
 Estimate the sample size providing 80% power in a two-sided test with $\alpha$ of 5% to detect an effect of bilirubin levels on survival. We hypothesize that the hazard ratio per mg/dL increase in bilirubin will be 1.15, adjusting for the effects of hepatomegaly, edema, and spiders. Past studies suggest an estimated 15% cumulative mortality over the study period, the standard deviation of bilirubin is 4.5 mg/dL, and the other variables adjusted for in the model are estimated to account for 20% of the variance in bilirubin*. Lastly, assume that 10% of participants will be lost to follow-up. 
 
@@ -60,7 +60,7 @@ Estimate the sample size providing 80% power in a two-sided test with $\alpha$ o
 
 
  
-## Example 3: Count data Outcome:
+## Example 3: Count data Outcome
 
 Estimate the sample size for a randomized trial to assess the effectiveness of a behavioral intervention for reducing syringe sharing among drug users. Equal numbers will be allocated to the intervention and wait-list control. Because of randomization, we can assume that the multiple correction is 0 (no variables are associated with the group assignment). From pilit data, we estimate that the an average of 7.5 syringes are shared among drug users, and the ratio of variance to the mean of the outcome is 30. We hypothesize that the intervention will reduce the frequency of sharing by 50% (i.e., rate rate = 0.50). In this case we require power of 90% in a two-sided test with $\alpha$ of 5%, and we estimate that 15% of participants will be lost to follow-up. 
  

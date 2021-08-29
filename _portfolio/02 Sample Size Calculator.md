@@ -42,7 +42,9 @@ Estimate the sample size for a randomized trial with equal allocation to treatme
 
 **Example 2: Time-to-event Outcome:**
 
-Estimate the sample size providing 80% power in a two-sided test with $\alpha$ of 5% to detect an effect of bilirubin levels on survival. We hypothesize that the hazard ratio per mg/dL increase in bilirubin will be 1.15, adjusting for the effects of hepatomegaly, edema, and spiders. Past studies suggest an estimated 15% cumulative mortality over the study period, the standard deviation of bilirubin is 4.5 mg/dL, and the other variables adjusted for in the model are estimated to account for 20% of the variance in bilirubin. Lastly, assume that 10% of participants will be lost to follow-up. 
+Estimate the sample size providing 80% power in a two-sided test with $\alpha$ of 5% to detect an effect of bilirubin levels on survival. We hypothesize that the hazard ratio per mg/dL increase in bilirubin will be 1.15, adjusting for the effects of hepatomegaly, edema, and spiders. Past studies suggest an estimated 15% cumulative mortality over the study period, the standard deviation of bilirubin is 4.5 mg/dL, and the other variables adjusted for in the model are estimated to account for 20% of the variance in bilirubin*. Lastly, assume that 10% of participants will be lost to follow-up. 
+
+* Note: to estimate multicorrection value, consider conducting a regression where the outcome is your indepdent variable of interest and the predictors are the remaining variables to be controlled for. What is the R<sup>2</sup> of this regression? That should be what is entered in this field. As this field becomes closer to 1, more samples will be required.
 
 - *Type of outcome variable:* Time-to-event
 - *Type of independent variable:* Continuous
@@ -57,4 +59,24 @@ Estimate the sample size providing 80% power in a two-sided test with $\alpha$ o
 **Total sample size required: 184**
 
 
+ 
+ **Example 3: Count data as the Outcome:**
+
+Estimate the sample size for a randomized trial to assess the effectiveness of a behavioral intervention for reducing syringe sharing among drug users. Equal numbers will be allocated to the intervention and wait-list control. Because of randomization, we can assume that the multiple correction is 0 (no variables are associated with the group assignment). From pilit data, we estimate that the an average of 7.5 syringes are shared among drug users, and the ratio of variance to the mean of the outcome is 30. We hypothesize that the intervention will reduce the frequency of sharing by 50% (i.e., rate rate = 0.50). In this case we require power of 90% in a two-sided test with $\alpha$ of 5%, and we estimate that 15% of participants will be lost to follow-up. 
+ 
+- *Type of outcome variable:* Count data
+- *Type of independent variable:* Binary
+- *Minimum detectable rate ratio:* 0.50
+- *Marginal mean of the outcome:* 7.5
+- *Dispersion*: 30
+- *Proportion of participants in group of interest:* 0.5
+- *Multiple correction:* 0.0
+- *False positive rate:* 0.05
+- *Statistical power:* 0.9
+- *Anticipated attrition rate:* 0.15
+
+**Total sample size required: 412**
+ 
+ 
+ 
  

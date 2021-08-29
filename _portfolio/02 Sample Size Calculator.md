@@ -44,8 +44,6 @@ Estimate the sample size for a randomized trial with equal allocation to treatme
 
 Estimate the sample size providing 80% power in a two-sided test with $\alpha$ of 5% to detect an effect of bilirubin levels on survival. We hypothesize that the hazard ratio per mg/dL increase in bilirubin will be 1.15, adjusting for the effects of hepatomegaly, edema, and spiders. Past studies suggest an estimated 15% cumulative mortality over the study period, the standard deviation of bilirubin is 4.5 mg/dL, and the other variables adjusted for in the model are estimated to account for 20% of the variance in bilirubin*. Lastly, assume that 10% of participants will be lost to follow-up. 
 
-* Note: to estimate multicorrection value, consider conducting a regression where the outcome is your indepdent variable of interest and the predictors are the remaining variables to be controlled for. What is the R<sup>2</sup> of this regression? That should be what is entered in this field. As this field becomes closer to 1, more samples will be required.
-
 - *Type of outcome variable:* Time-to-event
 - *Type of independent variable:* Continuous
 - *Minimum detectable hazard ratio:* 1.15 

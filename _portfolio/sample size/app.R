@@ -29,6 +29,7 @@ parameter_reg <- tabsetPanel(
   
   tabPanel("poisson",
     numericInput("RR", "Minimum detectable rate ratio", value=NULL, min=0.01, max=NA, step=0.1) %>% tipify ("The smallest incidence rate ratio you want to be able to detect 1) between the two groups (if the indepedent variable is binary) or 2) per one-unit increase in the indepdent variable (if the independent variable is continuous)? Minimum: 0.01"),
+    numericInput("mean", "Marginal mean of the outcome", value=NULL, min=0.01, max=NA, step=0.01) %>% tipify ("what is the expected mean of the count outcome among all participants?"),
     numericInput("dispr", "Dispersion", value=NULL, min=0.01, max=NA, step=0.01) %>% tipify ("How many times larger is the variance of the outcome compared to the mean of the outcome? Minimum: 0.01")))
 
 
@@ -118,7 +119,7 @@ server <- function(input, output, session) {
             linear = round(((((qnorm(1-input$alpha/2) + qnorm(input$power))^2)*(input$sd_out)^2)/((((input$b*sd_pred2())^2)*(1-(input$corr)))))/(1-input$attrition),0),
             logistic = round((((qnorm(1-input$alpha/2) + qnorm(input$power))^2) / ((((log(input$OR))*sd_pred2())^2)*(input$prob_out*(1-input$prob_out))*(1-input$corr)))/(1-input$attrition),0),
             cox = round((((qnorm(1-input$alpha/2) + qnorm(input$power))^2) / ((((log(input$HR))*sd_pred2())^2)*(input$prob_out2)*(1-input$corr)))/(1-input$attrition),0),
-            poisson = round((((qnorm(1-input$alpha/2) + qnorm(input$power))^2) / ((((log(input$RR))*sd_pred2())^2)*(input$dispr)*(1-input$corr)))/(1-input$attrition),0)
+            poisson = round(((((qnorm(1-input$alpha/2) + qnorm(input$power))^2) * input$dispr) / ((((log(input$RR))*sd_pred2())^2)*(input$mean)*(1-input$corr)))/(1-input$attrition),0)
           )
         })
   

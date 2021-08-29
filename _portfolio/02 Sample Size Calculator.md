@@ -55,7 +55,7 @@ Additionally, given that two groups will be the same size, the marginal prevalen
 - *Type of independent variable:* Binary
 - *Minimum detectable odds ratio:* 0.30 
 - *Marginal probability of outcome:* 0.075
-- Proportion of participants in group of interest:* 0.5
+- *Proportion of participants in group of interest:* 0.5
 - *Multiple correction:* 0.0
 - *False positive rate:* 0.05
 - *Statistical power:* 0.80

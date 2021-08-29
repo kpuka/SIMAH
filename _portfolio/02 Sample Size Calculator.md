@@ -49,19 +49,19 @@ Estimate the sample size for a observational study comparing the incidence of an
 To solve, we must first convert the proportions into an [odds ratio (OR)](/resources/rd_rr_od/):
 $$ OR = \frac{\text{Odds in new group}}{\text{Odds in old group}} = \frac{0.05/0.95}{0.15/0.85} = 0.30 $$
 
-Additionally, given that two groups will be the same size, the marginal prevalence of adverse events is 7.5%.
+Additionally, given that two groups will be the same size, the marginal prevalence of adverse events is 10%.
 
 - *Type of outcome variable:* Binary
 - *Type of independent variable:* Binary
 - *Minimum detectable odds ratio:* 0.30 
-- *Marginal probability of outcome:* 0.075
+- *Marginal probability of outcome:* 0.10
 - *Proportion of participants in group of interest:* 0.5
 - *Multiple correction:* 0.0
 - *False positive rate:* 0.05
 - *Statistical power:* 0.80
 - *Anticipated attrition rate:* 0.10
 
-**Total sample size required: 312**
+**Total sample size required: 267**
 
 
 

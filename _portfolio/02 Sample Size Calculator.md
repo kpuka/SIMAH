@@ -40,7 +40,33 @@ Estimate the sample size for a randomized trial with equal allocation to treatme
 
 
 
-## Example 2: Time-to-event Outcome
+
+
+## Example 2: Binary Outcome
+
+Estimate the sample size for a observational study comparing the incidence of an adverse postsurgical outcome from a new technique. From past studies, we expect that the incidence is 15% and 5% for the two techniques. We also expect to have an equal proportion of patients in both groups, 10% attrition, and we will not be adjusting for any other variables (i.e., multiple correction = 0). Lastly, we asusme 80% power in a two-sided test with $\alpha$ of 5%. 
+
+To solve, we must first convert the proportions into an [odds ratio (OR)](/resources/rd_rr_od/):
+$$ OR = \frac{\text(Odds in new group)}{\text(Odds in old group)} = \frac{0.05/0.95}{0.15/0.85} = 0.30 $$
+Additionally, given that two groups will be the same size, the marginal prevalence of adverse events is 7.5%.
+
+- *Type of outcome variable:* Binary
+- *Type of independent variable:* Binary
+- *Minimum detectable odds ratio:* 0.30 
+- *Marginal probability of outcome:* 0.075
+- Proportion of participants in group of interest:* 0.5
+- *Multiple correction:* 0.0
+- *False positive rate:* 0.05
+- *Statistical power:* 0.80
+- *Anticipated attrition rate:* 0.10
+
+**Total sample size required: 312**
+
+
+
+
+
+## Example 3: Time-to-event Outcome
 
 Estimate the sample size providing 80% power in a two-sided test with $\alpha$ of 5% to detect an effect of bilirubin levels on survival. We hypothesize that the hazard ratio per mg/dL increase in bilirubin will be 1.15, adjusting for the effects of hepatomegaly, edema, and spiders. Past studies suggest an estimated 15% cumulative mortality over the study period, the standard deviation of bilirubin is 4.5 mg/dL, and the other variables adjusted for in the model are estimated to account for 20% of the variance in bilirubin*. Lastly, assume that 10% of participants will be lost to follow-up. 
 
@@ -58,7 +84,7 @@ Estimate the sample size providing 80% power in a two-sided test with $\alpha$ o
 
 
  
-## Example 3: Count data Outcome
+## Example 4: Count data as Outcome
 
 Estimate the sample size for a randomized trial to assess the effectiveness of a behavioral intervention for reducing syringe sharing among drug users. Equal numbers will be allocated to the intervention and wait-list control. Because of randomization, we can assume that the multiple correction is 0 (no variables are associated with the group assignment). From pilit data, we estimate that the an average of 7.5 syringes are shared among drug users, and the ratio of variance to the mean of the outcome is 30. We hypothesize that the intervention will reduce the frequency of sharing by 50% (i.e., rate rate = 0.50). In this case we require power of 90% in a two-sided test with $\alpha$ of 5%, and we estimate that 15% of participants will be lost to follow-up. 
  

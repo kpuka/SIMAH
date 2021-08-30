@@ -37,7 +37,7 @@ The value of β<sub>0</sub> and β<sub>1</sub> are calculated and of main intere
 
 When there are two predictors (X<sub>1</sub> and X<sub>2</sub>), the regression equation becomes:
 
-$$ Y = β<sub>0</sub> + (β<sub>1</sub>)(X<sub>1</sub>) + (β<sub>2</sub>)(X<sub>2</sub>) $$
+$$ Y = β_0 + (β_1)(X_1) + (β_2)(X_2) $$
 
 
 

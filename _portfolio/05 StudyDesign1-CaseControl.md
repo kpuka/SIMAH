@@ -95,7 +95,7 @@ The general process involved in creating a case-controlled study, and important 
 # Related topics
 -   [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
 -   [Study Design 3: Pilot Studies](/resources/pilot-studies/)
--   [Study Design 4: Systematic Reviews](/resources/pilot-studies/)
+-   [Study Design 4: Systematic Reviews](/resources/systematic-reviews/)
 
 
 # References and Further Readings

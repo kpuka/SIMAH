@@ -66,4 +66,30 @@ Additionally, you should avoid including covariates that are highly correlated i
 Note that there are no assumptions about the distribution of the covariates (X). 
 
 
+# Categorical Predictors 
+The interpretations discussed above expand to binary covariates, (e.g., variables with 2 categories, such as male vs. female). A linear regression with one binary covariate is equivalent to a t-test. If the variable is coded with a 0 and 1 (e.g. 0 = female, 1 = male), then: 
+β<sub>0</sub> = estimate of Y when X = 0; i.e. the mean of the group coded 0. In our example, if β<sub>0</sub> = 10.0, the mean score of females is 10.0.
+
+β<sub>1</sub> = estimated change of Y when there is a 1 unit increase in X; i.e. the difference in the mean outcome of the two groups. In our example, if β<sub>1</sub>  = 5.0, then mean score of males is 5.0 points higher than females. Since mean score of females is 10.0, the mean score of males is 15.0. 
+
+If the predictor has more than 2 categories, one of the categories is set as the ‘reference’ category, and other categories are compared against it, similar to above. The reference group is usually the largest group or most clinically relevant.
+
+# Selection of Variables to Enter in the Model
+- A larger sample size is required when multiple predictors are added to the model
+- **Prior knowledge from the scientific literature is the most important rationale**. Which variables are known to affect the outcome you are studying?
+- Do not remove variables that just because they are not significant (p >.05). A p>.05 is not a sign that the variables do nothing, it just means that the effects of those variables could not be detected from the sample. Leaving in not-significant variables ensures that your confidence intervals and p-values have the correct interpretation, and they are the most faithful estimates you can make
+- Avoid including variables which are largely homogenous between participants. For example, if you are studying 100 patients, and only 3 of them smoke, the effects of smoking may not be estimated very well due to the small sample of those participants
+- Automated variable selection methods (backward/forward selection) provide biased results and should be avoided. 
+
+# Comparing and Centering Regression Coefficients
+In general, it is not possible to compare regression coefficients directly. This is because they describe the effects of a **one-unit** change in a variable (X), therefore, **the magnitude of the regression coefficient is dependent on the units of the covariate.** 
+
+To compare regression coefficients, they must be on the same scale. If the variables are in different scales, standardized regression coefficients (which range from -1 to +1) can be calculated/used. You can also express the effect of a change in one unit of predictor X<sub>2</sub> as the number of units of predictor X<sub>1</sub> giving the same effect – this is simply the ratio of the two regression coefficients:    β<sub>2</sub> / β<sub>1</sub>. For example, a 'one hour of physical activity per week has the same effect as a difference of 2 years of age'. 
+
+# Centering Covariates
+β<sub>0</sub> is the value of Y when all predictors equal zero; this value may not be meaningful (e.g. estimated running speed when blood pressure is equal to 0 is not a meaningful number). In such cases, you can redefine the 0 point to make β<sub>0</sub> meaningful, if that is of interest to you. Can do so by ‘centering’ the covariate(s); that is, subtract a constant from every value of a variable. If that constant is the sample mean, the new variable will have a mean of 0. The intercept (β<sub>0</sub>) can be interpreted as the estimated Y for the ‘average participant’. Aadding or subtracting a constant from covariates (X<sub>1</sub>, X<sub>2</sub>, etc.) will change the value of β<sub>0</sub> but not the other regression coefficients (β<sub>1</sub>, β<sub>2</sub> , etc.). If variables are centered, this should be made clear in the publication.
+
+# References and Further Readings
+Werner V. Regression models as a tool in medical research. NY: Taylor & Francis Inc. 2012.
+
 

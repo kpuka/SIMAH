@@ -52,5 +52,5 @@ $$ Y = β_0 + (β_1)(X_1) + (β_2)(X_2) $$
 
 This model can be expanded to include many predictors: 
 
-$$ Y = β<sub>0</sub> + (β<sub>1</sub>)(X<sub>1</sub>) + (β<sub>2</sub>)(X<sub>2</sub>) + (β<sub>3</sub>)(X<sub>3</sub>) +... + (β<sub>n</sub>)(X<sub>n</sub>)$$
+$$ Y = β_0 + (β_1)(X_1) + (β_2)(X_2) + (β_3)(X_3) +... + (β_n)(X_n)$$
 

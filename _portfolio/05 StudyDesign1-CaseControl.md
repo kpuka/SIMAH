@@ -13,27 +13,17 @@ Review of case-control study designs, and methodological considerations. <!--mor
 
 # Introduction
 
--   Case-control studies are observational studies comparing the frequency of past exposure between cases and controls (exposure refers to the primary variable of interest; e.g. exposure to asbestos)
+Case-control studies are observational studies comparing the frequency of past exposure between cases and controls (exposure refers to the primary variable of interest (e.g., exposure to asbestos). Controls must be selected **independent of exposure status**. The advantage of case-control studies is that they are quick, inexpensive, and easy relative to other study designs. Notably, although case-studies are easier to do, they are also easier to do wrong. Additionally, with case-control studies you are unable to compute measures of disease frequency (i.e., cannot estimate prevalence of outcome/disease), and it is also difficult to establish temporality (cause and effect relationship). Case-control studies are particularly appropriate for 1) investigating outbreaks, and 2) studying rare diseases/outcomes.
 
--   Controls must be selected **independent of exposure status**
-
--   Advantages: quick, inexpensive, and easy relative to other study designs
-
--   Limitations: "Although easier to do, they are easier to do wrong"
-
-    -   Unable to compute measures of disease frequency (i.e. cannot estimate prevalence of outcome/disease) and difficult to establish temporality (cause and effect relationship)
-
--   Particularly appropriate for 1) investigating outbreaks, and 2) studying rare diseases/outcomes
-
--   The general process involved in creating a case-controlled study, and important topics to consider are outlined below
+The general process involved in creating a case-controlled study, and important topics to consider are outlined below
 
 # General Procedure
 
-1.  Identify cases (individuals with disease/outcome of interest)
-    -   Use a clear case definition and explicitly indicate how sample was selected
+1. Identify cases (individuals with disease/outcome of interest)
+-   Use a clear case definition and explicitly indicate how sample was selected
 
 
-2.  Define the study base from which cases arose
+2. Define the study base from which cases arose
 
     -   Study base -- the (hypothetical) population that gives rise to the cases
 
@@ -46,13 +36,13 @@ Review of case-control study designs, and methodological considerations. <!--mor
     -   Controls should provide an unbiased sample of the exposure distribution in the study base
 
 
-3.  Sample controls from study base
+3. Sample controls from study base
 
     -   Traditional, case-cohort, or nested case-control (discussed below)
 
     -   Controls must be selected **independent of exposure status**
 
-4.  Ascertain exposure status for cases and controls using comparable methods
+4. Ascertain exposure status for cases and controls using comparable methods
 
     -   Exposure and outcome should be measured in the same way for cases and controls
 

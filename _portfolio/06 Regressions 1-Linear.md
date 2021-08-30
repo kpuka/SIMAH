@@ -24,7 +24,7 @@ The figure below shows a scatter plot of two continuous variables (X and Y). We 
 
 The line may be described by the equation: 
 
-$$ Y = (intercept)+(slope)(X) = \beta{0_} + (\beta{1_})(X) $$
+$$ Y = (intercept)+(slope)(X) = β_0 + (β_1)(X) $$
 
 The intercept (β<sub>0</sub>) is the estimated Y when X = 0.
 

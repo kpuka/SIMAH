@@ -89,7 +89,7 @@ All secondary outcomes (efficacy outcomes) will be evaluated two weeks before th
 # Related topics
 -   [Study Design 1: Case Control](/resources/case_control/)
 -   [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
--   [Study Design 4: Systematic Reviews](/resources/pilot-studies/)
+-   [Study Design 4: Systematic Reviews](/resources/systematic-reviews/)
 
 
 

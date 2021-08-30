@@ -106,9 +106,9 @@ Review of best practices and the steps involved in conducting a retrospective ch
 
 
 # Related topics
--   [Study Design 1: Case Control](/resources/case_control/)
+-   [Study Design 1: Case Control](/resources/case-control/)
 -   [Study Design 3: Pilot Studies](/resources/pilot-studies/)
--   [Study Design 4: Systematic Reviews](/resources/pilot-studies/)
+-   [Study Design 4: Systematic Reviews](/resources/systematic-reviews/)
 
 
 

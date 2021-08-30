@@ -86,6 +86,13 @@ All secondary outcomes (efficacy outcomes) will be evaluated two weeks before th
 
 **Analysis Plan**: To evaluate study feasibility (Primary Aim), descriptive statistics will be used to determine the 1) participant adherence to each treatment (proportion of missed doses), 2) number of participants screened and enrolled per month, 3) proportion of screened participants eligible who enroll, 4) reasons for non-participation, 5) retention rate in treatment and waitlist control condition, 6) missing data on questionnaires, and 7) time to complete questionnaires. To evaluate the impact of the intervention on the severity of seizures (GASE score) at the 6 month follow-up (Secondary Aim), linear regression will be used to compare each groups' scores at the 6 month follow-up, while adjusting for scores at baseline. All analyses will follow the intention-to-treat principle, using two-tailed tests.
 
+# Related topics
+-   [Study Design 1: Case Control](/resources/case-control/)
+-   [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
+-   [Study Design 4: Systematic Reviews](/resources/systematic-reviews/)
+
+
+
 # References and Further Readings
 
 Eldridge SM, et al. CONSORT 2010 statement: extension to randomised pilot and feasibility trials. BMJ 2016; 355:i5239.

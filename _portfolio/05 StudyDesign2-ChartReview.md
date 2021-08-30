@@ -106,15 +106,13 @@ Review of best practices and the steps involved in conducting a retrospective ch
 
 
 # Related topics
--   [Study Design 1: Case Control](/resources/case_control/)
--   [Clinical Trials 1: Study Design](/resources/rct_design/)
--   [Clinical Trials 2: Randomization](/resources/randomization/)
--   [Clinical Trials 3: Other Considerations](/resources/rct_other/)
+-   [Study Design 1: Case Control](/resources/case-control/)
+-   [Study Design 3: Pilot Studies](/resources/pilot-studies/)
+-   [Study Design 4: Systematic Reviews](/resources/systematic-reviews/)
 
 
 
 # References and Further Readings
-
 Matt V, Matthew H. The retrospective chart review: important methodological considerations. Journal of educational evaluation for health professions. 2013;10.
 
 Jansen AC, et al. Guidelines were developed for data collection from medical records for use in retrospective analyses. Journal of clinical epidemiology. 2005;58(3):269-74.

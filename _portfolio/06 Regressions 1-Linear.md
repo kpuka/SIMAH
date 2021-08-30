@@ -54,3 +54,16 @@ This model can be expanded to include many predictors:
 
 $$ Y = β_0 + (β_1)(X_1) + (β_2)(X_2) + (β_3)(X_3) +... + (β_n)(X_n)$$
 
+
+# Assumptions
+1.  **Linearity** – relationship between the outcome (Y) and the covariates (X) is linear
+2.  **Independence** – observations/participants are independent  of each other
+3.  **Normality** – the residuals (not the outcome) are normally distributed
+4.  **Homogeneity of variance** – the residuals have a constant variance across the levels of X (that is, the variability around the regression line is constant along the length of the regression line).
+
+Additionally, you should avoid including covariates that are highly correlated in the same regression model (this is because it becomes much harder to identify their independent effects; issue called multicollinearity). Outliers may also be a concern – observations with large residuals.
+
+Note that there are no assumptions about the distribution of the covariates (X). 
+
+
+

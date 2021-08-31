@@ -87,6 +87,9 @@ Often, researchers are interested in talking about the risk associated with a pr
 
 See [Working with Categorical Data](/resources/rd_rr_od/) for a greater explanation.
 
+- [Regressions 1: Linear Regression](/resources/linear_reg/)
+- [Regressions 3: Multilevel (Mixed) Models](/resources/multilevel_models/)
+- [Working with Categorical Data](/resources/rd_rr_od/)
 
 # References and Further Readings
 

@@ -53,12 +53,12 @@ $$ logit(p) = β_0 + (β_1)(X) $$
 
 β<sub>1</sub> = the log of the odds of the outcome occurring when x increases by 1 (e.g. the treatment group).
 
-Exponentiating β (anti-loge) yields the odds ratio  (i.e.: e^β = OR) 
+Exponentiating β (anti-loge) yields the odds ratio  (i.e.: e<sup>β</sup> = OR; e^β = OR) 
 
 
 The real value of logistic regression comes when we want to adjust for covariates (confounders). Covariates can be binary, categorical, or continuous; outcome must be binary. As with linear regression, multiple covariates (e.g. x<sub>1</sub>, x<sub>2</sub>) are specified by adding additional terms:     
 
-$$ logit(p) = β_0 + β_1)(X_1)+ (β_2)(X_2)$$
+$$ logit(p) = β_0 + (β_1)(X_1)+ (β_2)(X_2)$$
 
 e^β<sub>1</sub> = the OR associated with increasing X<sub>1</sub> by 1 unit, while all other variables (e.g. X<sub>2</sub>) stay the same.
 

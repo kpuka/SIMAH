@@ -1,13 +1,13 @@
 ---
 title: 'Sample Size Calculator'
 permalink: /resources/sample_size_calculator/
-excerpt_separator: <!--more-->
+excerpt: "A simple to use and informative sample size calculator."
 toc: true
 comments: true
 tags:
   - study design
 ---
-<!--more-->
+
 # Introduction 
 
 Sample size calculations form an important part of the study design, but the formula and implementation of sample size calculations can be complex and intimidating. The sample size calculator below was designed guide researchers through the process of calculating a sample size using a simple to use and informative interface. 

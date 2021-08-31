@@ -26,7 +26,7 @@ $$ Odds = \frac{\text{umber of people with disease/outome}}{\text{umber of peopl
 
 $$ Odds Ratio (OR) = \frac{\text{Odds of Group A}}{\text{Odds of Group B}} $$
 
-**Interpretation of *OR**: If OR = 4.89, we say that the odds of disease/outcome is 4.89 times higher in Group  A, relative to Group B. Alternatively, can indicate that the odds are 389% (i.e. [4.89 - 1.00] x100%)  higher in Group  A, relative to Group B.
+**Interpretation of OR**: If OR = 4.89, we say that the odds of disease/outcome is 4.89 times higher in Group  A, relative to Group B. Alternatively, can indicate that the odds are 389% (i.e. [4.89 - 1.00] x100%)  higher in Group  A, relative to Group B.
 
 An OR of 1.0 indicates no association. If the 95% CI of the OR does not include the value of 1, this indicates that the difference between groups is statistically significant at p<.05.
 
@@ -38,7 +38,7 @@ Recall, in linear regression there is a continuous outcome variable (Y), the exp
 
 One solution is to transform the probabilities to a scale that can take on any real number. This can be achieved using the logit or 'log odds' transformation. If p is the probability of the outcome, the logit transformation is defined as:
 
-$$ logit(p) = log_e(odds) = log_e{p}{1-p} $$
+$$ logit(p) = log_e(odds) = log_e\frac{p}{1-p} $$
 
 A logistic regression uses these transformed probabilities in the model. Note that statistical software does this transformation automatically; it is discussed here to provide users with a better understanding of what the statistical software is doing.
 

@@ -38,7 +38,7 @@ Recall, in linear regression there is a continuous outcome variable (Y), the exp
 
 One solution is to transform the probabilities to a scale that can take on any real number. This can be achieved using the logit or 'log odds' transformation. If p is the probability of the outcome, the logit transformation is defined as:
 
-$$ logit(p) = log_e(odds) = log_e(\frac{p}{1-p}) $$
+$$ logit(p) = log_e(odds) = log_e\frac({p}{1-p}) $$
 
 A logistic regression uses these transformed probabilities in the model. Note that statistical software does this transformation automatically; it is discussed here to provide users with a better understanding of what the statistical software is doing.
 

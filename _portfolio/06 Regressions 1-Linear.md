@@ -89,6 +89,10 @@ To compare regression coefficients, they must be on the same scale. If the varia
 # Centering Covariates
 β<sub>0</sub> is the value of Y when all predictors equal zero; this value may not be meaningful (e.g. estimated running speed when blood pressure is equal to 0 is not a meaningful number). In such cases, you can redefine the 0 point to make β<sub>0</sub> meaningful, if that is of interest to you. Can do so by ‘centering’ the covariate(s); that is, subtract a constant from every value of a variable. If that constant is the sample mean, the new variable will have a mean of 0. The intercept (β<sub>0</sub>) can be interpreted as the estimated Y for the ‘average participant’. Aadding or subtracting a constant from covariates (X<sub>1</sub>, X<sub>2</sub>, etc.) will change the value of β<sub>0</sub> but not the other regression coefficients (β<sub>1</sub>, β<sub>2</sub> , etc.). If variables are centered, this should be made clear in the publication.
 
+# Related topics
+- [Regressions 2: Logistic Regression](/resources/logistic_reg/)
+- [Regressions 3: Multilevel (Mixed) Models](/resources/multilevel_models/)
+
 # References and Further Readings
 Werner V. Regression models as a tool in medical research. NY: Taylor & Francis Inc. 2012.
 

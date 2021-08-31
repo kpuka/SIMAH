@@ -47,24 +47,24 @@ A logistic regression uses these transformed probabilities in the model. Note th
 # Logistic Regression
 In the simplest case, we have one predictor variable (x) (e.g. group, defined as treatment [coded as 1] or control [coded as 0]). Similarly to linear regression, the logistic regression model can be written as 
 
-$$ logit(p) = ??_0 + (??_1)(x) $$
+$$ logit(p) = β_0 + (β_1)(X) $$
 
-??<sub>0</sub> = the log of the odds of the outcome occurring when x = 0 (e.g. the control group).
+β<sub>0</sub> = the log of the odds of the outcome occurring when x = 0 (e.g. the control group).
 
-??<sub>1</sub> = the log of the odds of the outcome occurring when x increases by 1 (e.g. the treatment group).
+β<sub>1</sub> = the log of the odds of the outcome occurring when x increases by 1 (e.g. the treatment group).
 
-Exponentiating ?? (anti-loge) yields the odds ratio  (i.e.: e^?? = OR) 
+Exponentiating β (anti-loge) yields the odds ratio  (i.e.: e^β = OR) 
 
 
 The real value of logistic regression comes when we want to adjust for covariates (confounders). Covariates can be binary, categorical, or continuous; outcome must be binary. As with linear regression, multiple covariates (e.g. x<sub>1</sub>, x<sub>2</sub>) are specified by adding additional terms:     
 
-$$ logit(p) = ??_0 + (??_1)(x_1)+ (??_2)(x_2)$$
+$$ logit(p) = β_0 + β_1)(X_1)+ (β_2)(X_2)$$
 
-e^??<sub>1</sub> = the OR associated with increasing X<sub>1</sub> by 1 unit, while all other variables (e.g. X<sub>2</sub>) stay the same.
+e^β<sub>1</sub> = the OR associated with increasing X<sub>1</sub> by 1 unit, while all other variables (e.g. X<sub>2</sub>) stay the same.
 
-e^??<sub>2</sub> = the OR associated with increasing X<sub>2</sub> by 1 unit, while all other variables (e.g. X<sub>1</sub>) stay the same.
+e^β<sub>2</sub> = the OR associated with increasing X<sub>2</sub> by 1 unit, while all other variables (e.g. X<sub>1</sub>) stay the same.
 
-The model also produces a measure of statistical precision of the estimated coefficient (??) - the standard error, which are used to create the 95% confidence intervals.
+The model also produces a measure of statistical precision of the estimated coefficient (β) - the standard error, which are used to create the 95% confidence intervals.
 
 
 # Assumptions and Other Considerations

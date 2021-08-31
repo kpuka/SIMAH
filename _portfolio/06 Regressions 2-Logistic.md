@@ -26,7 +26,7 @@ $$ Odds = \frac{\text{umber of people with disease/outome}}{\text{umber of peopl
 
 $$ Odds Ratio (OR) = \frac{\text{Odds of Group A}}{\text{Odds of Group B}} $$
 
-**Interpretation of *OR**: If OR = 4.89, we say that the odds of disease/outcome is 4.89 times higher in Group  A, relative to Group B. Alternatively, can indicate that the odds are 389% (i.e. [4.89 - 1.00] x100%)  higher in Group  A, relative to Group B.
+**Interpretation of OR**: If OR = 4.89, we say that the odds of disease/outcome is 4.89 times higher in Group  A, relative to Group B. Alternatively, can indicate that the odds are 389% (i.e. [4.89 - 1.00] x100%)  higher in Group  A, relative to Group B.
 
 An OR of 1.0 indicates no association. If the 95% CI of the OR does not include the value of 1, this indicates that the difference between groups is statistically significant at p<.05.
 
@@ -38,7 +38,7 @@ Recall, in linear regression there is a continuous outcome variable (Y), the exp
 
 One solution is to transform the probabilities to a scale that can take on any real number. This can be achieved using the logit or 'log odds' transformation. If p is the probability of the outcome, the logit transformation is defined as:
 
-$$ logit(p) = log_e(odds) = log_e{p}{1-p} $$
+$$ logit(p) = log_e(odds) = log_e(\frac{p}{1-p}) $$
 
 A logistic regression uses these transformed probabilities in the model. Note that statistical software does this transformation automatically; it is discussed here to provide users with a better understanding of what the statistical software is doing.
 
@@ -47,24 +47,24 @@ A logistic regression uses these transformed probabilities in the model. Note th
 # Logistic Regression
 In the simplest case, we have one predictor variable (x) (e.g. group, defined as treatment [coded as 1] or control [coded as 0]). Similarly to linear regression, the logistic regression model can be written as 
 
-$$ logit(p) = ??_0 + (??_1)(x) $$
+$$ logit(p) = β_0 + (β_1)(X) $$
 
-??<sub>0</sub> = the log of the odds of the outcome occurring when x = 0 (e.g. the control group).
+β<sub>0</sub> = the log of the odds of the outcome occurring when x = 0 (e.g. the control group).
 
-??<sub>1</sub> = the log of the odds of the outcome occurring when x increases by 1 (e.g. the treatment group).
+β<sub>1</sub> = the log of the odds of the outcome occurring when x increases by 1 (e.g. the treatment group).
 
-Exponentiating ?? (anti-loge) yields the odds ratio  (i.e.: e^?? = OR) 
+Exponentiating β (anti-loge) yields the odds ratio  (i.e.: e<sup>β</sup> = OR; e^β = OR) 
 
 
 The real value of logistic regression comes when we want to adjust for covariates (confounders). Covariates can be binary, categorical, or continuous; outcome must be binary. As with linear regression, multiple covariates (e.g. x<sub>1</sub>, x<sub>2</sub>) are specified by adding additional terms:     
 
-$$ logit(p) = ??_0 + (??_1)(x_1)+ (??_2)(x_2)$$
+$$ logit(p) = β_0 + (β_1)(X_1)+ (β_2)(X_2)$$
 
-e^??<sub>1</sub> = the OR associated with increasing X<sub>1</sub> by 1 unit, while all other variables (e.g. X<sub>2</sub>) stay the same.
+e^β<sub>1</sub> = the OR associated with increasing X<sub>1</sub> by 1 unit, while all other variables (e.g. X<sub>2</sub>) stay the same.
 
-e^??<sub>2</sub> = the OR associated with increasing X<sub>2</sub> by 1 unit, while all other variables (e.g. X<sub>1</sub>) stay the same.
+e^β<sub>2</sub> = the OR associated with increasing X<sub>2</sub> by 1 unit, while all other variables (e.g. X<sub>1</sub>) stay the same.
 
-The model also produces a measure of statistical precision of the estimated coefficient (??) - the standard error, which are used to create the 95% confidence intervals.
+The model also produces a measure of statistical precision of the estimated coefficient (β) - the standard error, which are used to create the 95% confidence intervals.
 
 
 # Assumptions and Other Considerations
@@ -74,7 +74,7 @@ Logistic model assumes that:
 - There are no influential values (extreme values or outliers) in continuous predictors/covariates. 
 - There is no multicolinearity (high correlations between predictors/covariates)
 
-The selection of variables methods described in the Linear Regression resource can be extrapolated and applied to logistic regression as well
+The selection of variables methods described in the Linear Regression resource can be extrapolated and applied to logistic regression as well.
 
 
 # Odds Ratio (OR) vs. Relative Risk (RR)
@@ -85,7 +85,7 @@ Often, researchers are interested in talking about the risk associated with a pr
 - With case-control data, only OR can be calculated.
 - With cohort studies, when data is available on the entire population/cohort, the RR may be calculated using different models (e.g. modified Poisson regression).
 
-See [Working with Categorical Data](/resources/rd_rr_od/) for a greater explanation
+See [Working with Categorical Data](/resources/rd_rr_od/) for a greater explanation.
 
 
 # References and Further Readings

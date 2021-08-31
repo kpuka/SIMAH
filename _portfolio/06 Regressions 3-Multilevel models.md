@@ -1,5 +1,5 @@
 ---
-title: 'Regressions 3 - Multilevel (Mixed) Models'
+title: 'Regressions 3: Multilevel (Mixed) Models'
 permalink: /resources/multilevel_models/
 excerpt_separator: <!--more-->
 toc: true
@@ -49,6 +49,11 @@ The design effect is small when the group size and ICC is small. Generally, incr
 - 0.00 - 0.05 for large aggregates (such as hospitals, schools, worksites)
 - 0.05 - 0.25 for small aggregates (such as departments, classrooms)
 - 0.25 - 0.75 for very small aggregates (such as families, spouse pairs)
+
+
+# Related topics
+- [Regressions 1: Linear Regression](/resources/linear_reg/)
+- [Regressions 2: Logistic Regression](/resources/logistic_reg/)
 
 
 

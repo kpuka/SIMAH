@@ -74,7 +74,7 @@ Logistic model assumes that:
 - There are no influential values (extreme values or outliers) in continuous predictors/covariates. 
 - There is no multicolinearity (high correlations between predictors/covariates)
 
-The selection of variables methods described in the Linear Regression resource can be extrapolated and applied to logistic regression as well
+The selection of variables methods described in the Linear Regression resource can be extrapolated and applied to logistic regression as well.
 
 
 # Odds Ratio (OR) vs. Relative Risk (RR)
@@ -85,7 +85,7 @@ Often, researchers are interested in talking about the risk associated with a pr
 - With case-control data, only OR can be calculated.
 - With cohort studies, when data is available on the entire population/cohort, the RR may be calculated using different models (e.g. modified Poisson regression).
 
-See [Working with Categorical Data](/resources/rd_rr_od/) for a greater explanation
+See [Working with Categorical Data](/resources/rd_rr_od/) for a greater explanation.
 
 
 # References and Further Readings

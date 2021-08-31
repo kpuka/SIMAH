@@ -103,5 +103,8 @@ Estimate the sample size for a randomized trial to assess the effectiveness of a
 **Total sample size required: 412**
  
  
- 
+ # Related topics
+- [Regressions 1: Linear Regression](/resources/linear_reg/)
+- [Regressions 2: Logistic Regression](/resources/logistic_reg/)
+
  

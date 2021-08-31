@@ -1,5 +1,5 @@
 ---
-title: 'Multilevel (Mixed) Models'
+title: 'Regression 3: Multilevel Models'
 permalink: /resources/multilevel_models/
 excerpt_separator: <!--more-->
 toc: true

@@ -34,9 +34,9 @@ For a complete publication list, please visit my [Google Scoholar](https://schol
 
 [Health resource utilization varies by comorbidities in children with epilepsy](https://doi.org/10.1016/j.yebeh.2016.02.011). **Puka K**, Smith ML, Moineddin R, Snead OC, Widjaja E (2016). Epilepsy & Behavior, 57, 151-154. 
 
-[The influence of socio-economic status on health resource utilization in pediatric epilepsy in a universal health insurance system](https://doi.org/10.1111/epi.13290).**Puka K**, Smith ML, Moineddin R, Snead OC, Widjaja E (2016). Epilepsia, 57, 455-463. 
+[The influence of socio-economic status on health resource utilization in pediatric epilepsy in a universal health insurance system](https://doi.org/10.1111/epi.13290). **Puka K**, Smith ML, Moineddin R, Snead OC, Widjaja E (2016). Epilepsia, 57, 455-463. 
 
-[Predictors of long-term quality of life after pediatric epilepsy surgery](https://doi.org/10.1111/epi.13004). **Puka K**, Smith ML_ (2015). Epilepsia, 56, 873-881. 
+[Predictors of long-term quality of life after pediatric epilepsy surgery](https://doi.org/10.1111/epi.13004). **Puka K**, Smith ML (2015). Epilepsia, 56, 873-881. 
 
 <br>
 

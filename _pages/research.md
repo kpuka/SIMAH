@@ -17,9 +17,9 @@ My research focuses on the evaluation and treatment of the cognitive and mental 
 For a complete publication list, please visit my [Google Scoholar](https://scholar.google.ca/citations?user=ulN-H0UAAAAJ&hl=en) page.
 
 
-**Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy.** <br>
-_**Puka K**, Smith ML_ (2021). <br>
-Developmental Medicine & Child Neurology. [Link](https://doi.org/10.1111/dmcn.14815)
+[Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy](https://doi.org/10.1111/dmcn.14815)
+**Puka K**, Smith ML_ (2021). <br>
+Developmental Medicine & Child Neurology.
 
 
 **A live-online mindfulness-based intervention for children living with epilepsy and their families: Protocol for a randomized controlled trial of Making Mindfulness Matter.** <br>

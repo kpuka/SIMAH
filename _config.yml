@@ -246,6 +246,7 @@ defaults:
       comments: false
       toc: true
       sidebar:
+        title: "Methodological and Statistical Resources"
         nav: "resources-sidebar"
   # _talks
   - scope:

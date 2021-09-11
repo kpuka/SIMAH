@@ -2,8 +2,6 @@
 title: 'Developing a Research Proposal'
 permalink: /resources/research-protocol/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - proposal
   - protocol

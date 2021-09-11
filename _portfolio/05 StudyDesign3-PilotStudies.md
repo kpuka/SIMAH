@@ -2,8 +2,6 @@
 title: 'Study Design 3: Pilot Studies'
 permalink: /resources/pilot-studies/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - study design
 ---

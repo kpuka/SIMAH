@@ -2,8 +2,6 @@
 title: 'Study Design 1: Case Control'
 permalink: /resources/case-control/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - study design
 ---

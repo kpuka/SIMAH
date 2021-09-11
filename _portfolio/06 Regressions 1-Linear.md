@@ -3,8 +3,7 @@ permalink: /resources/linear_reg/
 title: 'Regressions 1: Linear Regression'
 excerpt_separator: <!--more-->
 author_profile: false
-sidebar: 
-  toc: true
+toc: true
 comments: true
 tags:
   - methods

@@ -2,8 +2,6 @@
 title: 'Survey Design 3: Optimizing Visual Design Elements'
 permalink: /resources/survey3_visual/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - study design
 ---

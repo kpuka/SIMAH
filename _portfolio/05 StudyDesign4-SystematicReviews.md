@@ -2,8 +2,6 @@
 title: 'Study Design 4: Systematic Reviews'
 permalink: /resources/systematic-reviews/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - study design
 ---

@@ -2,8 +2,6 @@
 title: 'Survey Design 2: Writting Effective Questions'
 permalink: /resources/survey2_questions/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - study design
 ---

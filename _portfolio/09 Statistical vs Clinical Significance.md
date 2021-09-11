@@ -2,8 +2,6 @@
 title: 'Statistical vs. Clinical Significance'
 permalink: /resources/stat_clin_significance/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - Methods
 ---

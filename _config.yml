@@ -246,7 +246,7 @@ defaults:
       comments: false
       toc: true
       sidebar:
-        nav: "resources"
+        nav: "resources-sidebar"
   # _talks
   - scope:
       path: ""

@@ -19,7 +19,7 @@ main:
     url: /cv/
 
 # resouces links
-resouces:
+resouces-sidebar:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"

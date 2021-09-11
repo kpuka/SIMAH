@@ -2,8 +2,6 @@
 title: 'Clinical Trials 2: Randomization'
 permalink: /resources/randomization/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - RCT
   - Study Design

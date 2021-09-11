@@ -11,6 +11,6 @@ Below are a list of resources developed to introduce trainees to a variety of me
 {% include base_path %}
 
 {% for post in site.resources %}
-  {% include archive-single.html type=grid %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 

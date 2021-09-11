@@ -1,18 +1,16 @@
 ---
 permalink: /resources/linear_reg/
 title: 'Regressions 1: Linear Regression'
-excerpt: 
+excerpt_separator: <!--more-->
 toc: true
 comments: true
 tags:
   - methods
-header:
-  overlay_color: "#3b5da1"
+
 ---
 
-# Linear Regression
-
 Introduction to linear regression, interpretation of results, assumptions, and the selection of variables.
+<!--more-->
 
 # Introduction 
 Linear regression is a method of describing the relationship between a continuous outcome variable (Y) and one or more 'predictor' variable(s) (X) that can be binary, categorical, or continuous. Other forms of regression are used when the outcome is binary (logistic regression), categorical (multinomial regression), ordinal (ordinal regression), count data (Poisson regression), or time-to-event data (Cox Models).

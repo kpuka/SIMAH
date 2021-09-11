@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-sidebar-resources:
-  title: Regressions
+resources:
+- title: Regressions
   children:
     - title: "Linear Regression"
     url: /resources/linear_reg/
@@ -33,7 +33,7 @@ sidebar-resources:
     - title: "Multilevel (Mixed) Models"
     url: /resources/multilevel_models/
   
-  title: "Study Design"
+- title: "Study Design"
   children:
     - title: "Case Control"
     url: /resources/case-control/

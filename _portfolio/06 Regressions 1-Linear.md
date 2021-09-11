@@ -7,7 +7,7 @@ comments: true
 tags:
   - methods
 header:
-  overlay_color: "#333"
+  overlay_color: "#3b5da1"
 ---
 
 Introduction to linear regression, interpretation of results, assumptions, and the selection of variables.

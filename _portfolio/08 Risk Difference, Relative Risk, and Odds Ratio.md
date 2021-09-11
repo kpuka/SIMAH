@@ -2,8 +2,6 @@
 title: 'Working with Categorical Data'
 permalink: /resources/rd_rr_od/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - methods
 ---

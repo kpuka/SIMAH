@@ -4,8 +4,7 @@ title: 'Regressions 1: Linear Regression'
 excerpt_separator: <!--more-->
 author_profile: false
 sidebar: 
-  nav: toc
-toc: true
+  toc: true
 comments: true
 tags:
   - methods

@@ -37,7 +37,7 @@ Survival analysis is a set of methods used when time to an event is of primary i
 
 ## Kaplan-Meier Curves
 
-Kaplan-Meier curves are used to plot the survival function, S(t), for one or more groups of interest over a specified time period. The Kaplan-Meier estimator assesses the probability of being event-free in a given amount of time. This method cannot control or take into account the effects of other covariates on the outcome of interest. Figure 1, below, shows the typical components of a Kaplan-Meier curve, for a single group of patients where the event of interest is discontinuation of a drug.
+Kaplan-Meier curves are used to plot the survival function, S(t), for one or more groups of interest over a specified time period. The Kaplan-Meier estimator assesses the probability of being event-free in a given amount of time. This method cannot control or take into account the effects of other covariates on the outcome of interest. The figure below shows the typical components of a Kaplan-Meier curve, for a single group of patients where the event of interest is discontinuation of a drug.
 
 <img src='/images/posts/regressions/cox/kaplan_meier.jpg'> 
 Image source: <https://doi.org/10.1038/jid.2015.171>

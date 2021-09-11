@@ -72,7 +72,7 @@ The coefficient $\beta$<sub>n</sub> is the change in the log-hazard ratio for a 
 
 -   HR= 1 means that the predictor is not associated with survival time.
 
-# Related Resources
+# Related topics
 
 -   [Regressions 1: Linear Regression](/resources/linear_reg/)
 -   [Regressions 2: Logistic Regression](/resources/logistic_reg/)

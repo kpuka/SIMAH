@@ -2,8 +2,6 @@
 title: 'Regressions 2: Logistic Regression'
 permalink: /resources/logistic_reg/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - methods
 ---

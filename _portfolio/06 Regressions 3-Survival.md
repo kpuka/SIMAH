@@ -4,6 +4,7 @@ permalink: /resources/surival_reg/
 excerpt_separator: <!--more-->
 toc: true
 comments: true
+collection: regressions
 tags:
   - methods
   - regression

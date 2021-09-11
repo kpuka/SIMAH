@@ -64,7 +64,7 @@ $$
 log(HR) = \beta_1X_1 + ... + ]beta_nX_n
 $$
 
-Coefficient $\beta$<sub>n</sub> is the change in the log-hazard ratio for a one-unit increase in the covariate X<sub>n</sub>. To interpret model results as hazard ratios we must exponentiate the coefficients (i.e., e<sup>$\beta$</sup>). Hazard ratios can be interpreted as follows:
+The coefficient $\beta$<sub>n</sub> is the change in the log-hazard ratio for a one-unit increase in the covariate X<sub>n</sub>. To interpret model results as hazard ratios we must exponentiate the coefficients (i.e., e<sup>$\beta$</sup>). Hazard ratios can be interpreted as follows:
 
 -   HR\<1 means that a one unit increase in the covariate is associated with lower risk and longer survival times, controlling for other covariates. For example, a Hazard Ratio of 0.5 means that the estimated short term event risk for participants with the covariate is 50% of the risk for patients without the covariate.
 

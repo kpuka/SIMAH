@@ -19,31 +19,8 @@ main:
     url: /cv/
 
 resources:
-- title: Regressions
+  - title: "Regression"
   children:
-    - title: "Linear Regression"
-    url: /resources/linear_reg/
+    -title: "Linear Regression"
+     url: /resources/linear_reg/
 
-    - title: "Logistic Regression"
-    url: /resources/logistic_reg/
-
-    - title: "Survival Analysis"
-    url: /resources/survival_reg/
-
-    - title: "Multilevel (Mixed) Models"
-    url: /resources/multilevel_models/
-  
-- title: "Study Design"
-  children:
-    - title: "Case Control"
-    url: /resources/case-control/
-
-    - title: "Retrospective Chart Review"
-    url: /resources/chart_review/
-
-    - title: "Pilot Studies"
-    url: /resources/pilot-studies/
-
-    - title: "Systematic Reviews"
-    url: /resources/systematic-reviews/
-  

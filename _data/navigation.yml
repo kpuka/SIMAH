@@ -21,6 +21,6 @@ main:
 resources:
   - title: "Regression"
   children:
-    -title: "Linear Regression"
+    - title: "Linear Regression"
      url: /resources/linear_reg/
 

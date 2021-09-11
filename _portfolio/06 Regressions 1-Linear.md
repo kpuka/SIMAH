@@ -6,6 +6,8 @@ toc: true
 comments: true
 tags:
   - methods
+header:
+  overlay_color: "#333"
 ---
 
 Introduction to linear regression, interpretation of results, assumptions, and the selection of variables.

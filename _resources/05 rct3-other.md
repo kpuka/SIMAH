@@ -1,15 +1,13 @@
 ---
 title: 'Clinical Trials 3: Other Considerations'
 permalink: /resources/rct_other/
-excerpt_separator: <!--more-->
+excerpt: Topics include intention to treat principle, baseline comparisons, covariate adjustment, missing data, etc.
 tags:
   - RCT
   - Study Design
 ---
 
-Review of important considerations for clinical trials are outlined, including baseline comparisons and p-values; covariate adjustment; analyses of pre-post data, missing data, and interim events.
-
-<!--more-->
+Review of important considerations for clinical trials are outlined, including intention to treat principle; baseline comparisons and p-values; covariate adjustment; analyses of pre-post data, missing data, and interim events.
 
 
 # Intention to Treat Principle (ITT)

@@ -33,13 +33,14 @@ Survival analysis is a set of methods used when time to an event is of primary i
 
 -   **The Cumulative Event Function, F(*t*)**, is the probability that an event occurs by time *t*; this is the complement of the survival function, i.e. F(*t*)=1 -- S(*t*)
 
--   **The Hazard Function, ??(*t*),** is the instantaneous event rate (or hazard rate) for participants who have not experienced the event yet; that is, the probability of the event happening in a very short time interval, assuming the event has not yet occurred.
+-   **The Hazard Function, $\lambda$(*t*),** is the instantaneous event rate (or hazard rate) for participants who have not experienced the event yet; that is, the probability of the event happening in a very short time interval, assuming the event has not yet occurred.
 
 ## Kaplan-Meier Curves
 
 Kaplan-Meier curves are used to plot the survival function, S(t), for one or more groups of interest over a specified time period. The Kaplan-Meier estimator assesses the probability of being event-free in a given amount of time. This method cannot control or take into account the effects of other covariates on the outcome of interest. Figure 1, below, shows the typical components of a Kaplan-Meier curve, for a single group of patients where the event of interest is discontinuation of a drug.
 
-\<br/\>\<img src='/images/posts/regressions/cox/kaplan_meier.JPG'\> Image source: <https://doi.org/10.1038/jid.2015.171>
+<img src='/images/posts/regressions/cox/kaplan_meier.JPG'> 
+Image source: <https://doi.org/10.1038/jid.2015.171>
 
 Plotting multiple curves for different treatment groups can allow for easy visual comparison of differences in survival probabilities. A **log rank test** can be used to test the null hypothesis that the Kaplan-Meier curves are equal at all time points. Rejecting the null hypothesis from a log rank test means there is evidence that there is at least 1 time point where the survival curves differ.
 
@@ -48,7 +49,7 @@ Plotting multiple curves for different treatment groups can allow for easy visua
 As indicated above, the hazard function is the probability of the event occurring in a small period of time. Assume for a moment that we had the hazard functions for two groups of patients, group A and group B, we could compare the hazard function of one group to the other group by taking the ratio of the two functions, to give us the **hazard ratio (HR).**
 
 $$
-HR(t) = \frac{??_A(t)}{??_B(t)}
+HR(t) = \frac{\lambda_A(t)}{\lambda_B(t)}
 $$
 
 The hazard ratio (HR), is dependent on time, however, if the hazard functions being compared are proportional over time, then HR will be constant over time and the effect of being in group A versus B can be summarized by a single number, namely the HR. This is known as the proportional hazards assumption and is the basis for the Cox Proportional Hazards Model.
@@ -60,10 +61,10 @@ The Cox proportional hazards model is a regression analysis that allows us to es
 Under the proportional hazards assumption, a Cox proportional hazards (or Cox PH) model assumes that the log hazard ratio can be expressed as a linear function of the covariates:
 
 $$
-log(HR) = ??_1X_1 + ... + ??_nX_n
+log(HR) = \beta_1X_1 + ... + ]beta_nX_n
 $$
 
-Coefficient ??<sub>n</sub> is the change in the log-hazard ratio for a one-unit increase in the covariate X<sub>n</sub>. To interpret model results as hazard ratios we must exponentiate the coefficients (i.e., e<sup>??</sup>). Hazard ratios can be interpreted as follows:
+Coefficient $\beta$<sub>n</sub> is the change in the log-hazard ratio for a one-unit increase in the covariate X<sub>n</sub>. To interpret model results as hazard ratios we must exponentiate the coefficients (i.e., e<sup>$\beta$</sup>). Hazard ratios can be interpreted as follows:
 
 -   HR\<1 means that a one unit increase in the covariate is associated with lower risk and longer survival times, controlling for other covariates. For example, a Hazard Ratio of 0.5 means that the estimated short term event risk for participants with the covariate is 50% of the risk for patients without the covariate.
 

@@ -2,8 +2,6 @@
 title: 'Confounding'
 permalink: /resources/confounding/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - methods
 ---

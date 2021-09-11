@@ -11,4 +11,6 @@ I am a Project Scientist at the Institute for Mental Health Policy Research at t
 
 I have worked as a biostatistician for academic (e.g. Department of Medicine, Western University) and nonprofit community organizations (e.g. The Brain Recovery Project). Through these experiences I have worked with multi-disciplinary teams and research areas in developing and implementing a variety of study designs. I have extensive experience utilizing advanced quantitative methods, including generalized linear models, multi-level (mixed) models, growth curve models, structural equation models, scale development, meta-analytic methods, and unsupervised machine learning methods.
 
-I have developed numerous resources designed to introduce trainees to a variety of methodological and statistical topics, as well as a sample size calculator, which are available [here](/resources/). I also provide statistical and methodological consulting services at a nominal fee; for more information, click here [here](/consulting/). 
+I have developed numerous resources designed to introduce trainees to a variety of methodological and statistical topics, as well as a sample size calculator, which are available [here](/resources/). 
+
+I also provide statistical and methodological consulting services at a nominal fee; for more information, click here [here](/consulting/). 

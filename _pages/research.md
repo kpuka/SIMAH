@@ -16,60 +16,27 @@ My research focuses on the evaluation and treatment of the cognitive and mental 
 
 For a complete publication list, please visit my [Google Scoholar](https://scholar.google.ca/citations?user=ulN-H0UAAAAJ&hl=en) page.
 
+[Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy](https://doi.org/10.1111/dmcn.14815). **Puka K**, Smith ML (2021). Developmental Medicine & Child Neurology.
 
-**Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy.** <br>
-_**Puka K**, Smith ML_ (2021). <br>
-Developmental Medicine & Child Neurology. [Link](https://doi.org/10.1111/dmcn.14815)
+[A live-online mindfulness-based intervention for children living with epilepsy and their families: Protocol for a randomized controlled trial of Making Mindfulness Matter](https://doi.org/10.1186/s13063-020-04792-3). **Puka K**, Bax K, ..., Speechley KN (2021). Trials 21, 922. 
 
+[Long-term quality of life trajectories among individuals diagnosed with epilepsy in childhood](https://doi.org/10.1111/epi.16579). **Puka K**, Ferro MA, ..., Speechley KN (2020). Epilepsia 61, 1453-1463. 
 
-**A live-online mindfulness-based intervention for children living with epilepsy and their families: Protocol for a randomized controlled trial of Making Mindfulness Matter.** <br>
-_**Puka K**, Bax K, ..., Speechley KN_ (2021). <br>
-Trials 21, 922. [Link](https://doi.org/10.1186/s13063-020-04792-3)
+[Validation of the Quality of Life in Childhood Epilepsy Questionnaire (QOLCE-55 and QOLCE-16) for use by parents of young adults with childhood-onset epilepsy](https://doi.org/10.1016/j.yebeh.2020.106904). **Puka K**, Goodwin SW, ..., Speechley KN (2020). Epilepsy & Behavior 104, 106904.
 
+[Social outcomes of adults with childhood-onset epilepsy: a systematic review and meta-analysis](http://doi.org/10.1016/j.yebeh.2019.01.012). **Puka K**, Tavares PT, Speechley KN (2019). Epilepsy & Behavior 92, 297-305.
 
-**Long-term quality of life trajectories among individuals diagnosed with epilepsy in childhood.**<br>
-_**Puka K**, Ferro MA, ..., Speechley KN_ (2020). <br>
-Epilepsia 61, 1453-1463. [Link](https://doi.org/10.1111/epi.16579)
+[A systematic review of quality of life in parents of children with epilepsy](https://doi.org/10.1016/j.yebeh.2018.03.008). **Puka K**, Tavares PT, Anderson KK, Ferro MA, Speechley KN (2018). Epilepsy & Behavior 82, 35-45.
 
+[The impact of family factors on IQ in pediatric medically refractory epilepsy](https://doi.org/10.1037/neu0000308). **Puka K**, Smith ML, Widjaja E (2017). Neuropsychology 31, 129-136.
 
-**Validation of the Quality of Life in Childhood Epilepsy Questionnaire (QOLCE-55 and QOLCE-16) for use by parents of young adults with childhood-onset epilepsy.**<br>
-_**Puka K**, Goodwin SW, ..., Speechley KN (2020)_. <br>
-Epilepsy & Behavior 104, 106904. [Link](https://doi.org/10.1016/j.yebeh.2020.106904)
+[Development of intelligence 4 to 11 years after pediatric epilepsy surgery](https://doi.org/10.1111/jnp.12081). **Puka K**, Tavares TP, Smith ML (2017). Journal of Neuropsychology, 11, 161-173.
 
+[Health resource utilization varies by comorbidities in children with epilepsy](https://doi.org/10.1016/j.yebeh.2016.02.011). **Puka K**, Smith ML, Moineddin R, Snead OC, Widjaja E (2016). Epilepsy & Behavior, 57, 151-154. 
 
-**Social outcomes of adults with childhood-onset epilepsy: a systematic review and meta-analysis.** <br>
-_**Puka K**, Tavares PT, Speechley KN_ (2019). <br>
-Epilepsy & Behavior 92, 297-305. [Link](http://doi.org/10.1016/j.yebeh.2019.01.012) 
+[The influence of socio-economic status on health resource utilization in pediatric epilepsy in a universal health insurance system](https://doi.org/10.1111/epi.13290). **Puka K**, Smith ML, Moineddin R, Snead OC, Widjaja E (2016). Epilepsia, 57, 455-463. 
 
-
-**A systematic review of quality of life in parents of children with epilepsy.**<br>
-_**Puka K**, Tavares PT, Anderson KK, Ferro MA, Speechley KN_ (2018). <br>
-Epilepsy & Behavior 82, 35-45. [Link](https://doi.org/10.1016/j.yebeh.2018.03.008) 
-
-
-**The impact of family factors on IQ in pediatric medically refractory epilepsy.**<br>
-_**Puka K**, Smith ML, Widjaja E_ (2017).<br>
-Neuropsychology 31, 129-136. [Link](https://doi.org/10.1037/neu0000308)
-
-
-**Development of intelligence 4 to 11 years after pediatric epilepsy surgery.**<br>
-_**Puka K**, Tavares TP, Smith ML_ (2017).<br>
-Journal of Neuropsychology, 11, 161-173. Epub 2015 Jul 17. [Link](https://doi.org/10.1111/jnp.12081)
-
-
-**Health resource utilization varies by comorbidities in children with epilepsy.**<br>
-_**Puka K**, Smith ML, Moineddin R, Snead OC, Widjaja E_ (2016). <br>
-Epilepsy & Behavior, 57, 151-154. [Link](https://doi.org/10.1016/j.yebeh.2016.02.011) 
-
-
-**The influence of socio-economic status on health resource utilization in pediatric epilepsy in a universal health insurance system.**<br>
-_**Puka K**, Smith ML, Moineddin R, Snead OC, Widjaja E_ (2016). <br>
-Epilepsia, 57, 455-463. [Link](https://doi.org/10.1111/epi.13290) 
-
-
-**Predictors of long-term quality of life after pediatric epilepsy surgery.**<br>
-_**Puka K**, Smith ML_ (2015). <br>
-Epilepsia, 56, 873-881. [Link](https://doi.org/10.1111/epi.13004)
+[Predictors of long-term quality of life after pediatric epilepsy surgery](https://doi.org/10.1111/epi.13004). **Puka K**, Smith ML (2015). Epilepsia, 56, 873-881. 
 
 <br>
 
@@ -78,34 +45,31 @@ Epilepsia, 56, 873-881. [Link](https://doi.org/10.1111/epi.13004)
 
 **Epilepsy.**<br> 
 Pediatric Neuropsychology: Research, Theory and Practice, 3rd edition. Guilford Press.<br>
-_**Puka K**, Smith ML_ (In press). 
+**Puka K**, Smith ML (In press). 
 
-
-**Quality of Life of children and families.**<br>
+[Quality of Life of children and families](https://doi.org/10.1016/B978-0-444-64148-9.00028-4).<br>
 Handbook of Clinical Neurology, Volume 174 Neurocognitive development: disorders and disabilities. Elsevier.<br>
-_**Puka K**, Conway L, Smith ML_ (2020). [Link](https://doi.org/10.1016/B978-0-444-64148-9.00028-4)
+**Puka K**, Conway L, Smith ML (2020).
 
-
-**Postoperative neuropsychological and psychosocial outcome.**<br>
+[Postoperative neuropsychological and psychosocial outcome](https://doi.org/10.1055/b-0039-171706).<br>
 Pediatric Epilepsy Surgery: Preoperative Assessment and Surgical Treatment, 2nd edition: Thieme.<br>
-_**Puka K**, Smith ML_ (2019). [Link](https://doi.org/10.1055/b-0039-171706)
+**Puka K**, Smith ML (2019).
 
-
-**Epilepsy.**<br>
+[Epilepsy](https://doi.org/10.1017/9781316996751.011).<br>
 Neuropsychological conditions across the lifespan. Cambridge University Press.<br>
-_Janecek J, **Puka K**, Schulze E, Smith ML_ (2018). [Link](https://doi.org/10.1017/9781316996751.011)
+Janecek J, **Puka K**, Schulze E, Smith ML (2018).
 
 
-**Aggregating Data.** <br>
+[Aggregating Data](https://doi.org/10.1007/978-3-319-28099-8_1278-1).<br>
 Encyclopedia of Personality and Individual Differences. Springer International Publishing. <br>
-_**Puka K**_ (2017). [Link](https://doi.org/10.1007/978-3-319-28099-8_1278-1)
+**Puka K** (2017).
 
 
-**Epilepsy and cognition.** <br>
+[Epilepsy and cognition](https://doi.org/10.1007/978-3-319-39144-1_13). <br>
 Epilepsy and Intellectual Disabilities, 2nd edition, Springer International Publishing. <br>
-_Smith ML, **Puka K**_ (2016). [Link](https://doi.org/10.1007/978-3-319-39144-1_13)
+Smith ML, **Puka K** (2016). 
 
 
-**Quality of life and psychosocial outcomes in children.** <br>
+[Quality of life and psychosocial outcomes in children](https://doi.org/10.1007/978-3-319-17783-0_13). <br>
 Long-term outcomes of epilepsy surgery in adults and children (pp. 193-207). Springer International Publishing.<br>
-_Smith ML, **Puka K**_ (2015). [Link](https://doi.org/10.1007/978-3-319-17783-0_13)
+Smith ML, **Puka K** (2015).

@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-# documentation links
-docs:
+# resouces links
+resouces:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"

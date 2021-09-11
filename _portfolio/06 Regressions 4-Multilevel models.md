@@ -54,6 +54,7 @@ The design effect is small when the group size and ICC is small. Generally, incr
 # Related topics
 - [Regressions 1: Linear Regression](/resources/linear_reg/)
 - [Regressions 2: Logistic Regression](/resources/logistic_reg/)
+- [Regressions 3: Survival Analysis](/resources/surival_reg/)
 
 
 

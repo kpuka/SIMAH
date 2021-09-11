@@ -3,8 +3,6 @@ layout: archive
 title: Research
 permalink: /research/
 author_profile: true
-header:
-  overlay_color: "#333"
 ---
 
 {% include base_path %}

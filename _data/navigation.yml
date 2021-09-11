@@ -20,19 +20,19 @@ main:
 
 # resouces links
 resources-sidebar:
-  - title: Data Formatting
+  - title: "Data Formatting"
     url:  /resources/data-formatting/
     
-  - title: Sample Size Calculator
+  - title: "Sample Size Calculator"
     url:  /resources/sample_size_calculator/
     
-  - title: Developing a Research Proposal
+  - title: "Developing a Research Proposal"
     url: /resources/research-protocol/
     
-  - title: Statistical vs. Clinical Significance
-  url:  /resources/stat_clin_significance/
+  - title: "Statistical vs. Clinical Significance"
+    url:  /resources/stat_clin_significance/
     
-  - title: Study Design
+  - title: "Study Design"
     children:
       - title: "Case Control"
         url: /resources/case-control/
@@ -43,7 +43,7 @@ resources-sidebar:
       - title: "Systematic Reviews"
         url: /resources/systematic-reviews/
 
-  - title: Clinical Trials
+  - title: "Clinical Trials"
     children:
       - title: "Study Design"
         url: /resources/rct_design/
@@ -52,10 +52,10 @@ resources-sidebar:
       - title: "Other Considerations"
         url: /resources/rct_other/
         
-  - title: Confounding
-  url: /resources/confounding/
+  - title: "Confounding"
+    url: /resources/confounding/
         
-  - title: Regressions
+  - title: "Regressions"
     children:
       - title: "Linear Regression"
         url: /resources/linear_reg/
@@ -66,10 +66,10 @@ resources-sidebar:
       - title: "Multilevel (Mixed) Models"
         url: /resources/multilevel_models/
         
-  - title: Working with Categorical Data
-    url:  /resources/rd_rr_od/
+  - title: "Working with Categorical Data"
+    url: /resources/rd_rr_od/
         
-  - title: Survey Design
+  - title: "Survey Design"
     children:
       - title: "Invitation and Follow-up"
         url: /resources/survey1_invitation/

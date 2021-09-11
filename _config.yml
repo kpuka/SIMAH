@@ -249,7 +249,7 @@ defaults:
       sidebar:
         title: "Methodological and Statistical Resources"
         nav: "resources-sidebar"
-        position: fixed
+        position: "sticky"
   # _talks
   - scope:
       path: ""

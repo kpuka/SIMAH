@@ -2,8 +2,6 @@
 title: 'Survey Design 1: Invitation and Follow-up'
 permalink: /resources/survey1_invitation/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - study design
 ---

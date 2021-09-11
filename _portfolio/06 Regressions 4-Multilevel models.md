@@ -2,8 +2,6 @@
 title: 'Regressions 4: Multilevel (Mixed) Models'
 permalink: /resources/multilevel_models/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - methods
 ---

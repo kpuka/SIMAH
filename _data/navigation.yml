@@ -20,27 +20,61 @@ main:
 
 # resouces links
 resources-sidebar:
-  - title: Getting Started
+  - title: Data Formatting
+    url:  /resources/data-formatting/
+    
+  - title: Sample Size Calculator
+    url:  /resources/sample_size_calculator/
+    
+  - title: Developing a Research Proposal
+    url: /resources/research-protocol/
+    
+  - title: Statistical vs. Clinical Significance
+  url:  /resources/stat_clin_significance/
+    
+  - title: Study Design
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
+      - title: "Case Control"
+        url: /resources/case-control/
+      - title: "Retrospective Chart Review"
+        url: /resources/chart_review/
+      - title: "Pilot Studies"
+        url: /resources/pilot-studies/
+      - title: "Systematic Reviews"
+        url: /resources/systematic-reviews/
+
+  - title: Clinical Trials
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "Study Design"
+        url: /resources/rct_design/
+      - title: "Randomization"
+        url: /resources/randomization/
+      - title: "Other Considerations"
+        url: /resources/rct_other/
+        
+  - title: Confounding
+  url: /resources/confounding/
+        
+  - title: Regressions
+    children:
+      - title: "Linear Regression"
+        url: /resources/linear_reg/
+      - title: "Logistic Regression"
+        url: /resources/logistic_reg/
+      - title: "Survival Analysis"
+        url: /resources/surival_reg/
+      - title: "Multilevel (Mixed) Models"
+        url: /resources/multilevel_models/
+        
+  - title: Working with Categorical Data
+    url:  /resources/rd_rr_od/
+        
+  - title: Survey Design
+    children:
+      - title: "Invitation and Follow-up"
+        url: /resources/survey1_invitation/
+      - title: "Writting Effective Questions"
+        url: /resources/survey2_questions/
+      - title: "Optimizing Visual Design Elements"
+        url: /resources/survey3_visual/
+    

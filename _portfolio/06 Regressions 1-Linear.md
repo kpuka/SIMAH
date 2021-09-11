@@ -91,7 +91,8 @@ To compare regression coefficients, they must be on the same scale. If the varia
 
 # Related topics
 - [Regressions 2: Logistic Regression](/resources/logistic_reg/)
-- [Regressions 3: Multilevel (Mixed) Models](/resources/multilevel_models/)
+- [Regressions 3: Survival Analysis](/resources/surival_reg/)
+- [Regressions 4: Multilevel (Mixed) Models](/resources/multilevel_models/)
 
 # References and Further Readings
 Werner V. Regression models as a tool in medical research. NY: Taylor & Francis Inc. 2012.

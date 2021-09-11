@@ -6,7 +6,7 @@ tags:
   - formatting
 ---
 
-This post outlines how your data file should be formatted to allow statisticians to quickly become familiar with your data to effectively facilitate data analyses.
+Review of how data should be formatted to allow statisticians to quickly become familiar with your data to effectively facilitate data analyses.
 
 <!--more-->
 

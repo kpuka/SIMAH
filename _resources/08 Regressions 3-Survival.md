@@ -7,7 +7,7 @@ tags:
   - regression
 ---
 
-Introduction to concepts of survival analysis, methods of analysis including Kaplan Meier curves and the Cox proportional hazards model, and interpretation of hazard ratios.
+Introduction to survival analysis methods, including Kaplan Meier curves and the Cox proportional hazards model, and interpretation of hazard ratios.
 
 <!--more-->
 

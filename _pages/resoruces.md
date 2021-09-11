@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: archive
 title: "Methodological and Statistical Resources"
 permalink: /resources/
 author_profile: true

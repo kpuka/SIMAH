@@ -191,7 +191,6 @@ collections:
     permalink: /:collection/:path/
   resources:
     output: true
-    entries_layout: grid
     permalink: /:collection/:path/
   talks:
     output: true

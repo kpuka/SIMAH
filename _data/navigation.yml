@@ -19,7 +19,7 @@ main:
     url: /cv/
 
 sidebar-resources:
-  title: "Regressions"
+  title: Regressions
   children:
     - title: "Linear Regression"
     url: /resources/linear_reg/

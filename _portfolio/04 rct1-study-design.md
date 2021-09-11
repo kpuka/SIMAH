@@ -2,8 +2,6 @@
 title: 'Clinical Trials 1: Study Design'
 permalink: /resources/rct_design/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - RCT
   - Study Design

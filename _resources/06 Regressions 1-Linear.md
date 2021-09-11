@@ -2,6 +2,7 @@
 permalink: /resources/linear_reg/
 title: 'Regressions 1: Linear Regression'
 excerpt_separator: <!--more-->
+sidebar: toc:true
 tags:
   - methods
 

@@ -189,7 +189,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  resources:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -238,7 +238,7 @@ defaults:
   # _resources
   - scope:
       path: ""
-      type: portfolio
+      type: resources
     values:
       layout: single
       author_profile: false

@@ -106,5 +106,6 @@ Estimate the sample size for a randomized trial to assess the effectiveness of a
 # Related topics
 - [Regressions 1: Linear Regression](/resources/linear_reg/)
 - [Regressions 2: Logistic Regression](/resources/logistic_reg/)
+- [Regressions 3: Survival Analysis](/resources/surival_reg/)
 
  

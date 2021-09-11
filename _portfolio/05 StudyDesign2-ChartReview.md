@@ -2,8 +2,6 @@
 title: 'Study Design 2: Retrospective Chart Review'
 permalink: /resources/chart_review/
 excerpt_separator: <!--more-->
-toc: true
-comments: true
 tags:
   - study design
 ---

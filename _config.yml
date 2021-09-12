@@ -247,7 +247,7 @@ defaults:
       comments: false
       toc: true
       sidebar:
-        title: "Resources"
+        title: "Methodological and Statistical Resources"
         nav: "resources-sidebar"
         position: "sticky"
   # _talks

@@ -20,7 +20,7 @@ main:
 
 # resouces links
 resources-sidebar:
-  - title: "Getting Started:
+  - title: "Getting Started"
     children:
       - title: "Data Formatting"
         url:  /resources/data-formatting/

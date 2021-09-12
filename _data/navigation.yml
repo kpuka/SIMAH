@@ -20,14 +20,14 @@ main:
 
 # resouces links
 resources-sidebar:
-  - title: "Data Formatting"
-    url:  /resources/data-formatting/
-
-  - title: "Sample Size Calculator"
-    url:  /resources/sample_size_calculator/
-
-  - title: "Developing a Research Proposal"
-    url: /resources/research-protocol/
+  - title: "Getting Started:
+    children:
+      - title: "Data Formatting"
+        url:  /resources/data-formatting/
+      - title: "Sample Size Calculator"
+        url:  /resources/sample_size_calculator/
+      - title: "Developing a Research Proposal"
+        url: /resources/research-protocol/
 
   - title: "Clinical Trials"
     children:

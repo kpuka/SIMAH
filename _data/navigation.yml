@@ -29,7 +29,7 @@ resources-sidebar:
 - title: "Developing a Research Proposal"
   url: /resources/research-protocol/
 
-- title: "Clinical Trials"
+  - title: "Clinical Trials"
     children:
       - title: "Study Design"
         url: /resources/rct_design/

@@ -1,12 +1,12 @@
 ---
 title: 'Study Design 3: Pilot Studies'
-permalink: /resources/pilot-studies/
+permalink: /resources/pilot_studies/
 excerpt_separator: <!--more-->
 tags:
   - study design
 ---
-
-Description of pilot studies and how pilot studies should be designed. <!--more-->
+<!--more-->
+Topic: Description of pilot studies and how pilot studies should be designed. 
 
 # What is a Pilot Study? 
 
@@ -83,13 +83,6 @@ All secondary outcomes (efficacy outcomes) will be evaluated two weeks before th
 **Sample Size**: This trial will be considered a success if an overall adherence rate of 80% is achieved (e.g. 20% of doses are missed). A total sample size of 62 participants is required to estimate the expected proportion with 10% absolute precision and a 95% confidence interval (Thabane et al. 2010).
 
 **Analysis Plan**: To evaluate study feasibility (Primary Aim), descriptive statistics will be used to determine the 1) participant adherence to each treatment (proportion of missed doses), 2) number of participants screened and enrolled per month, 3) proportion of screened participants eligible who enroll, 4) reasons for non-participation, 5) retention rate in treatment and waitlist control condition, 6) missing data on questionnaires, and 7) time to complete questionnaires. To evaluate the impact of the intervention on the severity of seizures (GASE score) at the 6 month follow-up (Secondary Aim), linear regression will be used to compare each groups' scores at the 6 month follow-up, while adjusting for scores at baseline. All analyses will follow the intention-to-treat principle, using two-tailed tests.
-
-# Related topics
--   [Study Design 1: Case Control](/resources/case-control/)
--   [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
--   [Study Design 4: Systematic Reviews](/resources/systematic-reviews/)
-
-
 
 # References and Further Readings
 

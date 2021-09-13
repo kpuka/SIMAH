@@ -18,6 +18,13 @@ The sample size calculator is based on the formula described <a href="https://do
 
 
 
+ 
+# Related topics
+- [Regressions 1: Linear Regression](/resources/linear_reg/)
+- [Regressions 2: Logistic Regression](/resources/logistic_reg/)
+- [Regressions 3: Survival Analysis](/resources/surival_reg/)
+
+
 # Examples 
 The examples below are based on the examples described by <a href="https://doi.org/10.1007/978-1-4614-1353-0" target="_blank">Vittinghoff et al. (2012) </a>
 
@@ -101,10 +108,4 @@ Estimate the sample size for a randomized trial to assess the effectiveness of a
 
 **Total sample size required: 412**
  
- 
-# Related topics
-- [Regressions 1: Linear Regression](/resources/linear_reg/)
-- [Regressions 2: Logistic Regression](/resources/logistic_reg/)
-- [Regressions 3: Survival Analysis](/resources/surival_reg/)
-
  

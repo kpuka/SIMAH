@@ -140,12 +140,6 @@ The list created can then be uploaded into REDCap or another online platform. If
 Stratified randomization was completed centrally through REDCap, maintaining allocation concealment. Allocation tables were developed in STATA (v. 13.1) using the ralloc command by a statistician using a 1:1 ratio of intervention and control allocations, randomly permuted blocks of sizes 2 and 4, and stratified by hospital site (2 levels) and sex (2 levels). Utilizing the randomization module embedded in REDCap ensures that at the time of randomization patient allocation will be locked, thereby preventing any circumvention of the randomization process.
 
 
-# Related topics
-- [Clinical Trials 1: Study Design](/resources/rct_design/)
-- [Clinical Trials 3: Other Considerations](/resources/rct_other/)
-
-
-
 # References and Further Readings
 
 Altman DG, Bland JM. Treatment allocation in controlled trials: why randomise? BMJ. 1999; 318:1209. <https://doi.org/10.1136/bmj.318.7192.1209>

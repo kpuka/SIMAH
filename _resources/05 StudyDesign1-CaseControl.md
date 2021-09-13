@@ -89,13 +89,6 @@ The general process involved in creating a case-controlled study, and important 
     -   The main reason for using conditional (rather than the standard) logistic regression is that when the analysis strata are very small, problems of sparse data will occur with standard methods
 -   Overall, matching may introduce bias and if it does, it is extremely difficult to salvage the study
 
-
-# Related topics
--   [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
--   [Study Design 3: Pilot Studies](/resources/pilot_studies/)
--   [Study Design 4: Systematic Reviews](/resources/systematic_reviews/)
-
-
 # References and Further Readings
 Szklo M, Nieto FJ, & Miller D (2007). Epidemiology: beyond the basics, 3rded. Jones & Bartlett Learning.
 Pearce N. (2016). Analysis of matched case-control studies. BMJ, 352, i969.

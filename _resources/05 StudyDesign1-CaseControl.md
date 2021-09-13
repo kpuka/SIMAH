@@ -1,12 +1,12 @@
 ---
 title: 'Study Design 1: Case Control'
-permalink: /resources/case-control/
+permalink: /resources/case_control/
 excerpt_separator: <!--more-->
 tags:
   - study design
 ---
-
-Review of case-control study designs, and methodological considerations. <!--more-->
+<!--more-->
+Topic: Review of case-control study designs, and methodological considerations. <!--more-->
 
 
 # Introduction
@@ -92,8 +92,8 @@ The general process involved in creating a case-controlled study, and important 
 
 # Related topics
 -   [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
--   [Study Design 3: Pilot Studies](/resources/pilot-studies/)
--   [Study Design 4: Systematic Reviews](/resources/systematic-reviews/)
+-   [Study Design 3: Pilot Studies](/resources/pilot_studies/)
+-   [Study Design 4: Systematic Reviews](/resources/systematic_reviews/)
 
 
 # References and Further Readings

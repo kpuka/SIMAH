@@ -1,16 +1,14 @@
 ---
 title: Data Formatting Checklist
-permalink: /resources/data-formatting/
+permalink: /resources/data_formatting/
 excerpt_separator: <!--more-->
 tags:
   - formatting
 ---
 
-Review of how data should be formatted to allow statisticians to quickly become familiar with your data to effectively facilitate data analyses.
-
 <!--more-->
 
-For a PDF version of this checklist,  <a href="/files/posts/Data Formatting Checklist.pdf" target="_blank"> click here </a>.
+Review of how data should be formatted to allow statisticians to quickly become familiar with your data to effectively facilitate data analyses.
 
 Before sending any data to a statistician, review each point below and check off each item:
 

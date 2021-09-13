@@ -59,7 +59,7 @@ The Cox proportional hazards model is a regression analysis that allows us to es
 Under the proportional hazards assumption, a Cox proportional hazards (or Cox PH) model assumes that the log hazard ratio can be expressed as a linear function of the covariates:
 
 $$
-log(HR) = \beta_1X_1 + ... + ]beta_nX_n
+log(HR) = \beta_1X_1 + ... + \beta_nX_n
 $$
 
 The coefficient $\beta$<sub>n</sub> is the change in the log-hazard ratio for a one-unit increase in the covariate X<sub>n</sub>. To interpret model results as hazard ratios we must exponentiate the coefficients (i.e., e<sup>$\beta$</sup>). Hazard ratios can be interpreted as follows:

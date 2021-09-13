@@ -1,10 +1,11 @@
 ---
 title: 'Sample Size Calculator'
 permalink: /resources/sample_size_calculator/
-excerpt: "A simple to use and informative sample size calculator."
+excerpt_separator: <!--more-->
 tags:
   - study design
 ---
+<!--more-->
 
 # Introduction 
 

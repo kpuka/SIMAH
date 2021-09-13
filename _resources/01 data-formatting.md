@@ -7,7 +7,8 @@ tags:
 ---
 <!--more-->
 
-Review of how data should be formatted to allow statisticians to quickly become familiar with your data to effectively facilitate data analyses.
+Topic: Review of how data should be formatted to allow statisticians to quickly become familiar with your data to effectively facilitate data analyses.
+
 
 Before sending any data to a statistician, review each point below and check off each item:
 

@@ -6,10 +6,9 @@ tags:
   - proposal
   - protocol
 ---
+<!--more-->
 
 Review of how research proposal should be structured, primarily focusing on the objectives/aims and analyses plan sections. 
-
-<!--more-->
 
 # Part 1: Objectives and Aims 
 ## Purpose of Research Proposal

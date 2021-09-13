@@ -1,6 +1,6 @@
 ---
 title: 'Developing a Research Proposal'
-permalink: /resources/research-protocol/
+permalink: /resources/research_protocol/
 excerpt_separator: <!--more-->
 tags:
   - proposal

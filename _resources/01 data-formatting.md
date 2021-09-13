@@ -5,7 +5,6 @@ excerpt_separator: <!--more-->
 tags:
   - formatting
 ---
-
 <!--more-->
 
 Review of how data should be formatted to allow statisticians to quickly become familiar with your data to effectively facilitate data analyses.

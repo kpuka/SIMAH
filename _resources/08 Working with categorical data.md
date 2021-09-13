@@ -1,13 +1,12 @@
 ---
 title: 'Working with Categorical Data'
 permalink: /resources/rd_rr_od/
-excerpt: The use and interpretations of risk difference (RD), relative risk (RR) and odds ratio (OR) are discussed. 
+excerpt_separator: <!--more-->
 tags:
   - methods
 ---
-
-
-The use and interpretations of risk difference (RD), relative risk (RR) and odds ratio (OR) are discussed. Categorization of continuous data is also briefly discussed.
+<!--more-->
+Topic: The use and interpretations of risk difference (RD), relative risk (RR) and odds ratio (OR) are discussed. Categorization of continuous data is also briefly discussed.
 
 
 # Introduction
@@ -132,8 +131,6 @@ If continuous data is categorized, where should the cut off points be?
 - Adopt cut points used in previous studies
 -  Using the sample median makes it hard to compare studies. This is because the median value is dependent on the sample, and will be different for every study.
 - Do not perform several analyses and choose that which gives the most convincing result
-
-
 
 
 

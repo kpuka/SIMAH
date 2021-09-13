@@ -1,15 +1,14 @@
 ---
 title: 'Study Design 4: Systematic Reviews'
-permalink: /resources/systematic-reviews/
+permalink: /resources/systematic_reviews/
 excerpt_separator: <!--more-->
 tags:
   - study design
 ---
-
-Review of systematic reviews and the steps involved in conducting your own review. A step-by-step example of the search strategy is also presented.<!--more-->
+<!--more-->
+Topic: Review of systematic reviews and the steps involved in conducting your own review. A step-by-step example of the search strategy is also presented.
 
 Importantly, the guide below is brief and reviewing the [Cochrane Handbook](http://www.handbook.cochrane.org/) and working with a librarian and statistician is highly advisable. 
-
 
 # What is it? What do I need to know before I start?
 
@@ -112,11 +111,6 @@ Importantly, the guide below is brief and reviewing the [Cochrane Handbook](http
 
 
 **Guidance from a librarian is strongly recommended!**
-
-# Related topics
--   [Study Design 1: Case Control](/resources/case-control/)
--   [Study Design 2: Retrospective Chart Review](/resources/chart_review/)
--   [Study Design 3: Pilot Studies](/resources/pilot-studies/)
 
 # References and Further Readings
 *Reporting guidelines that should be followed*: Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) <http://www.prisma-statement.org/>

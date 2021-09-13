@@ -7,8 +7,7 @@ tags:
   - Study Design
 ---
 <!--more-->
-
-Introduction to basic concepts of clinical trials and their categorization.
+Topic: Introduction to basic concepts of clinical trials and their categorization.
 
 
 # Introduction

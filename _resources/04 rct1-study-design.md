@@ -123,13 +123,6 @@ The design effect is small when the group and ICC is small. Generally, increasin
 *Reporting*. Reporting guidelines for clustered trials are available and should be followed (Campbell 2004). Principle additions include rational for adopting a cluster design, specifying how effects of clustering were incorporated into the sample size calculation and analysis, and an updated flow chart diagram. 
 
 
-# Related topics
-- [Clinical Trials 2: Randomization](/resources/randomization/)
-- [Clinical Trials 3: Other Considerations](/resources/rct_other/)
-- [Multilevel models](/resources/multilevel_models/) 
-
-
-
 # References and Further Readings
 
 Althunian TA, et al. Methods of defining the non-inferiority margin in randomized, double-blind controlled trials: a systematic review. Trials. 2017;18(1):107. 

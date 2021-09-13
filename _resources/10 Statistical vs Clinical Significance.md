@@ -5,8 +5,8 @@ excerpt_separator: <!--more-->
 tags:
   - Methods
 ---
-
-Review of statistical significance, clinical relevance, and confidence intervals. <!--more-->
+<!--more-->
+Topic: Review of statistical significance, clinical relevance, and confidence intervals. 
 
 Statistics plays two main roles: 1) measure variability in the data in an effort to assess the role of chance, and 2) estimate effects after correcting for biases such as confounding. Here we focus on the former.
 

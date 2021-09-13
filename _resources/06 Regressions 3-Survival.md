@@ -6,10 +6,8 @@ tags:
   - methods
   - regression
 ---
-
-Introduction to survival analysis methods, including Kaplan Meier curves and the Cox proportional hazards model, and interpretation of hazard ratios.
-
 <!--more-->
+Topic: Introduction to survival analysis methods, including Kaplan Meier curves and the Cox proportional hazards model, and interpretation of hazard ratios.
 
 # Introduction
 
@@ -70,11 +68,7 @@ The coefficient $\beta$ is the change in the log-hazard ratio for a one-unit inc
 
 -   HR= 1 means that the predictor is not associated with survival time.
 
-# Related topics
 
--   [Regressions 1: Linear Regression](/resources/linear_reg/)
--   [Regressions 2: Logistic Regression](/resources/logistic_reg/)
--   [Regressions 4: Multilevel (Mixed) Models](/resources/multilevel_models/)
 
 # References and further reading
 

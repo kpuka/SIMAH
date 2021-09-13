@@ -21,7 +21,7 @@ $$Risk = \frac{\text{number of people with disease/outome}}{\text{total number o
 
 'Odds' refers to the probability that the event of interest occurs to the probability that it does not. For example, the odds that a single throw of a fair die will produce a six (for example) are 1 to 5, or 1/5.
 
-$$Odds = \frac{\text{umber of people with disease/outome}}{\text{umber of people without disease/outome}} $$
+$$Odds = \frac{\text{number of people with disease/outome}}{\text{number of people without disease/outome}} $$
 
 
 

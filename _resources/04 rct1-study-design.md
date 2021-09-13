@@ -6,9 +6,9 @@ tags:
   - RCT
   - Study Design
 ---
+<!--more-->
 
 Introduction to basic concepts of clinical trials and their categorization.
-<!--more-->
 
 
 # Introduction

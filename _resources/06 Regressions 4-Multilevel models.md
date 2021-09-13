@@ -5,10 +5,9 @@ excerpt_separator: <!--more-->
 tags:
   - methods
 ---
-
-
-What are multilevel models, when they should be used, and sample size considerations. 
 <!--more-->
+Topic: What are multilevel models, when they should be used, and sample size considerations. 
+
 
 # Introduction
 Multilevel models are needed to analyze data that has a hierarchical or clustered structure, such as patients treated by the same clinic, or drug levels in the same patient at multiple times.Multi-level models might also be called, mixed models, mixed-effects models, random-effects models, hierarchical models, or split-plot designs. 
@@ -47,12 +46,6 @@ The design effect is small when the group size and ICC is small. Generally, incr
 - 0.00 - 0.05 for large aggregates (such as hospitals, schools, worksites)
 - 0.05 - 0.25 for small aggregates (such as departments, classrooms)
 - 0.25 - 0.75 for very small aggregates (such as families, spouse pairs)
-
-
-# Related topics
-- [Regressions 1: Linear Regression](/resources/linear_reg/)
-- [Regressions 2: Logistic Regression](/resources/logistic_reg/)
-- [Regressions 3: Survival Analysis](/resources/surival_reg/)
 
 
 

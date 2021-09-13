@@ -5,8 +5,8 @@ excerpt_separator: <!--more-->
 tags:
   - study design
 ---
-
-Review of empirically validated methods and strategies for optimizing the visual design elements of surveys.<!--more-->
+<!--more-->
+Topic: Review of empirically validated methods and strategies for optimizing the visual design elements of surveys.
 
 This document follows the recommendations of the Tailored Design Method by D.A. Dillman (2014).
 
@@ -50,12 +50,6 @@ This document follows the recommendations of the Tailored Design Method by D.A. 
 <br/><img src='/images/posts/survey_design/survey_design4.JPG'> <br/>
 
 -   Consider using uniquely shaped answer spaces (circles and squares) to help respondents distinguish between different types of questions (single- and multiple-answer choice questions, respectively).
-
-
-
-# Related topics
-- [Survey Design 1: Invitation and Follow-up](/resources/survey1_invitation/)
-- [Survey Design 2: Writting Effective Questions](/resources/survey2_questions/)
 
 
 # References and Further Readings

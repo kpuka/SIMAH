@@ -6,9 +6,8 @@ tags:
   - RCT
   - Study Design
 ---
-
-Review of randomization, its importance, and the different options for randomization. How to generate a randomization list with R is also discussed.
 <!--more-->
+Topic: Review of randomization, its importance, and the different options for randomization. How to generate a randomization list with R is also discussed.
 
 
 # What Is Randomization and Why Use It?

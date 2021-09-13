@@ -5,10 +5,8 @@ excerpt_separator: <!--more-->
 tags:
   - methods
 ---
-
-Review of logistic regression and interpretation of results.
-
 <!--more-->
+Topic: Review of logistic regression and interpretation of results.
 
 # Introduction 
 This document extends the concepts of [Regressions 1: Linear Regression](/resources/linear_reg/) to binary outcomes. Binary outcomes have two states (e.g. alive or dead; yes or no) and are summarized using proportions. Logistic regression is an extension of simply comparing proportions, to allow for the adjustment of other independent variables. The results are presented as odds ratio (OR).
@@ -84,12 +82,6 @@ Often, researchers are interested in talking about the risk associated with a pr
 - With cohort studies, when data is available on the entire population/cohort, the RR may be calculated using different models (e.g. modified Poisson regression).
 
 See [Working with Categorical Data](/resources/rd_rr_od/) for a greater explanation.
-
-# Related copics
-- [Regressions 1: Linear Regression](/resources/linear_reg/)
-- [Regressions 3: Survival Analysis](/resources/surival_reg/)
-- [Regressions 4: Multilevel (Mixed) Models](/resources/multilevel_models/)
-- [Working with Categorical Data](/resources/rd_rr_od/)
 
 # References and Further Readings
 

@@ -1,11 +1,9 @@
 ---
-permalink: /resources/linear_reg/
 title: 'Regressions 1: Linear Regression'
+permalink: /resources/linear_reg/
 excerpt_separator: <!--more-->
-sidebar: toc:true
 tags:
   - methods
-
 ---
 <!--more-->
 Topic: Introduction to linear regression, interpretation of results, assumptions, and the selection of variables.

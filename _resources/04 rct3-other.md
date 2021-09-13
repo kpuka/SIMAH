@@ -95,11 +95,6 @@ Repeated mixed models, a more sophisticated method, may be another option as it 
 Investigators need to be alert to any event occurring after the baseline evaluation but before the intervention has started. E.g. if patient had the outcome after baseline evaluation but before the intervention. If such events occur before randomization (i.e. assignment to treatment or control group) investigators can exclude the participant from the study. If such events occur after randomization (even if it is before the start of the intervention), participants should be kept in the study and the event counted in the analysis. Removal of such participants may bias the outcome and violates the intention-to-treat principle
 
 
-# Related Topics
-- [Clinical Trials 1: Study Design](/resources/rct_design/)
-- [Clinical Trials 2: Randomization](/resources/randomization/)
-
-
 # References and Further Readings
 
 Altman DG, Dore CJ. Randomisation and baseline comparison in clinical trials. Lancet 1990; 335: 149-153.

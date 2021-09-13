@@ -5,10 +5,9 @@ excerpt_separator: <!--more-->
 tags:
   - methods
 ---
-
-
-Review of the concept, and strategies to address, confounding. A confounding variable distorts the estimated effect of another variable on the outcome.
 <!--more-->
+Topic: Review of the concept, and strategies to address, confounding. A confounding variable distorts the estimated effect of another variable on the outcome.
+
 
 # Introduction
 The observed relationship of a primary variable of interested (referred to as the "exposure"; e.g. treatment group), and the outcome may be biased because of random error/chance or systematic errors.

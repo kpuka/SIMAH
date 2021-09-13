@@ -23,11 +23,11 @@ resources-sidebar:
   - title: "Getting Started"
     children:
       - title: "Data Formatting"
-        url:  /resources/data-formatting/
+        url:  /resources/data_formatting/
       - title: "Sample Size Calculator"
         url:  /resources/sample_size_calculator/
       - title: "Developing a Research Proposal"
-        url: /resources/research-protocol/
+        url: /resources/research_protocol/
 
   - title: "Clinical Trials"
     children:
@@ -41,13 +41,13 @@ resources-sidebar:
   - title: "Study Design"
     children:
       - title: "Case Control"
-        url: /resources/case-control/
+        url: /resources/case_control/
       - title: "Retrospective Chart Review"
         url: /resources/chart_review/
       - title: "Pilot Studies"
-        url: /resources/pilot-studies/
+        url: /resources/pilot_studies/
       - title: "Systematic Reviews"
-        url: /resources/systematic-reviews/
+        url: /resources/systematic_reviews/
              
   - title: "Regressions"
     children:

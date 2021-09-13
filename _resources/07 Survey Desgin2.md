@@ -5,8 +5,8 @@ excerpt_separator: <!--more-->
 tags:
   - study design
 ---
-
-Review of empirically validated methods and strategies for designing effective surveys and questions.<!--more-->
+<!--more-->
+Topic: Review of empirically validated methods and strategies for designing effective surveys and questions.
 
 This document follows the recommendations of the Tailored Design Method by D.A. Dillman (2014).
 
@@ -60,11 +60,6 @@ This document follows the recommendations of the Tailored Design Method by D.A. 
     -   Initial questions should be connected to the purpose of the questionnaire to give the survey a feeling of consistency and help promote trust.
 -   Place sensitive or potentially objectionable questions near the end of the survey. This way, respondents get to them after they have had an opportunity to become engaged with the questionnaire, and have established rapport with the surveyor/survey.
 -   Group related questions together, and order questions about events in the order the events occurred. This is consistent with normal conversation and makes it easier for respondents to answer.
-
-
-# Related topics
-- [Survey Design 1: Invitation and Follow-up](/resources/survey1_invitation/)
-- [Survey Design 3: Optimizing Visual Design Elements](/resources/survey3_visual/)
 
 
 # References and Further Readings

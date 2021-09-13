@@ -18,7 +18,7 @@ See the [Working with Categorical Data](/resources/rd_rr_od/) for more details.
 
 Brieftly, the odds ratio (OR) is the ratio of the odds: 
 
-$$ Odds = \frac{\text{umber of people with disease/outome}}{\text{umber of people without disease/outome}} $$
+$$ Odds = \frac{\text{number of people with disease/outome}}{\text{number of people without disease/outome}} $$
 
 $$ Odds Ratio (OR) = \frac{\text{Odds of Group A}}{\text{Odds of Group B}} $$
 

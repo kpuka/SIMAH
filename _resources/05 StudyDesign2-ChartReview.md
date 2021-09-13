@@ -5,8 +5,8 @@ excerpt_separator: <!--more-->
 tags:
   - study design
 ---
-
-Review of best practices and the steps involved in conducting a retrospective chart review. <!--more-->
+<!--more-->
+Topic: Review of best practices and the steps involved in conducting a retrospective chart review.
 
 
 # Introduction
@@ -101,13 +101,6 @@ Review of best practices and the steps involved in conducting a retrospective ch
 -   **Pilot testing is essential** to assess the study design, procedures and its feasibility, and highlight the frequency that key variables of interest are missing from patient records.
 
     -   The pilot sample should be randomly sampled and consist of 10% of the target sample size.
-
-
-# Related topics
--   [Study Design 1: Case Control](/resources/case-control/)
--   [Study Design 3: Pilot Studies](/resources/pilot-studies/)
--   [Study Design 4: Systematic Reviews](/resources/systematic-reviews/)
-
 
 
 # References and Further Readings

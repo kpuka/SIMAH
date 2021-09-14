@@ -11,7 +11,7 @@ tags:
 
 Sample size calculations form an important part of the study design, but the formula and implementation of sample size calculations can be complex and intimidating. The sample size calculator below was designed guide researchers through the process of calculating a sample size using a simple to use and informative interface. 
 
-The sample size calculator is based on the formula described <a href="https://doi.org/10.1007/978-1-4614-1353-0" target="_blank">Vittinghoff et al. (2012) </a>. The calculations are based on [Linear Regression](/resources/linear_reg) for continuous outcomes, [Logistic Regression](/resources/logistic_reg) for binary outcomes, Poisson Regression for count data as the outcome, and [Cox Models (Survival Analyses)](/resources/survival_reg) for time-to-event outcomes. 
+The sample size calculator is based on the formula described <a href="https://doi.org/10.1007/978-1-4614-1353-0" target="_blank">Vittinghoff et al. (2012) </a>. The calculations are based on [Linear Regression](/resources/linear_reg) for continuous outcomes, [Logistic Regression](/resources/logistic_reg) for binary outcomes, Poisson Regression for count data as the outcome, and [Cox Models (Survival Analyses)](/resources/surival_reg/) for time-to-event outcomes. 
 
 # Sample Size Calculator
 <iframe height="1050" width="100%" frameborder="no" src="https://kpuka.shinyapps.io/samplesize/"> </iframe>

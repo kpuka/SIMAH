@@ -41,7 +41,7 @@ Key improvements:
 -   Use arrows and visual cues to provide a clear navigational path. Place instructions (written or graphical) exactly where they are needed rather than including them as free-standing entities. 
 -  Use 'forced-choice' questions instead of 'check-all-that-apply' questions. Participants are less prone to evaluate each item in check-all-that-apply questions, and more likely to select the first items of the list.
 
-
+<br>
 *Example 2*: 
 <br><img src='/images/posts/survey_design/Slide2.JPG'><br>
 
@@ -62,7 +62,7 @@ Key improvements:
 -  Use simple, familiar language – avoid abbreviations or specialized language 
 -  Encourage the use of the desired response type by providing appropriately sized response fields, and labels near the answer field, and templates with answer spaces. Provide a single answer box if only one answer is needed and multiple answer boxes if multiple answers are needed
 
-
+<br>
 *Example 4*: 
 <br><img src='/images/posts/survey_design/Slide4.JPG'><br>
 
@@ -70,7 +70,7 @@ Key improvements:
 -  Ensure response options are exhaustive and mutually exclusive
 -  If ambiguous, specify that one answer choice should be selected 
 
-
+<br>
 *Example 5*: 
 <br><img src='/images/posts/survey_design/Slide5.JPG'><br>
 
@@ -78,7 +78,7 @@ Key improvements:
 -  Reduce complexity
 -  Avoid double negatives (ensure that "yes" means yes)
 
-
+<br>
 *Example 6*: 
 <br><img src='/images/posts/survey_design/Slide6.JPG'><br>
 
@@ -88,7 +88,8 @@ Key improvements:
 -  Align conceptual and visual mid point; may separate non-substantive choices
 -  Ensure that the conceptual and visual mid-point of the answer choices are both aligned. Non-substantive answer choices (such as 'don't know', 'undecided') should be placed after and spaced a little further from the substantive answer choices. 
 -  State both the positive and negative side in question stem; for unipolar scales use “if at all”
-
+-  
+<br>
 *Example 7*: 
 <br><img src='/images/posts/survey_design/Slide7.JPG'><br>
 

@@ -25,12 +25,8 @@ It is important to think about and plan the key analyses before finalizing the s
 
 
 # The Order of Questions
--   A questionnaire is not a compilation of independent questions that have no effect on one another. Surrounding questions are will influence how respondents interpret and answer questions.
--   Begin with salient and interesting questions. Participants will be more likely to respond, and as they proceed will build commitment to the questionnaire, reducing the likelihood stopping early.
-    -   Initial questions should be connected to the purpose of the questionnaire to give the survey a feeling of consistency and help promote trust.
--   Place sensitive or potentially objectionable questions near the end of the survey. This way, respondents get to them after they have had an opportunity to become engaged with the questionnaire, and have established rapport with the surveyor/survey.
--   Group related questions together, and order questions about events in the order the events occurred. This is consistent with normal conversation and makes it easier for respondents to answer.
--   
+A questionnaire is not a compilation of independent questions that have no effect on one another; the surrounding questions are will influence how respondents interpret and answer questions. The survey should begin with salient and interesting questions; paticipants will be more likely to respond, and as they proceed will build commitment to the questionnaire, reducing the likelihood stopping early. Additionally, the intial questions should be connected to the purpose of the questionnaire to give the survey a feeling of consistency and help promote trust. Sensitive or potentially objectionable questions should be placed near the end of the survey, that way respondents get to them after they have had an opportunity to become engaged with the questionnaire, and have established rapport with the surveyor/survey. Lastly, related questions should be grouped together and questions about events should be in the order the events occurred; this is consistent with normal conversation and makes it easier for respondents to answer.
+
 
 # Designing Effective Questions and Answer Choices
 *Example 1*: 

@@ -88,7 +88,7 @@ Key improvements:
 -  Align conceptual and visual mid point; may separate non-substantive choices
 -  Ensure that the conceptual and visual mid-point of the answer choices are both aligned. Non-substantive answer choices (such as 'don't know', 'undecided') should be placed after and spaced a little further from the substantive answer choices. 
 -  State both the positive and negative side in question stem; for unipolar scales use “if at all”
--  
+
 <br>
 *Example 7*: 
 <br><img src='/images/posts/survey_design/Slide7.JPG'><br>

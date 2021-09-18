@@ -1,5 +1,5 @@
 ---
-title: 'Survey Design 2: Writting Effective Questions'
+title: 'Survey Design 2: Designing Effective Questions'
 permalink: /resources/survey2_questions/
 excerpt_separator: <!--more-->
 tags:

@@ -117,7 +117,7 @@ Key improvements:
 
 
 # Overall Survey Design
--   Avoid Visual Clutter.
+-   Avoid visual clutter.
 -   Standardize the design properties of questions, answer spaces, and response options.
 -   Visual navigation guides, used in a consistent way, are important to make it easy for respondents to follow the prescribed navigational path.
 -   Use darker/larger font for the question stem in comparison to answer choices to create contrast and separate the question stem and answer choices.

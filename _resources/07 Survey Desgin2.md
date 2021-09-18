@@ -10,7 +10,7 @@ Topic: Review of empirically validated methods and strategies for designing effe
 
 This document follows the recommendations of the Tailored Design Method by D.A. Dillman (2014).
 
-# Introduction
+# Overview of Writting Effective Questions
 -   Always consider how the questions, questionnaire, and invitation contacts will look from a respondent's perspective.
 -   Consider if each design feature will help people in some way, if it will not, then it should not be used.
 -   The most critical questions for the analyses may be asked first to ensure they are completed, and more sensitive information (e.g. income) can be asked at the end when trust and rapport have developed.
@@ -27,7 +27,9 @@ This document follows the recommendations of the Tailored Design Method by D.A. 
 
 # Designing Effective Questions
 -   Make sure the question applies to all respondents (e.g. it must require an answer from all respondents), and ensure that questions are asked one at a time.
-    -   For example, do not ask 'do you use a cell phone at least daily for voice call or internet' (yes vs. no). You will not be able to distinguish between those who did not respond because they were unmotivated or because the question did not apply to them. First ask if they use a cell phone (yes vs. no), then ask if they use it for voice calls (yes vs. no) and internet (yes vs. no).
+   
+ <br/><img src='/images/posts/survey_design/2.tif'><br/>
+   
 -   Ensure the question is technically accurate. Using specialized terms commonly used and accepted among the survey population will likely produce a more accurate measurement.
 -   Make things as easy and simple as possible.
     -   Use complete sentences in question form, with a simple sentence structure and with simple and familiar words. Use specific and concrete words to specify the concept clearly. Do not be vague or allow room for varying interpretations. Avoid double negatives (ensure that "yes" means yes).

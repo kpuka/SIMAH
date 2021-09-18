@@ -12,13 +12,9 @@ This document follows the recommendations of the Tailored Design Method by D.A. 
 
 # Introduction
 
--   Customize and tailor the study procedures and survey to fit the context, considering the survey population, topic, and survey mode. What works for some studies does not work for others.
+A grounding principle of effective survey design involves customizing and tailoring the survey and study procedures to fit the context, considering the survey population, topic, and survey mode. What works for some studies does not work for others. The aim should be to develop a hoslistic design, focusing on all aspects of the methodology, rather than focusing on only one or two features as a means of encouraging response, ignoring other aspects. Special focus should also be given to both the response rate and nonresponse error; it is not helpful to increase response rates if doing so only brings in a certain type of respondents, thereby biasing results.
 
--   Focus on all aspects of the methodology and create a holistic design, rather than focusing on only one or two features as a means of encouraging response, ignoring other aspects.
-
--   Always think about both response rate and nonresponse error. It is not helpful to increase response rates if doing so only brings in a certain type of respondents, thereby biasing results.
-
--   The *strategies and methods described below have been empirically shown to increase response rate and quality of reporting*. Again, customize your study procedures and survey to fit your context.
+The *strategies and methods described below have been empirically shown to increase response rate and quality of reporting*. Again, customize your study procedures and survey to fit your context.
 
 
 # Study Invitation

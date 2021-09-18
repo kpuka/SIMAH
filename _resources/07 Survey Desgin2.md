@@ -52,7 +52,7 @@ Key improvements:
 -   State both the positive and negative side in question stem; for unipolar scales use “if at all”
 -   Do not include or minimize salience of elements not important for respondents
 
-
+<br>
 *Example 3*: 
 <br><img src='/images/posts/survey_design/Slide3.JPG'><br>
 

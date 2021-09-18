@@ -10,7 +10,7 @@ Topic: Review of empirically validated methods and strategies for designing effe
 
 This document follows the recommendations of the Tailored Design Method by D.A. Dillman (2014).
 
-# Overview of Writting Effective Questions
+# Overview
 Always consider how the questions, questionnaire, and invitation contacts will look from a respondent's perspective; consider if each design feature will help people in some way, if it will not, then it should not be used. The most critical questions for the analyses may be asked first to ensure they are completed, and more sensitive information (e.g. income) can be asked at the end when trust and rapport have developed. Notably however, ff the main objective is to replicate a previous survey or make the new results comparable in some other way, usually no changes or only minimal changes can be made to the survey.
 
 The visual design of the survey and questions can significantly impact whether and how people will respond. Visual design can minimize measurement error and item nonresponse, but if it is done poorly it can exacerbate both. What might seem like an insignificant decision can strongly impact respondents' answers.

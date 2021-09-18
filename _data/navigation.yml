@@ -64,10 +64,8 @@ resources-sidebar:
     children:
       - title: "Invitation and Follow-up"
         url: /resources/survey1_invitation/
-      - title: "Writting Effective Questions"
+      - title: "Desiging Effective Questions"
         url: /resources/survey2_questions/
-      - title: "Optimizing Visual Design Elements"
-        url: /resources/survey3_visual/
 
   - title: "Other Topics"
     children:

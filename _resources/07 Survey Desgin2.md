@@ -11,25 +11,82 @@ Topic: Review of empirically validated methods and strategies for designing effe
 This document follows the recommendations of the Tailored Design Method by D.A. Dillman (2014).
 
 # Overview of Writting Effective Questions
--   Always consider how the questions, questionnaire, and invitation contacts will look from a respondent's perspective.
--   Consider if each design feature will help people in some way, if it will not, then it should not be used.
--   The most critical questions for the analyses may be asked first to ensure they are completed, and more sensitive information (e.g. income) can be asked at the end when trust and rapport have developed.
--   If the main objective is to replicate a previous survey or make the new results comparable in some other way, usually no changes or only minimal changes can be made to the survey.
--   Many important decisions have to be made when writing effective questions. These decisions differ depending on the intent and format of the question that is being written. In addition, what might seem like an insignificant decision can strongly impact respondents' answers.
+Always consider how the questions, questionnaire, and invitation contacts will look from a respondent's perspective; consider if each design feature will help people in some way, if it will not, then it should not be used. The most critical questions for the analyses may be asked first to ensure they are completed, and more sensitive information (e.g. income) can be asked at the end when trust and rapport have developed. Notably however, ff the main objective is to replicate a previous survey or make the new results comparable in some other way, usually no changes or only minimal changes can be made to the survey.
 
+Many important decisions have to be made when writing effective questions. These decisions differ depending on the intent and format of the question that is being written. In addition, what might seem like an insignificant decision can strongly impact respondents' answers.
 
 
 # Identify Your Primary Aims
--   First, you must have clear research questions to identify what needs to be measured and that all essential topics will be evaluated. Break down the concepts of interest until you get to subdomains that can be measured with a single question.
-    -   If standardized measures are available, they should only be adopted if they are well written and suited to your particular needs for the project.
--   It is important to think about and plan the key analyses before finalizing the survey design. Consider what variables will be needed and their possible answer choices. It may be best to think about the results you want to display (creating tables with labels and variable names), then work backwards from the desired tables/figures to determine what question format is needed for each item.
+First, you must have clear research questions to identify what needs to be measured and that all essential topics will be evaluated. Break down the concepts of interest until you get to subdomains that can be measured with a single question. If standardized measures are available, they should only be adopted if they are well written and suited to your particular needs for the project. 
+
+It is important to think about and plan the key analyses before finalizing the survey design. Consider what variables will be needed and their possible answer choices. It may be best to think about the results you want to display (creating tables with labels and variable names), then work backwards from the desired tables/figures to determine what question format is needed for each item.
 
 
 # Designing Effective Questions
--   Make sure the question applies to all respondents (e.g. it must require an answer from all respondents), and ensure that questions are asked one at a time.
-   
- <br/><img src='/images/posts/survey_design/2.tif'><br/>
-   
+
+Example 1: 
+<br><img src='/images/posts/survey_design/Slide1.JPG'><br>
+
+Key take aways: 
+-  Ask questions that apply to all respondents (e.g. it must require an answer from all respondents)
+-  Ask questions one at a time
+-  Ensure there is a clear separation of questions and answers
+-  Consider using uniquely shaped answer spaces to distinguish between different types of questions
+
+-  Use arrows and visual cues to provide a clear navigational path
+-  Use forced choice-responses to help ensure that respondents carefully consider each option and make a decision, as opposed to 'check-all-that-apply' answer choices 
+
+Example 2: 
+<br><img src='/images/posts/survey_design/Slide2.JPG'><br>
+
+Key take aways:  
+-   Reduce complexity - question stem and response options should match
+-   Provide balanced scales – categories should be relatively equal distance apart
+-   Avoid having too many response options – may become difficult to differentiate
+-   Use positive and negative side in question stem; for unipolar scales use “if at all”
+-   Do not include or minimize salience of elements not important for respondents
+
+Example 3: 
+<br><img src='/images/posts/survey_design/Slide3.JPG'><br>
+
+Key points: 
+-  Use complete sentences
+-  Use specific, concrete language – do not allow room for interpretation
+-  Use simple, familiar language – avoid abbreviations or specialized language 
+-  Encourage use of desired response types by providing appropriately sizes response fields and labels close to response field
+
+Example 4: 
+<br><img src='/images/posts/survey_design/Slide4.JPG'><br>
+
+Key points: 
+-  Ensure response options are exhaustive and mutually exclusive
+-  If ambiguous, specify that one answer choice should be selected 
+
+Example 5: 
+<br><img src='/images/posts/survey_design/Slide5.JPG'><br>
+
+Key points: 
+-  Reduce complexity; ensure “yes” means yes, and “no” means no
+
+Example 6: 
+<br><img src='/images/posts/survey_design/Slide6.JPG'><br>
+
+Key points: 
+-  Label all response options; avoid using numbers
+-  Ensure even spacing between response options
+-  Align conceptual and visual mid point; may separate non-substantive choices
+-  Use positive and negative side in question stem; for unipolar scales use “if at all”
+
+Example 7: 
+<br><img src='/images/posts/survey_design/Slide7.JPG'><br>
+
+Key points: 
+-  Use visual cues to make it easy to move across the grid
+-  Ensure equal spacing
+-  Break down large grids into a series of smaller grids
+-  Label each column header, and consider labeling each response option
+
+
 -   Ensure the question is technically accurate. Using specialized terms commonly used and accepted among the survey population will likely produce a more accurate measurement.
 -   Make things as easy and simple as possible.
     -   Use complete sentences in question form, with a simple sentence structure and with simple and familiar words. Use specific and concrete words to specify the concept clearly. Do not be vague or allow room for varying interpretations. Avoid double negatives (ensure that "yes" means yes).

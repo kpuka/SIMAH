@@ -47,9 +47,9 @@ Key improvements:
 
 Key improvements:
 -   Reduce complexity - question stem and response options should match
--   Provide balanced scales – categories should be relatively equal distance apart
--   Avoid having too many response options – may become difficult to differentiate
--   State both the positive and negative side in question stem; for unipolar scales use “if at all”
+-   Provide balanced scales - categories should be relatively equal distance apart
+-   Avoid having too many response options because it may become difficult to identify differentiate
+-   State both the positive and negative side in question stem; for unipolar scales use 'if at all'
 -   Do not include or minimize salience of elements not important for respondents
 
 <br>
@@ -58,40 +58,53 @@ Key improvements:
 
 Key improvements:
 -  Use complete sentences
--  Use specific, concrete language – do not allow room for interpretation
--  Use simple, familiar language – avoid abbreviations or specialized language 
+-  Use specific, concrete language; do not allow room for interpretation
+-  Use simple, familiar language; avoid abbreviations or specialized language 
 -  Encourage the use of the desired response type by providing appropriately sized response fields, and labels near the answer field, and templates with answer spaces. Provide a single answer box if only one answer is needed and multiple answer boxes if multiple answers are needed
 
 <br>
 *Example 4*: 
-<br><img src='/images/posts/survey_design/Slide4.jpg'><br>
+<br><img src='/images/posts/survey_design/Slide4.JPG'><br>
+
+Key improvements: 
+-  Use as few words as possible to pose the question
+-  Eliminating wordy and redundant expressions
+-  Provide appropriately sized response fields, and labels near the answer field
+-  If questions require optional/occasional instructions (such as example above), and this information should be presented in a less salient manner and separate from the question stem.
+
+
+
+<br>
+*Example 5*: 
+<br><img src='/images/posts/survey_design/Slide5.jpg'><br>
 
 Key improvements: 
 -  Ensure response options are exhaustive and mutually exclusive
 -  If ambiguous, specify that one answer choice should be selected 
 
+
 <br>
-*Example 5*: 
-<br><img src='/images/posts/survey_design/Slide5.JPG'><br>
+*Example 6*: 
+<br><img src='/images/posts/survey_design/Slide6.JPG'><br>
 
 Key improvements:
 -  Reduce complexity
 -  Avoid double negatives (ensure that "yes" means yes)
 
 <br>
-*Example 6*: 
-<br><img src='/images/posts/survey_design/Slide6.JPG'><br>
+*Example 7*: 
+<br><img src='/images/posts/survey_design/Slide7.JPG'><br>
 
 Key improvements: 
 -  Label all response options; avoid using numbers
 -  Ensure there is equal spacing between answer choices even if some answer choices are longer; items located close together will be perceived as belonging together.
 -  Align conceptual and visual mid point; may separate non-substantive choices
 -  Ensure that the conceptual and visual mid-point of the answer choices are both aligned. Non-substantive answer choices (such as 'don't know', 'undecided') should be placed after and spaced a little further from the substantive answer choices. 
--  State both the positive and negative side in question stem; for unipolar scales use “if at all”
+-  State both the positive and negative side in question stem; for unipolar scales use 'if at all'
 
 <br>
-*Example 7*: 
-<br><img src='/images/posts/survey_design/Slide7.JPG'><br>
+*Example 8*: 
+<br><img src='/images/posts/survey_design/Slide8.JPG'><br>
 
 Key improvements:
 -  Use visual cues (lines, shading) to make it easy to move across the grid

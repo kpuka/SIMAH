@@ -64,7 +64,7 @@ Key improvements:
 
 <br>
 *Example 4*: 
-<br><img src='/images/posts/survey_design/Slide4.JPG'><br>
+<br><img src='/images/posts/survey_design/Slide4.jpg'><br>
 
 Key improvements: 
 -  Use as few words as possible to pose the question
@@ -76,7 +76,7 @@ Key improvements:
 
 <br>
 *Example 5*: 
-<br><img src='/images/posts/survey_design/Slide5.jpg'><br>
+<br><img src='/images/posts/survey_design/Slide5.JPG'><br>
 
 Key improvements: 
 -  Ensure response options are exhaustive and mutually exclusive

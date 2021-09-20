@@ -30,7 +30,7 @@ A questionnaire is not a compilation of independent questions that have no effec
 
 # Designing Effective Questions and Answer Choices
 *Example 1*: 
-<br><img src='/images/posts/survey_design/Slide1.JPG'>
+<br><img src='/images/resources/survey_design/Slide1.JPG'>
 
 Key improvements:
 -  Ask questions that apply to all respondents (e.g. it must require an answer from all respondents)
@@ -43,7 +43,7 @@ Key improvements:
 
 <br>
 *Example 2*: 
-<br><img src='/images/posts/survey_design/Slide2.JPG'><br>
+<br><img src='/images/resources/survey_design/Slide2.JPG'><br>
 
 Key improvements:
 -   Reduce complexity - question stem and response options should match
@@ -54,7 +54,7 @@ Key improvements:
 
 <br>
 *Example 3*: 
-<br><img src='/images/posts/survey_design/Slide3.JPG'><br>
+<br><img src='/images/resources/survey_design/Slide3.JPG'><br>
 
 Key improvements:
 -  Use complete sentences
@@ -64,7 +64,7 @@ Key improvements:
 
 <br>
 *Example 4*: 
-<br><img src='/images/posts/survey_design/Slide4.jpg'><br>
+<br><img src='/images/resources/survey_design/Slide4.jpg'><br>
 
 Key improvements: 
 -  Use as few words as possible to pose the question
@@ -76,7 +76,7 @@ Key improvements:
 
 <br>
 *Example 5*: 
-<br><img src='/images/posts/survey_design/Slide5.JPG'><br>
+<br><img src='/images/resources/survey_design/Slide5.JPG'><br>
 
 Key improvements: 
 -  Ensure response options are exhaustive and mutually exclusive
@@ -85,7 +85,7 @@ Key improvements:
 
 <br>
 *Example 6*: 
-<br><img src='/images/posts/survey_design/Slide6.JPG'><br>
+<br><img src='/images/resources/survey_design/Slide6.JPG'><br>
 
 Key improvements:
 -  Reduce complexity
@@ -93,7 +93,7 @@ Key improvements:
 
 <br>
 *Example 7*: 
-<br><img src='/images/posts/survey_design/Slide7.JPG'><br>
+<br><img src='/images/resources/survey_design/Slide7.JPG'><br>
 
 Key improvements: 
 -  Label all response options; avoid using numbers
@@ -103,7 +103,7 @@ Key improvements:
 
 <br>
 *Example 8*: 
-<br><img src='/images/posts/survey_design/Slide8.JPG'><br>
+<br><img src='/images/resources/survey_design/Slide8.JPG'><br>
 
 Key improvements:
 -  Use visual cues (lines, shading) to make it easy to move across the grid

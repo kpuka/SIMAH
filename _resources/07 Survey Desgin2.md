@@ -43,7 +43,7 @@ Key improvements:
 
 <br>
 *Example 2*: 
-<br><img src='/images/resources/survey_design/Slide2.JPG'><br>
+<br><img src='/images/resources/survey_design/Slide2.jpg'><br>
 
 Key improvements:
 -   Reduce complexity - question stem and response options should match
@@ -76,7 +76,7 @@ Key improvements:
 
 <br>
 *Example 5*: 
-<br><img src='/images/resources/survey_design/Slide5.JPG'><br>
+<br><img src='/images/resources/survey_design/Slide5.jpg'><br>
 
 Key improvements: 
 -  Ensure response options are exhaustive and mutually exclusive

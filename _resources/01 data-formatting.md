@@ -29,7 +29,7 @@ Before sending any data to a statistician, review each point below and check off
 **_Emulate the example dataset and data dictionary below as closely as possible._**
   
 ## The Data File
-**An Example of a Dataset** <br/><img src='/images/posts/data-formatting/data-example.png'>
+**An Example of a Dataset** <br/><img src='/images/resources/data-formatting/data-example.png'>
 
 **Important features to follow:**
 

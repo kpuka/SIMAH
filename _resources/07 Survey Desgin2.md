@@ -98,7 +98,6 @@ Key improvements:
 Key improvements: 
 -  Label all response options; avoid using numbers
 -  Ensure there is equal spacing between answer choices even if some answer choices are longer; items located close together will be perceived as belonging together.
--  Align conceptual and visual mid point; may separate non-substantive choices
 -  Ensure that the conceptual and visual mid-point of the answer choices are both aligned. Non-substantive answer choices (such as 'don't know', 'undecided') should be placed after and spaced a little further from the substantive answer choices. 
 -  State both the positive and negative side in question stem; for unipolar scales use 'if at all'
 

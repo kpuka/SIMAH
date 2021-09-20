@@ -41,7 +41,7 @@ Clinical trials involving pharmaceutical products are commonly categorized into 
 
 ## Parallel-group trial
 Patients randomized to treatment group and followed simultaneously to determine the effect of each treatment 
-<br/><img src='/images/resources/rct1-study-design/parallel.JPG'>  <br/>
+<br/><img src='/images/resources/rct1-study-design/parallel.jpg'>  <br/>
 
 
 ## Crossover trial

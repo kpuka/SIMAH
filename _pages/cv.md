@@ -42,7 +42,7 @@ London, ON <br>
 
 
 ## Summary of Research Accomplishments
-* Published 36 peer-reviewed manuscripts; first author of 24 publications
+* Published >40 peer-reviewed manuscripts; first author of >25 publications
 * Published 7 book chapters; first author of 4 chapters
 * Presented in >40 national and international conferences 
 * Received over $585,000 in research funding as Principal Investigator or Co-Investigator

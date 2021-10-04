@@ -26,33 +26,26 @@ Reporting guidelines have been developed by the Equator Network and should be fo
 
 -   The research objective/hypotheses should be formulated prior to data collection. This will help with the identification and collection of supporting evidence.
 
--    Critically evaluate the quality of the available data and identify potential biases or potential errors.
+-   Critically evaluate the quality of the available data and identify potential biases or potential errors.
 
 -   A number of journals provide guidance documents on how to draft a case report (see Further Readings below).
+
 
 # Ethics Approval
 
 Obtaining patient's consent to publish the case report is very important, and it may also be a journal requirement. In reporting results, care should be taken to maintain the confidentiality of the case.
 
+
 # Data Collection
 
--   Before data collection begins, authors should have a method/protocol in place to accurately collect, store, organize, and access the data while maintaining patient confidentiality.
+Methods typically used include interviews, observation, and archived records. Before data collection begins, authors should have a method/protocol in place to accurately collect, store, organize, and access the data while maintaining patient confidentiality. Whenever possible, data should always be acquired from multiple sources, increasing the credibility of available evidence.
 
--   Whenever possible, data should always be acquired from multiple sources, increasing the credibility of available evidence.
-
--   Methods typically used include interviews, observation, and archived records.
 
 # Analysis and Reporting
 
--   There are no "recipes" to help guide analyses, which will largely depend on the case, the research question, and the researchers' ability to critically evaluate the evidence.
+There are no "recipes" to help guide analyses, which will largely depend on the case, the research question, and the researchers' ability to critically evaluate the evidence. The report should demonstrate critical thinking and logical reasoning and provide a clear and compelling story, highlighting the main learning points. Why a case study design is the preferred method for the research question should also be discussed. Lastly, consider sharing the results and interpretation with the case(s) to evaluate the accuracy of the data.
 
--   The report should demonstrate critical thinking and logical reasoning and provide a clear and compelling story, highlighting the main learning points.
-
--   Researcher should discuss why a case study design is the preferred method for the research question.
-
--   Consider sharing the results and interpretation with the case(s) to evaluate the accuracy of the data.
-
--   Caution should be taken in generalizing results of case reports because they have the potential to allow for over- or misinterpretation.
+Caution should be taken in generalizing results of case reports because they have the potential to allow for over- or mis-interpretation.
 
 # References and Further Readings
 

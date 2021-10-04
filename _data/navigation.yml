@@ -46,6 +46,8 @@ resources-sidebar:
         url: /resources/chart_review/
       - title: "Pilot Studies"
         url: /resources/pilot_studies/
+      - title: "Case Reports"
+        url: /resources/case_report/
       - title: "Systematic Reviews"
         url: /resources/systematic_reviews/
              

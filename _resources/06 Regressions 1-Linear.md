@@ -76,7 +76,7 @@ If the predictor has more than 2 categories, one of the categories is set as the
 - **Prior knowledge from the scientific literature is the most important rationale**. Which variables are known to affect the outcome you are studying?
 - Do not remove variables that just because they are not significant (p >.05). A p>.05 is not a sign that the variables do nothing, it just means that the effects of those variables could not be detected from the sample. Leaving in not-significant variables ensures that your confidence intervals and p-values have the correct interpretation, and they are the most faithful estimates you can make
 - Avoid including variables which are largely homogenous between participants. For example, if you are studying 100 patients, and only 3 of them smoke, the effects of smoking may not be estimated very well due to the small sample of those participants
-- Automated variable selection methods (backward/forward selection) provide biased results and should be avoided. 
+- Automated variable selection methods (backward/forward selection) provide biased results and should be avoided. A more detailed explanation of all of the issues associated with stepwise methods, see section 4.3 in [Regression Modeling Strategies (Harrell, 2015)](https://link.springer.com/book/10.1007/978-3-319-19425-7). 
 
 # Comparing and Centering Regression Coefficients
 In general, it is not possible to compare regression coefficients directly. This is because they describe the effects of a **one-unit** change in a variable (X), therefore, **the magnitude of the regression coefficient is dependent on the units of the covariate.** 
@@ -88,6 +88,7 @@ To compare regression coefficients, they must be on the same scale. If the varia
 
 
 # References and Further Readings
+
+Harrell F. Regression Modelling Strategies With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis. Springer. 2015
+
 Werner V. Regression models as a tool in medical research. NY: Taylor & Francis Inc. 2012.
-
-

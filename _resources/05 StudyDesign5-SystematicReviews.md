@@ -1,5 +1,5 @@
 ---
-title: 'Study Design 4: Systematic Reviews'
+title: 'Study Design 5: Systematic Reviews'
 permalink: /resources/systematic_reviews/
 excerpt_separator: <!--more-->
 tags:

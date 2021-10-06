@@ -16,7 +16,7 @@ My research focuses on the evaluation and treatment of the cognitive and mental 
 
 For a complete publication list, please visit my [Google Scoholar](https://scholar.google.ca/citations?user=ulN-H0UAAAAJ&hl=en) page.
 
-[Functional cognitive and language outcomes after cerebral hemispherectomy for hemimegalencephaly](https://doi.org/10.1111/epi.17088). **Puka K**, Jones M, Mathern GW (2021) Epilepsia. 
+[Functional cognitive and language outcomes after cerebral hemispherectomy for hemimegalencephaly](https://doi.org/10.1111/epi.17088). **Puka K**, Jones M, Mathern GW (2021). Epilepsia. 
 
 [Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy](https://doi.org/10.1111/dmcn.14815). **Puka K**, Smith ML (2021). Developmental Medicine & Child Neurology.
 

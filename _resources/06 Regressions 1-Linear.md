@@ -66,9 +66,9 @@ Note that there are no assumptions about the distribution of the covariates (X).
 # Categorical Predictors 
 The interpretations discussed above expand to binary covariates, (e.g., variables with 2 categories, such as male vs. female). A linear regression with one binary covariate is equivalent to an independent samples t-test. If the variable is coded with a 0 and 1 (e.g., 0 = female, 1 = male), then: 
 
-  β<sub>0</sub> = estimate of Y when X = 0; i.e. the mean of the group coded 0. In our example, if β<sub>0</sub> = 10.0, the mean score of females is 10.0.
+- β<sub>0</sub> = estimate of Y when X = 0; i.e. the mean of the group coded 0. In our example, if β<sub>0</sub> = 10.0, the mean score of females is 10.0.
   
-  β<sub>1</sub> = estimated change of Y when there is a 1 unit increase in X; i.e. the difference in the mean outcome of the two groups. In our example, if β<sub>1</sub>  = 5.0, then mean score of males is 5.0 points higher than females. Since mean score of females is 10.0, the mean score of males is 15.0. 
+- β<sub>1</sub> = estimated change of Y when there is a 1 unit increase in X; i.e. the difference in the mean outcome of the two groups. In our example, if β<sub>1</sub>  = 5.0, then mean score of males is 5.0 points higher than females. Since mean score of females is 10.0, the mean score of males is 15.0. 
 
 If the predictor has more than 2 categories, one of the categories is set as the ‘reference’ category, and other categories are compared against it, similar to above. The reference group is usually the largest group or most clinically relevant.
 

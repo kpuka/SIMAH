@@ -66,15 +66,15 @@ Note that there are no assumptions about the distribution of the covariates (X).
 # Categorical Predictors 
 The interpretations discussed above expand to binary covariates, (e.g., variables with 2 categories, such as male vs. female). A linear regression with one binary covariate is equivalent to an independent samples t-test. If the variable is coded with a 0 and 1 (e.g., 0 = female, 1 = male), then: 
 
-    β<sub>0</sub> = estimate of Y when X = 0; i.e. the mean of the group coded 0. In our example, if β<sub>0</sub> = 10.0, the mean score of females is 10.0.
-    
-    β<sub>1</sub> = estimated change of Y when there is a 1 unit increase in X; i.e. the difference in the mean outcome of the two groups. In our example, if β<sub>1</sub>  = 5.0, then mean score of males is 5.0 points higher than females. Since mean score of females is 10.0, the mean score of males is 15.0. 
+  β<sub>0</sub> = estimate of Y when X = 0; i.e. the mean of the group coded 0. In our example, if β<sub>0</sub> = 10.0, the mean score of females is 10.0.
+  
+  β<sub>1</sub> = estimated change of Y when there is a 1 unit increase in X; i.e. the difference in the mean outcome of the two groups. In our example, if β<sub>1</sub>  = 5.0, then mean score of males is 5.0 points higher than females. Since mean score of females is 10.0, the mean score of males is 15.0. 
 
 If the predictor has more than 2 categories, one of the categories is set as the ‘reference’ category, and other categories are compared against it, similar to above. The reference group is usually the largest group or most clinically relevant.
 
 # Selection of Variables to Enter in the Model
 - A larger sample size is required when multiple predictors are added to the model
-- **Prior knowledge from the scientific literature is the most important rationale**. Which variables are known to affect the outcome you are studying?
+- **Prior knowledge from the scientific literature is the most important rationale**. Which variables are known or thought to affect the outcome you are studying?
 - Do not remove variables that just because they are not significant (p >.05). A p>.05 is not a sign that the variables do nothing, it just means that the effects of those variables could not be detected from the sample. Leaving in not-significant variables ensures that your confidence intervals and p-values have the correct interpretation, and they are the most faithful estimates you can make
 - Avoid including variables which are largely homogenous between participants. For example, if you are studying 100 patients, and only 3 of them smoke, the effects of smoking may not be estimated very well due to the small sample of those participants
 - Automated variable selection methods (backward/forward selection) provide biased results and should be avoided. A more detailed explanation of all of the issues associated with stepwise methods, see section 4.3 in [Regression Modeling Strategies (Harrell, 2015)](https://link.springer.com/book/10.1007/978-3-319-19425-7). 

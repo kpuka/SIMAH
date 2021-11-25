@@ -14,7 +14,7 @@ Linear regression is a method of describing the relationship between a continuou
 
 # How is it Calculated, and What Do Those Numbers Mean?
 
-The figure below shows a scatter plot of two continuous variables (X and Y). We can describe the relationship between X and Y by drawing a straight line through the data points. The data points represent the **observed** values, whereas the line represents the **predicted** values. The  line drawn is as close as possible to the data points, specifically, the distance between data points and the line is minimized. This distance is called  "error" or a "residual". 
+The figure below shows a scatter plot of two continuous variables (X and Y). We can describe the relationship between X and Y by drawing a straight line through the data points. The data points represent the **observed** values, whereas the line represents the **predicted** values; the difference between these two is called the "error" or a "residual". The  line drawn is as close as possible to the data points, specifically, the line of best fit is the one that has the smallest value for the sum of all the "errors" or "residuals". 
 
 <br/><img src='/images/resources/regressions/linear/linear1.JPG'>  <br/>
 

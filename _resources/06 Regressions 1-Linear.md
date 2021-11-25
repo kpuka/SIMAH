@@ -29,7 +29,7 @@ The slope (β<sub>1</sub>) is the estimated change in Y for a **one-unit** incre
 
 With this equation, we can estimate the value of Y for any given value of X.
 
-The value of β<sub>0</sub> and β<sub>1</sub> are calculated and of main interest when conducting a regression. The null-hypothesis is that the regression coefficients (i.e., β<sub>0</sub> and β<sub>1</sub>) equal to 0, that is, the p-values associated with β<sub>0</sub> and β<sub>1</sub> indicate whether they are different from 0. If the line has a slope of zero (i.e., a flat horizontal line; β<sub>1</sub> = 0), X and Y are not associated; the expected value of Y will be the same regardless of the value of X.
+The value of β<sub>0</sub> and β<sub>1</sub> are calculated and are of key interest when conducting a regression. The null-hypothesis is that the regression coefficients (i.e., β<sub>0</sub> and β<sub>1</sub>) equal to 0, that is, the p-values associated with β<sub>0</sub> and β<sub>1</sub> indicate whether they are different from 0. If the line has a slope of zero (i.e., a flat horizontal line; β<sub>1</sub> = 0), X and Y are not associated with each other; the expected value of Y will be the same regardless of the value of X.
 
 
 When there are two predictors (X<sub>1</sub> and X<sub>2</sub>), the regression equation becomes:
@@ -56,18 +56,19 @@ $$ Y = β_0 + (β_1)(X_1) + (β_2)(X_2) + (β_3)(X_3) +... + (β_n)(X_n)$$
 1.  **Linearity** – relationship between the outcome (Y) and the covariates (X) is linear
 2.  **Independence** – observations/participants are independent  of each other
 3.  **Normality** – the residuals (not the outcome) are normally distributed
-4.  **Homogeneity of variance** – the residuals have a constant variance across the levels of X (that is, the variability around the regression line is constant along the length of the regression line).
+4.  **Homogeneity of variance** – the residuals have a constant variance across the levels of X (that is, the variability around the regression line is constant/similar throughout the regression line).
 
-Additionally, you should avoid including covariates that are highly correlated in the same regression model (this is because it becomes much harder to identify their independent effects; issue called multicollinearity). Outliers may also be a concern – observations with large residuals.
+Additionally, you should avoid including covariates that are highly correlated in the same regression model (this is because it becomes much harder to identify their independent effects; this issue is called multicollinearity). Outliers may also be a concern and may skew results – observations with large residuals may need to be removed or a different model needs to be used.
 
 Note that there are no assumptions about the distribution of the covariates (X). 
 
 
 # Categorical Predictors 
-The interpretations discussed above expand to binary covariates, (e.g., variables with 2 categories, such as male vs. female). A linear regression with one binary covariate is equivalent to a t-test. If the variable is coded with a 0 and 1 (e.g. 0 = female, 1 = male), then: 
-β<sub>0</sub> = estimate of Y when X = 0; i.e. the mean of the group coded 0. In our example, if β<sub>0</sub> = 10.0, the mean score of females is 10.0.
+The interpretations discussed above expand to binary covariates, (e.g., variables with 2 categories, such as male vs. female). A linear regression with one binary covariate is equivalent to an independent samples t-test. If the variable is coded with a 0 and 1 (e.g., 0 = female, 1 = male), then: 
 
-β<sub>1</sub> = estimated change of Y when there is a 1 unit increase in X; i.e. the difference in the mean outcome of the two groups. In our example, if β<sub>1</sub>  = 5.0, then mean score of males is 5.0 points higher than females. Since mean score of females is 10.0, the mean score of males is 15.0. 
+    β<sub>0</sub> = estimate of Y when X = 0; i.e. the mean of the group coded 0. In our example, if β<sub>0</sub> = 10.0, the mean score of females is 10.0.
+    
+    β<sub>1</sub> = estimated change of Y when there is a 1 unit increase in X; i.e. the difference in the mean outcome of the two groups. In our example, if β<sub>1</sub>  = 5.0, then mean score of males is 5.0 points higher than females. Since mean score of females is 10.0, the mean score of males is 15.0. 
 
 If the predictor has more than 2 categories, one of the categories is set as the ‘reference’ category, and other categories are compared against it, similar to above. The reference group is usually the largest group or most clinically relevant.
 

@@ -7,14 +7,12 @@ permalink: /cv/
 
 {% include base_path %}
 
-# Abbreviated Eduction and Work Experience:
-
-## Education
+# Education
 **PhD**, Epidemiology and Biostatistics, Western University, 2021\
 **HBSc**, Psychology and Biology, University of Toronto, 2013
 
 
-## Work experience
+# Work experience
 **_Project Scientist_** (2021/03 - Present) <br>
 Institute for Mental Health Policy Research, <br>
 Centre for Addiction and Mental Health <br>
@@ -39,11 +37,11 @@ London, ON <br>
 
 # Complete Resume:
 
-To download a PDF version of my resume <a href="/files/Klajdi_Puka_resume.pdf" target="_blank"> please click here </a> 
+To download a PDF version of my resume <a href="/files/Klajdi_Puka_Resume.pdf" target="_blank"> please click here</a>. 
 
 
 # Complete CV:
 
-To download a PDF version of my complete CV <a href="/files/Klajdi_Puka_CV.pdf" target="_blank"> please click here </a> 
+To download a PDF version of my complete CV <a href="/files/Klajdi_Puka_CV.pdf" target="_blank"> please click here</a>. 
 
 

@@ -7,18 +7,11 @@ permalink: /cv/
 
 {% include base_path %}
 
-# Complete CV:
+# Abbreviated Eduction and Work Experience:
 
-
-To download a PDF version of my complete CV <a href="/files/Klajdi_Puka_CV.pdf" target="_blank"> please click here </a> 
-
-
-# Abbreviated CV:
 ## Education
 **PhD**, Epidemiology and Biostatistics, Western University, 2021\
 **HBSc**, Psychology and Biology, University of Toronto, 2013
-
-
 
 
 ## Work experience
@@ -39,19 +32,18 @@ London, ON <br>
 Epidemiology and Biostatistics, Western University <br>
 London, ON <br>
 
+**_PhD Research Scientist_** (2016/09 - 2021/04) <br>
+Epidemiology and Biostatistics, Western University <br>
+London, ON <br>
 
 
-## Summary of Research Accomplishments
-* Published >40 peer-reviewed manuscripts; first author of >25 publications
-* Published 7 book chapters; first author of 4 chapters
-* Presented in >40 national and international conferences 
-* Received over $585,000 in research funding as Principal Investigator or Co-Investigator
-* Awarded over $185,000 in scholarship funding
+# Complete Resume:
+
+To download a PDF version of my resume <a href="/files/Klajdi_Puka_resume.pdf" target="_blank"> please click here </a> 
 
 
+# Complete CV:
 
-## Summary of Professional and Leadership Experience 
-* **Vice-Chair**, Canadian Chapter of the Young Epilepsy Section (YES) of the International League Against Epilepsy (ILAE); 2019 - Present
-* **Secretary/Treasurer**, Canadian Paediatric Epilepsy Network; 2019 - Present
-* **Chair**, Epidemiology & Biostatistics Students' Council, Western University; 2017 - 2019 
-* **Website Committee Member**, Canadian League Against Epilepsy (CLAE); 2017 - Present 
+To download a PDF version of my complete CV <a href="/files/Klajdi_Puka_CV.pdf" target="_blank"> please click here </a> 
+
+

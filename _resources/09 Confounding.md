@@ -30,7 +30,7 @@ Confounding may lead to an overestimation of the true strength of the associatio
 # Control of Confounding: Design Stage
 
 ## Randomization
-[Randomization](/resources/rct2_randomization/) breaks any link/association between exposure and confounder. This is the only method that controls for measured and unmeasured confounding factors. 
+[Randomization](/resources/randomization/) breaks any link/association between exposure and confounder. This is the only method that controls for measured and unmeasured confounding factors. 
 
 Limitations: may be unethical to randomize to treatment; confounding may still be introduced when there is high attrition (drop out); covariates may remain imbalanced if sample size is small.
 

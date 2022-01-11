@@ -11,7 +11,7 @@ Topic: Introduction to survival analysis methods, including Kaplan Meier curves 
 
 # Introduction
 
-Survival analysis is a set of methods used when time to an event is of primary interest. A typical example is comparing time to death over an X-year period after a given event, or estimating time to hospital-readmission within 30-days. These methods are particularly powerful because they can accommodate censored (i.e. missing) data. Survival analysis can get quite complex and consultation with a statistician is highly recommended.
+Survival analysis is a set of methods used when '*time to an event*' is of primary interest. A typical example is comparing time to death over an X-year period after a given event, or estimating time to hospital-readmission within 30-days. These methods are particularly powerful because they can accommodate censored (i.e. missing) data. Survival analysis can get quite complex and consultation with a statistician is highly recommended.
 
 Two outcome variables are required for survival analyses, a binary variable indicating whether or not the event of interest occurred, and a continuous variable describing the follow-up time (e.g. in hours, days, years, etc.). The starting point of the follow-up time must be defined and consistent for all patients. Follow up time ends if 1) the patient has the event, 2) the patient is lost to follow up (i.e., patient is censored), 3) the data collection period ends. Notably, the follow-up time must be a time during which the individual is 'at risk' of having the outcome. For example, if the event of interest is re-admission to hospital, follow-up time must start when the patient is discharged from their original admission, and not during the first hospital admission.
 

@@ -12,8 +12,7 @@ I provide individual statistical and methodological consulting services, and can
 * Grant proposal development 
 * Questionnaire design
 * Data Management
-* Data analysis and interpretation
-* Data visualization 
+* Data analysis, visualization, and interpretation
 * Scientific manuscript preparation
 
 Please get in touch to inquire about these services and whether I may be able to help with your project. I offer a free consultation to scope the project needs and estimate the cost of the work. 

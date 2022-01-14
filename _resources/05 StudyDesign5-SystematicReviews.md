@@ -72,7 +72,7 @@ Importantly, the guide below is brief and reviewing the [Cochrane Handbook](http
 -   Tables and figures help to present details and results of included studies in a systematic and clear format
 
 
-# Step-by-Step Guide
+# Step-by-step guide to conducting the search
 
 1. Visit your institution's library, and navigate to the Databases list:
 <img src="/images/resources/systematic_reviews/systematic_reviews1.JPG"/> <br/> 

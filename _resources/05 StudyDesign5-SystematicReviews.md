@@ -35,7 +35,7 @@ Importantly, the guide below is brief and reviewing the [Cochrane Handbook](http
 -   Multiple databases should be used -- e.g. MEDLINE, EMBASE, CINAHL, Web of Science, Scopus. The appropriate databases will depend on your review (e.g. PsychINFO for mental health topics).
     -   Clinical Trials registers and trials results registers are an increasingly important source of information to ensure that publication bias is minimized (e.g. to minimize the "file-drawer problem").
     -   Forward and backward citation tracking should also be used (manually screening the studies that cite the studies in your review, and screening the reference list of the studies in the review, respectively)
--   Search using keywords and subject headings (see example in the Appendix below)
+-   Search using keywords and subject headings (also referred to as MeSH terms)
     -   Many databases can be searched using standardized subject headings (e.g. MeSH terms) that are assigned by the indexers. They provide a way of retrieving articles that may use different words to describe the same concept and provide information beyond keywords.
     -   To ensure you're not missing important terms, examine articles you know fit your criteria and review the key words and MeSH terms associated with such articles
     -   Use Boolean operators (AND, OR, and NOT) to facilitate the search (e.g. for alternate spelling / synonyms)

@@ -33,10 +33,9 @@ Before sending any data to a statistician, review each point below and check off
 
 -   Each row is an observation (e.g. a participant).
 
--   Each column is a variable.
-    Each column should represent one unique feature/attribute, for example, blood pressure (BP) is represented by two columns, one column for systolic BP and another for diastolic BP.
+-   Each column is a variable representing one unique feature/attribute. For example, blood pressure (BP) is represented by two columns, one column for systolic BP and another for diastolic BP.
 
--   Categorical information (such as sex, ethnicity, etc) are consistently coded as either strings or numbers.
+-   Categorical information (such as sex, ethnicity, etc) are consistently coded as either numbers or strings (letter(s) or word(s)).
     If you choose to code categorical variables with strings, make sure they are consistent (e.g. all male subjects are coded as "M" and not a variant thereof).
 
 -   The data have no superfluous formatting.

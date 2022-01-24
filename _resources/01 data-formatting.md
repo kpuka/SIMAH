@@ -17,7 +17,7 @@ Before sending any data to a statistician, review each point below and check off
 
 -   Delete any variables that will not be utilized by the statistician, such as variables collected as part of a larger study or descriptive text that was important when data was entered.
 
--   Removing variables that are not important greatly aids the statistician as they attempt to become familiar with the data and gain a better understanding of it.
+    -   Removing variables that are not important greatly aids the statistician as they attempt to become familiar with the data and gain a better understanding of it.
 
 -   The outcome and primary 'predictors' of interest are easy to find in the dataset.
     A good rule of thumb is to have the outcome variable in the far most right column(s).

@@ -22,10 +22,8 @@ Before sending any data to a statistician, review each point below and check off
 -   The outcome and primary 'predictors' of interest are easy to find in the dataset.
     A good rule of thumb is to have the outcome variable in the far most right column(s).
 
--   Remove any identifiable patient information.
-    If patients are measured multiple times in the study, give them a unique study identifier.
-    Emulate the example dataset and data dictionary below as closely as possible.
-    
+-   Remove any identifiable patient information, and give each participant a unique study identifier.
+
 **_Emulate the example dataset and data dictionary below as closely as possible._**
   
 ## The Data File

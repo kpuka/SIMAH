@@ -17,13 +17,13 @@ It is important to remember that the reviewer's specialty may differ from that o
 
 Consider the following general points to improve clarity and readability:
 * **Leave nothing open to interpretation**. Be direct and explicit in labeling the purpose of a sentence or section. 
-	* Examples: 'This project is innovative because.'; 
-		* 'The long-term goal of this project is..'
-		* 'We are a multidisciplinary team spanning cardiologists, pathologists, epidemiologists and statisticians, with the expertise to undertake the proposed research because.'
+	* Examples: 'This project is innovative because...'; 
+		* 'The long-term goal of this project is...'
+		* 'We are a multidisciplinary team spanning cardiologists, pathologists, epidemiologists and statisticians, with the expertise to undertake the proposed research because...'
 	
 * Use bolded, underlined, or italicized text (in moderation) to highlight key phrases to make them easy to find. Phases such as "long-term goal", "objective", "specific aims", "innovative".
 * Be mindful of the visual appearance of the proposal and ensure that it is not overcrowded. White space and page or section breaks are important to consider.  
-* Don't use a lot of acronyms or jargon 
+* Don't use a lot of jargon or abbreviations (especially non-standard abbreviations); it is cognitive taxing to keep track of jargon or multiple abbreviations. Consider boding the first instance of an abbreviation to make it easier for reviewers to find and refer back to. 
 * Avoid using clichés (e.g. state-of-the-art equipment) and colloquialisms - assume reviewers may not be primarily English speaking or from Canada. 
 
 As much as possible use the language of the agency guidelines, where applicable, to reinforce how your project fits with their funding priorities. If the agency is calling for innovative projects describe your project as "innovative", do not leave it to the reviewer to assume its innovative based on your scientific description of your project. Again, don't make reviewers work for it. 

@@ -12,7 +12,7 @@ Topic: Review of randomization, its importance, and the different options for ra
 
 # What Is Randomization and Why Use It?
 
-Random assignment means that each participant has a known chance, usually an equal chance, of being assigned to a specific group, but the assignment cannot be predicted. Randomization minimizes bias and controls for known and unknown confounding variables. It ensures that patients in each group are similar with respect to all possible characteristics/variables.
+Random assignment means that each participant has a known chance, usually an equal chance, of being assigned to a specific group, but the assignment cannot be predicted. Randomization minimizes bias and controls for known and unknown confounding variables. It ensures that you end up with groups that would have had the same distribution of future outcomes (or baseline risk) if they had not participated in the study; this way, if the distribution of outcomes in your intervention group is better relative to the comparison group, it can be ascribed to the effects of the intervention. 
 
 Assigning patients to a treatment group according to a systematic factor (such as date of birth, terminal digit of the hospital number, or alternatively into the different groups) is not true randomization. Such methods also make it possible to know what treatment a potential patient would receive, and this knowledge may influence the decision to recruit that patient, leading to selection bias.
 

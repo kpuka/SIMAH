@@ -30,7 +30,7 @@ London, ON <br>
 Epidemiology and Biostatistics, Western University <br>
 London, ON <br>
 
-**_PhD Research Scientist_** (2016/09 - 2021/04) <br>
+**_PhD Candidate_** (2016/09 - 2021/04) <br>
 Epidemiology and Biostatistics, Western University <br>
 London, ON <br>
 

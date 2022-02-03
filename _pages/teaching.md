@@ -11,19 +11,27 @@ A cornerstone of my teaching philosophy is the alignment of learning outcomes, a
 ## Western University (London, ON)
 
 ### Courses
-* Biostatistics9500: Biostatistics for clinicians (Summer 2021) <br>    
+* Summer 2021 <br> 
+  Biostatistics 9500: Epidemiology & Biostatistics <br> 
+	Graduate Orthodontics & Dentofacial Orthopaedics <br> 
+	Schulich School of Medicine & Dentistry, Western University <br>    
 
 ### Workshops
-* Data management and analysis using SAS (July 2019). <br> 
+* July 2019 <br> 
+  Data management and analysis using SAS. <br> 
   Epidemiology & Biostatistics 2019 Summer Workshop Series
   
-* An applied introduction to analyzing and visualizing interactions in SAS (May 2018). <br> 
+* May 2018 <br> 
+  An applied introduction to analyzing and visualizing interactions in SAS. <br> 
   Epidemiology & Biostatistics 2018 Summer Workshop Series
   
-* "I have my data! Now what?" SAS basics and data management (July 2019). <br> 
+* Nov 2017 <br> 
+  "I have my data! Now what?" SAS basics and data management. <br> 
   Department of Epidemiology & Biostatistics <br>
   
+  
 ### Certifications Received
-* Advanced Teaching Program (May 2019) <br> 
+* May 2019 <br> 
+  Advanced Teaching Program <br> 
   Centre for Teaching and Learning, Western Univesity. <br> 
   Completed a 20-hour course covering topics such as course design strategies, active learning, authentic assessment of student learning, and maintaining a culture of respect and community. 

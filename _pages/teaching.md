@@ -14,20 +14,24 @@ A cornerstone of my teaching philosophy is the alignment of learning outcomes, a
 * Summer 2021 <br> 
   Biostatistics 9500: Epidemiology & Biostatistics <br> 
 	Graduate Orthodontics & Dentofacial Orthopaedics <br> 
-	Schulich School of Medicine & Dentistry, Western University <br>    
+	Schulich School of Medicine & Dentistry, <br>
+	Western University <br>    
 
 ### Workshops
 * July 2019 <br> 
   Data management and analysis using SAS. <br> 
-  Epidemiology & Biostatistics 2019 Summer Workshop Series
+  Epidemiology & Biostatistics 2019 Summer Workshop Series, <br>
+	Western University <br>    
   
 * May 2018 <br> 
   An applied introduction to analyzing and visualizing interactions in SAS. <br> 
-  Epidemiology & Biostatistics 2018 Summer Workshop Series
+  Epidemiology & Biostatistics 2018 Summer Workshop Series, <br>
+	Western University <br>    
   
 * Nov 2017 <br> 
   "I have my data! Now what?" SAS basics and data management. <br> 
-  Department of Epidemiology & Biostatistics <br>
+  Department of Epidemiology & Biostatistics, <br>
+	Western University <br>    
   
   
 ### Certifications Received

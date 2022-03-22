@@ -34,6 +34,10 @@ London, ON <br>
 Epidemiology and Biostatistics, Western University <br>
 London, ON <br>
 
+**_Clinical Research Project Coordinator_** (2010/12 - 2016/08) <br>
+Department of Psychology, Hospital for Sick Children and University of Toronto <br>
+Toronto, ON <br>
+
 
 # Complete Resume:
 

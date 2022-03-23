@@ -18,22 +18,18 @@ The assessment of inter-rater reliability (IRR) provides a way of quantifying th
 Reliability is defined as the extent to which measurements can be replicated. It reflects not only the degree of correlation but also agreement between measurements.
 
 # Continuous Data
-
 An initial step is to plot the two measures and draw a line in which all points would lie if the two methods gave exactly the same result (see Figure 1).
+<br/><img src='/images/resources/interrater_reliability/fig1.jpg' width="300"><br/>
 
-<br/><img src='/images/resources/interrater_reliability/fig1.JPG'><br/>
 
 ## Correlation is not appropriate
-
 Correlation measures strength of relation, not agreement.
-
 There is perfect agreement only if the points in Figure 1 lie on the diagonal line shown. There would be perfect correlation if the points lie along any straight line.
 
 
 ## **Graphic Assessment of Agreement**
-
-Use a Bland and Altman plot, which shows the relationship between the difference in scores against their mean (e.g. Figure 2). 
-<img src='/images/resources/interrater_reliability/fig2.JPG'><br/>
+Use a Bland and Altman plot, which shows the relationship between the difference in scores against their mean (e.g. Figure 2). <br/>
+<br/><img src='/images/resources/interrater_reliability/fig2.jpg' width="400"><br/>
 
 If the difference score (*d*) is normally distributed, we would expect 95% of the values to lie between (*d* + 1.96 * SD<sub>d</sub>)and (*d* - 1.96 * SD<sub>d</sub>). SD<sub>d</sub> is the standard deviation of the difference score. These are the 95% *limits of agreement*, and define the range within which most differences between measurements will lie (these are not the same as confidence intervals).
 
@@ -44,22 +40,20 @@ The plot also shows the difference between scores, and whether the difference be
 
 
 ## Measuring Reliability; The Intraclass Correlation Coefficient (ICC)
-
 ICC incorporates the magnitude of agreement in the IRR estimate, unlike kappa statistics (described below) which quantifies IRR based on all-or-nothing agreement.
 
 ICC typically ranges from 0 to 1. Negative ICCs indicate systematic disagreement. Though the use of cut-off values is debated, ICC can be interpretable based on the 95% confidence interval as poor (<.50), moderate (0.50 - 0.75), good (0.75 - 0.90) or excellent reliability (>0.90).
 
 See Hallgren (2012) for a SPSS and R tutorial for calculating ICC, and an overview of the different types of ICCs based on the nature of your study.
 
+
 # Categorical Data
 
 ## Kappa
-
 When data are categorical, it is misleading to look at the percent agreement as a measure of agreement/reliability (e.g. agreed on 45 instances out of 50, so 90%). This does not take into account the agreement we would expect by chance even if the two ratings were unrelated.
-
 The kappa statistic measures the level of agreement between raters for a set of categorical ratings and corrects for agreement that would be expected by chance, providing a standardized index of inter-rater reliability that can be generalized across studies.
 
-$$ $kappa$ = frac{P(a) - P(e)}{1 - P(e)} $$
+$$ \kappa = \frac{P(a) - P(e)}{1 - P(e)} $$
 
 where, P(a) = percent agreement, and P(e) = probability of expected agreement due to chance.
 

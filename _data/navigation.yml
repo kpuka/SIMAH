@@ -18,6 +18,7 @@ main:
   - title: "CV/Resume"
     url: /cv/
 
+
 # resouces links
 resources-sidebar:
   - title: "Getting Started"
@@ -77,3 +78,5 @@ resources-sidebar:
         url: /resources/rd_rr_od/  
       - title: "Confounding"
         url: /resources/confounding/
+      - title: "Inter-rater Reliability"
+        url: /resources/inter_rater_reliability/

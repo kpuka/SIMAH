@@ -59,7 +59,7 @@ When data are categorical, it is misleading to look at the percent agreement as 
 
 The kappa statistic measures the level of agreement between raters for a set of categorical ratings and corrects for agreement that would be expected by chance, providing a standardized index of inter-rater reliability that can be generalized across studies.
 
-$$ $\\kappa\$ = \\frac{P(a) - P(e)}{1 - P(e)}$$
+$$ $kappa$ = frac{P(a) - P(e)}{1 - P(e)} $$
 
 where, P(a) = percent agreement, and P(e) = probability of expected agreement due to chance.
 

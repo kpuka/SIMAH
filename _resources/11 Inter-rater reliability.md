@@ -19,7 +19,7 @@ Reliability is defined as the extent to which measurements can be replicated. It
 
 # Continuous Data
 An initial step is to plot the two measures and draw a line in which all points would lie if the two methods gave exactly the same result (see Figure 1).
-<br/><img src='/images/resources/interrater_reliability/fig1.jpg' width="100"><br/>
+<br/><img src='/images/resources/interrater_reliability/fig1.jpg' width="300"><br/>
 
 
 ## Correlation is not appropriate
@@ -29,7 +29,7 @@ There is perfect agreement only if the points in Figure 1 lie on the diagonal li
 
 ## **Graphic Assessment of Agreement**
 Use a Bland and Altman plot, which shows the relationship between the difference in scores against their mean (e.g. Figure 2). 
-<img src='/images/resources/interrater_reliability/fig2.jpg' width="20"><br/>
+<img src='/images/resources/interrater_reliability/fig2.jpg' width="200"><br/>
 
 If the difference score (*d*) is normally distributed, we would expect 95% of the values to lie between (*d* + 1.96 * SD<sub>d</sub>)and (*d* - 1.96 * SD<sub>d</sub>). SD<sub>d</sub> is the standard deviation of the difference score. These are the 95% *limits of agreement*, and define the range within which most differences between measurements will lie (these are not the same as confidence intervals).
 

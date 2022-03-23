@@ -29,7 +29,7 @@ There is perfect agreement only if the points in Figure 1 lie on the diagonal li
 
 ## **Graphic Assessment of Agreement**
 Use a Bland and Altman plot, which shows the relationship between the difference in scores against their mean (e.g. Figure 2). 
-<img src='/images/resources/interrater_reliability/fig2.jpg' width="250"><br/>
+<img src='/images/resources/interrater_reliability/fig2.jpg' width="300"><br/>
 
 If the difference score (*d*) is normally distributed, we would expect 95% of the values to lie between (*d* + 1.96 * SD<sub>d</sub>)and (*d* - 1.96 * SD<sub>d</sub>). SD<sub>d</sub> is the standard deviation of the difference score. These are the 95% *limits of agreement*, and define the range within which most differences between measurements will lie (these are not the same as confidence intervals).
 

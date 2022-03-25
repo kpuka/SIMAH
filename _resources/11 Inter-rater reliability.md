@@ -31,7 +31,7 @@ There is perfect agreement only if the points in Figure 1 lie on the diagonal li
 Use a Bland and Altman plot, which shows the relationship between the difference in scores against their mean (e.g. Figure 2). <br/>
 <br/><img src='/images/resources/interrater_reliability/fig2.jpg' width="400"><br/>
 
-If the difference score (*d*) is normally distributed, we would expect 95% of the values to lie between (*d* + 1.96 * SD<sub>d</sub>)and (*d* - 1.96 * SD<sub>d</sub>). SD<sub>d</sub> is the standard deviation of the difference score. These are the 95% *limits of agreement*, and define the range within which most differences between measurements will lie (these are not the same as confidence intervals).
+If the difference score (*d*) is normally distributed, we would expect 95% of the values to lie between (*d* + 1.96 * SD<sub>d</sub>) and (*d* - 1.96 * SD<sub>d</sub>). SD<sub>d</sub> is the standard deviation of the difference score. These are the 95% *limits of agreement*, and define the range within which most differences between measurements will lie (these are not the same as confidence intervals).
 
 If the differences indicated by the limits of agreement are not considered to be clinically meaningful, then the two methods of measurement can be used interchangeably. You must use clinical judgment determine what is a clinically meaningful difference. For example if a 5-point difference is clinically meaningful and the limits of agreement indicate that most difference scores lie between -3 to 4, then you can use the two measures interchangeably.
 

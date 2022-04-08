@@ -16,6 +16,8 @@ My research focuses on the evaluation and treatment of the cognitive and mental 
 
 For a complete publication list, please visit my [Google Scoholar](https://scholar.google.ca/citations?user=ulN-H0UAAAAJ&hl=en) page.
 
+[Educational Attainment and Lifestyle Risk Factors Associated With All-Cause Mortality in the US](https://doi.org/10.1001/jamahealthforum.2022.0401). **Puka K**, Buckley C, Mulia N, ..., Probst C (2022). JAMA Health Forum, 3, e220401.
+
 [Functional cognitive and language outcomes after cerebral hemispherectomy for hemimegalencephaly](https://doi.org/10.1111/epi.17088). **Puka K**, Jones M, Mathern GW (2021). Epilepsia, 62, 2932-2940. 
 
 [Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy](https://doi.org/10.1111/dmcn.14815). **Puka K**, Smith ML (2021). Developmental Medicine & Child Neurology, 63, 690-696.

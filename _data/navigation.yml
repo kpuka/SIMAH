@@ -39,7 +39,7 @@ resources-sidebar:
       - title: "Other Considerations"
         url: /resources/rct_other/
  
-  - title: "Study Design"
+  - title: "Other Study Designs"
     children:
       - title: "Case Control"
         url: /resources/case_control/

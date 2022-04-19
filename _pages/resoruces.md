@@ -25,7 +25,7 @@ Below are a list of resources developed to introduce trainees to a variety of me
 -   [Other Considerations](/resources/rct_other/)
 
 
-### Study Design
+### Other Study Designs
 -   [Case Control](/resources/case_control/)
 -   [Retrospective Chart Review](/resources/chart_review/)
 -   [Pilot Studies](/resources/pilot_studies/)

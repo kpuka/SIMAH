@@ -12,7 +12,12 @@ permalink: /cv/
 **HBSc**, Psychology and Biology, University of Toronto, 2013
 
 
-# Work experience
+# Work experience and Appointments
+
+**_Adjunct Research Professor_** (2022/05 - Present) <br>
+Department of Medicine, Western University <br>
+London, ON <br>
+
 **_Project Scientist_** (2021/03 - Present) <br>
 Institute for Mental Health Policy Research, <br>
 Centre for Addiction and Mental Health <br>

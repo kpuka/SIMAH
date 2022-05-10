@@ -48,7 +48,7 @@ Key improvements:
 Key improvements:
 -   Reduce complexity - question stem and response options should match
 -   Provide balanced scales - categories should be relatively equal distance apart
--   Avoid having too many response options because it may become difficult to identify differentiate
+-   Avoid having too many response options because it may become difficult to differentiate items
 -   State both the positive and negative side in question stem; for unipolar scales use 'if at all'
 -   Do not include or minimize salience of elements not important for respondents
 

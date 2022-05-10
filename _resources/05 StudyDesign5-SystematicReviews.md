@@ -8,15 +8,17 @@ tags:
 <!--more-->
 Topic: Review of systematic reviews and the steps involved in conducting your own review. A step-by-step example of the search strategy is also presented.
 
-Importantly, the guide below is brief and reviewing the [Cochrane Handbook](http://www.handbook.cochrane.org/) and working with a librarian and statistician is highly advisable. 
+Importantly, the guide below is brief and reviewing the <a href="http://www.handbook.cochrane.org/" target="_blank">Cochrane Handbook</a> and working with a librarian and statistician is highly advisable. 
 
 # What is it? What do I need to know before I start?
 
 Systematic reviews address a specific research question by identifying and then combining all available evidence using explicit, systematic methods that are specified *a priori* to minimize bias. Systematic reviews may be completed with or without a meta-analysis (i.e. use of statistical methods to quantitatively summarize the results of independent studies).
 
-The steps involved include: protocol development, searching for studies, assessing citations and full-text reports for eligibility, assessing risk of bias, collecting data, pursuing missing data and unpublished studies, analyzing the data, interpreting the results, and writing the review
+The steps involved include: protocol development, searching for studies, assessing citations and full-text reports for eligibility, assessing risk of bias, collecting data, pursuing missing data and unpublished studies, analyzing the data, interpreting the results, and writing the review.
 
-Numerous programs are available, and should be used to facilitate the process of managing/screening articles. For example, Covidence.
+Numerous programs are available, and should be used to facilitate the process of managing/screening articles. For example, <a href="https://www.covidence.org/" target="_blank">Covidence</a>.
+
+
 
 
 
@@ -27,7 +29,7 @@ Develop a study protocol to establish and document search strategy and methodolo
 
 Criteria that will force the unnecessary exclusion of studies should be avoided.
 
-It is encouraged that systematic reviews are registered at PROSPERO and/or protocols are published. Changes to the protocol are sometimes necessary, but should not be based on how they affect the outcome of the research study; changes should also be explicitly reported.
+It is encouraged that systematic reviews are registered at <a href="https://www.crd.york.ac.uk/prospero/" target="_blank">PROSPERO</a> and/or protocols are published. Changes to the protocol are sometimes necessary, but should not be based on how they affect the outcome of the research study; changes should also be explicitly reported.
 
 
 ## 2. Search for articles
@@ -35,7 +37,7 @@ Seeking the help of a research librarian is highly recommended to understand whi
 
 The search should be based on the main concepts being examined in the review. That is, use search terms relating the to 1) health condition of interest, 2) intervention of interest, 3) study design (e.g. randomized trial); avoid using too many different concepts. You should aim for high sensitivity; i.e. extensive search so that all eligible studies are identified and included. It is however, necessary to strike a balance between comprehensiveness and relevance. 
 
-Search using keywords and subject headings (also referred to as MeSH terms). Many databases can be searched using standardized subject headings (e.g. MeSH terms) that are assigned by the indexers. They provide a way of retrieving articles that may use different words to describe the same concept and provide information beyond keywords. To ensure you're not missing important terms, examine articles you know fit your criteria and review the key words and MeSH terms associated with such articles. Use Boolean operators (AND, OR, and NOT) to facilitate the search (e.g. for alternate spelling / synonyms). Use asterisks for truncation (e.g. "random\*" for random or randomised or randomized, etc), and '?' for wildcard (e.g. "wom?n" for woman or women)
+Search using keywords and subject headings (also referred to as MeSH terms). Many databases can be searched using standardized subject headings (e.g. MeSH terms) that are assigned by the indexers. They provide a way of retrieving articles that may use different words to describe the same concept and provide information beyond keywords. To ensure you're not missing important terms, examine articles you know fit your criteria and review the key words and MeSH terms associated with such articles. Use Boolean operators (AND, OR, and NOT) to facilitate the search (e.g. for alternate spelling / synonyms). Use asterisks for truncation (e.g. "random\*" for random or randomised or randomized, etc), and '?' for wildcard (e.g. "wom?n" for woman or women).
 
 Multiple databases should be used -- e.g. MEDLINE, EMBASE, CINAHL, Web of Science, Scopus. The appropriate databases will depend on your review (e.g. PsychINFO for mental health topics). Clinical Trials registers and trials results registers are an increasingly important source of information to ensure that publication bias is minimized (e.g. to minimize the "file-drawer problem"). Forward and backward citation tracking should also be used (manually screening the studies that cite the studies in your review, and screening the reference list of the studies in the review, respectively).
 

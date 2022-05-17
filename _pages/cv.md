@@ -12,7 +12,7 @@ permalink: /cv/
 **HBSc**, Psychology and Biology, University of Toronto, 2013
 
 
-# Work experience and Appointments
+# Work Experience and Appointments
 
 **_Adjunct Research Professor_** (2022/05 - Present) <br>
 Department of Medicine, Western University <br>

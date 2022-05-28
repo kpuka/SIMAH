@@ -1,8 +1,7 @@
 ---
 permalink: /
-title: SIMAH
+title: :SIMAH"
 author_profile: false
-layout: splash
 redirect_from: 
   - /about/
   - /about.html

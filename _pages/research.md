@@ -1,79 +1,28 @@
 ---
-layout: archive
-title: Research
-permalink: /research/
-author_profile: true
+layout: splash
+title: About the project
+permalink: /about/
 ---
 
 {% include base_path %}
 
-My research focuses on the evaluation and treatment of the cognitive and mental health sequelae of chronic pediatric health conditions. Specifically, I have focused on children with epilepsy, of whom 80% experience cognitive, psychiatric, and/or psychosocial impairments. These comorbidities remain undiagnosed and untreated in two thirds of children and have been shown to predict poorer long-term functioning and well-being, even more so than seizures. The **long-term goal** of my research is to improve the quality of life and quality of healthcare received by children with chronic health conditions and their families. In achieving this goal, I pursue **two lines of research**: (1) identify the mechanism through which cognitive, psychiatric, and psychosocial impairments manifest among youth with chronic health conditions, and (2) design, evaluate, and implement clinical trials of behavioral interventions to ameliorate these impairments. I have also worked closely with large population-based data, evaluating the impact of health behaviors and health inequalities on health outcomes and adverse events. The application of advanced quantitative methods and methods-development work borne out of methodological challenges are also important aspects of my research program.
+SIMAH: Simulation of Alcohol Control Policies for Health Equity
+
+SIMAH is a major alcohol policy modeling project funded by the US National Institute on Alcohol Abuse and Alcoholism (NIAAA). Project number 5R01AA028009.   
+
+The project is an international collaboration between researchers at three world-leading centers in alcohol research and policy modeling:
+•	the Institute for Mental Health Policy Research at the Centre for Addiction and Mental Health (Toronto, ON, Canada) 
+•	the Alcohol Research Group at the Public Health Institute (Emeryville, CA, US) 
+•	the Sheffield Alcohol Research Group at the University of Sheffield, (Sheffield, UK) 
 
 
+Life expectancy in the United States (US) has been stagnating and declining since about 2010. This trend is a result of increased mortality from specific causes of death (including alcohol-attributable mortality), especially among specific demographic subgroups. However, there have been no comprehensive evaluations of alcohol use as an underlying factor for mortality increases in specific socioeconomic and racial/ethnic groups in the US. SIMAH aims to fill this gap in knowledge. 
 
+SIMAH will integrate existing evidence with rich and diverse data sources to develop a unified computer model of mortality and alcohol use across different socioeconomic and racial/ethnic groups. This computer model will allow for a detailed investigation of the underlying causes for the recent declines in life expectancy in the US and offer novel insights to reverse these trends. 
 
-# Select Publications:	
+More specifically, SIMAH will:
+1)	Investigate whether (and the extent to which) alcohol use has more harmful effects among disadvantaged socioeconomic and racial/ethnic groups. 
+2)	Develop a unified computer model to identify population-level trends in mortality and their causes based on individual life trajectories.
+3)	Inform public health policy by investigating different scenarios of alcohol-control interventions, with regard to their ability to reverse current decreases in life expectancy.
 
-For a complete publication list, please visit my [Google Scoholar](https://scholar.google.ca/citations?user=ulN-H0UAAAAJ&hl=en) page.
-
-[Educational Attainment and Lifestyle Risk Factors Associated With All-Cause Mortality in the US](https://doi.org/10.1001/jamahealthforum.2022.0401). **Puka K**, Buckley C, Mulia N, ..., Probst C (2022). JAMA Health Forum, 3, e220401.
-
-[Functional cognitive and language outcomes after cerebral hemispherectomy for hemimegalencephaly](https://doi.org/10.1111/epi.17088). **Puka K**, Jones M, Mathern GW (2021). Epilepsia, 62, 2932-2940. 
-
-[Long-term outcomes across multiple cognitive domains among youth with medically resistant epilepsy](https://doi.org/10.1111/dmcn.14815). **Puka K**, Smith ML (2021). Developmental Medicine & Child Neurology, 63, 690-696.
-
-[A live-online mindfulness-based intervention for children living with epilepsy and their families: Protocol for a randomized controlled trial of Making Mindfulness Matter](https://doi.org/10.1186/s13063-020-04792-3). **Puka K**, Bax K, ..., Speechley KN (2021). Trials 21, 922. 
-
-[Long-term quality of life trajectories among individuals diagnosed with epilepsy in childhood](https://doi.org/10.1111/epi.16579). **Puka K**, Ferro MA, ..., Speechley KN (2020). Epilepsia 61, 1453-1463. 
-
-[Validation of the Quality of Life in Childhood Epilepsy Questionnaire (QOLCE-55 and QOLCE-16) for use by parents of young adults with childhood-onset epilepsy](https://doi.org/10.1016/j.yebeh.2020.106904). **Puka K**, Goodwin SW, ..., Speechley KN (2020). Epilepsy & Behavior 104, 106904.
-
-[Social outcomes of adults with childhood-onset epilepsy: a systematic review and meta-analysis](http://doi.org/10.1016/j.yebeh.2019.01.012). **Puka K**, Tavares PT, Speechley KN (2019). Epilepsy & Behavior 92, 297-305.
-
-[A systematic review of quality of life in parents of children with epilepsy](https://doi.org/10.1016/j.yebeh.2018.03.008). **Puka K**, Tavares PT, Anderson KK, Ferro MA, Speechley KN (2018). Epilepsy & Behavior 82, 35-45.
-
-[The impact of family factors on IQ in pediatric medically refractory epilepsy](https://doi.org/10.1037/neu0000308). **Puka K**, Smith ML, Widjaja E (2017). Neuropsychology 31, 129-136.
-
-[Development of intelligence 4 to 11 years after pediatric epilepsy surgery](https://doi.org/10.1111/jnp.12081). **Puka K**, Tavares TP, Smith ML (2017). Journal of Neuropsychology, 11, 161-173.
-
-[Health resource utilization varies by comorbidities in children with epilepsy](https://doi.org/10.1016/j.yebeh.2016.02.011). **Puka K**, Smith ML, Moineddin R, Snead OC, Widjaja E (2016). Epilepsy & Behavior, 57, 151-154. 
-
-[The influence of socio-economic status on health resource utilization in pediatric epilepsy in a universal health insurance system](https://doi.org/10.1111/epi.13290). **Puka K**, Smith ML, Moineddin R, Snead OC, Widjaja E (2016). Epilepsia, 57, 455-463. 
-
-[Predictors of long-term quality of life after pediatric epilepsy surgery](https://doi.org/10.1111/epi.13004). **Puka K**, Smith ML (2015). Epilepsia, 56, 873-881. 
-
-<br>
-
-
-# Book Chapters:	
-
-**Epilepsy.**<br> 
-Pediatric Neuropsychology: Research, Theory and Practice, 3rd edition. Guilford Press.<br>
-**Puka K**, Smith ML (In press). 
-
-[Quality of Life of children and families](https://doi.org/10.1016/B978-0-444-64148-9.00028-4).<br>
-Handbook of Clinical Neurology, Volume 174 Neurocognitive development: disorders and disabilities. Elsevier.<br>
-**Puka K**, Conway L, Smith ML (2020).
-
-[Postoperative neuropsychological and psychosocial outcome](https://doi.org/10.1055/b-0039-171706).<br>
-Pediatric Epilepsy Surgery: Preoperative Assessment and Surgical Treatment, 2nd edition: Thieme.<br>
-**Puka K**, Smith ML (2019).
-
-[Epilepsy](https://doi.org/10.1017/9781316996751.011).<br>
-Neuropsychological conditions across the lifespan. Cambridge University Press.<br>
-Janecek J, **Puka K**, Schulze E, Smith ML (2018).
-
-
-[Aggregating Data](https://doi.org/10.1007/978-3-319-28099-8_1278-1).<br>
-Encyclopedia of Personality and Individual Differences. Springer International Publishing. <br>
-**Puka K** (2017).
-
-
-[Epilepsy and cognition](https://doi.org/10.1007/978-3-319-39144-1_13). <br>
-Epilepsy and Intellectual Disabilities, 2nd edition, Springer International Publishing. <br>
-Smith ML, **Puka K** (2016). 
-
-
-[Quality of life and psychosocial outcomes in children](https://doi.org/10.1007/978-3-319-17783-0_13). <br>
-Long-term outcomes of epilepsy surgery in adults and children (pp. 193-207). Springer International Publishing.<br>
-Smith ML, **Puka K** (2015).
+The computer model developed will be made publicly available and will allow knowledge users to obtain robust estimates of the direction and magnitude of intervention effects over time. Importantly, it will facilitate a fine-tuned knowledge translation platform that can be tailored to the needs of public health authorities on the state level. Instead of providing results in the form of a single point estimate, the computer model has the potential to flexibly analyze intervention scenarios upon request of stakeholders.

@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: About the project
+title: "About the project"
 permalink: /about/
 ---
 

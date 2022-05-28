@@ -1,14 +1,27 @@
 ---
 permalink: /
-title: "About Me"
-author_profile: true
+title: SIMAH
+author_profile: false
+layout: splash
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Project Scientist at the Centre for Addiction and Mental Health (CAMH) and an Adjunct Professor in Epidemiology and Biostatistics at Western University. My research focuses on investigating and intervening on modifiable factors of health outcomes. Specifically, I have focused on modeling mental health outcomes over time and examining their interactions with clinical characteristics, family environment, health behaviors, and socioeconomic status. This work has been used to inform my second line of research, focused on the implementation and evaluation of behavioural interventions through randomized control trials. The application of advanced quantitative methods and methods-development work are important aspects of my research program. 
+Simulation of Alcohol Control Policies for Health Equity (SIMAH) is a  major alcohol policy modeling project funded by the US National Institute on Alcohol Abuse and Alcoholism (NIAAA).
 
-Previously, I have worked as a methodologist/statistician and completed a PhD in Epidemiology and Biostatistics. Through these experiences I have worked closely with a broad range of stakeholders, providing scientific expertise, critically apprising and synthesizing information, and clearly explaining technical concepts. I have advanced knowledge of clinical and epidemiological research methods and biostatistics, and importantly, I have developed excellent communication skills. Lastly, I have also built key relationships with multidisciplinary stakeholders and provided leadership by setting and overseeing the attainment of project goals, and managing competing interests, priorities and deadlines.
+Over the past decade, the United States is experiencing stagnation and declines in life expectancy due to an increase in mortality from poisoning, suicide, motor vehicle-related injuries, chronic liver diseases and cirrhosis, pneumonia and diabetes mellitus– for all of which alcohol use is a causal risk factor. The SIMAH project investigates the role of alcohol use in these developments, with a focus on socioeconomic status and race/ethnicity as modifying factors on the link between alcohol use and mortality. Through simulation of the effects of different alcohol control interventions, SIMAH will provide tangible approaches to reverse the current decrease in life expectancy in the United States, while focussing on preventing further increases in health inequalities.
 
-I also provide statistical and methodological consulting services at a nominal fee; for more information, click here [here](/consulting/). 
+About the project (link)
+What we do (link)
+Project Aims (link)
+Research Team (link)
+Publications (link)
+
+Who we work with:
+Center for Addiction and Mental Health (CAMH) 
+Alcohol Research Group (ARG)  
+Sheffield Alcohol Research Group (SARG)  
+National Institute on Alcohol Abuse and Alcoholism (NIAAA)  
+
+

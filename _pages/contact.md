@@ -2,9 +2,11 @@
 layout: splash
 title: "Contact"
 permalink: /contact/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 ---
 
-# Contact
 
 SIMAH is led by Dr. Charlotte Probst, Independent Scientist at the Institute for Mental Health Policy Research at the Centre for Addiction and Mental Health (CAMH), Canada. 
 

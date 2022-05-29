@@ -1,6 +1,9 @@
 ---
 layout: splash
 title: "About the Project"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 permalink: /about/
 ---
 

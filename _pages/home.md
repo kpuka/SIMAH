@@ -9,8 +9,9 @@ header:
 excerpt: "Simulation of Alcohol Control Policies for Health Equity (SIMAH). A  major alcohol policy modeling project funded by the US National Institute on Alcohol Abuse and Alcoholism (NIAAA)."
 feature_row:
   - image_path: "files/SIMAH Logo1.png"
-    title: "About the Project"
+    btn_label: "About the Project"
     url: "/about/"
+    btn_class: "btn--large"
   - image_path: "files/SIMAH Logo1.png"
     title: "Research Team"
     url: "/team/"

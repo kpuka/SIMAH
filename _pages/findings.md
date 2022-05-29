@@ -1,6 +1,6 @@
 ---
 layout: splash
 title: Findings
-permalink: /finding/
+permalink: /findings/
 ---
 

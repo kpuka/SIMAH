@@ -29,7 +29,7 @@ feature_row:
 {% include feature_row %}
 
 # Who we work with:
-Center for Addiction and Mental Health (CAMH)[https://camh.ca] <br>
+[Center for Addiction and Mental Health (CAMH)](https://camh.ca) <br>
 Alcohol Research Group (ARG)  <br>
 Sheffield Alcohol Research Group (SARG)  <br>
 National Institute on Alcohol Abuse and Alcoholism (NIAAA)  

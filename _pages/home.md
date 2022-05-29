@@ -23,7 +23,8 @@ feature_row:
     btn_class: "btn--large"
     url: "/findings/"
 ---
-{% include feature_row id="intro" %}
+{% include feature_row id="intro" type="center"%}
+
 {% include feature_row %}
 
 # Who we work with:

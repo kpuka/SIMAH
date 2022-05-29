@@ -24,8 +24,6 @@ feature_row:
     url: "/findings/"
 ---
 
-{% include feature_row id="intro" type="left" %}
-
 {% include feature_row %}
 
 # Who we work with:

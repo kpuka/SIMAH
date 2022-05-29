@@ -13,7 +13,7 @@ main:
     url: /consulting/
     
   - title: "News"
-    url: /resources/
+    url: /news/
             
   - title: "Contact"
     url: /contact/

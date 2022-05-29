@@ -1,82 +1,19 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  - title: "About the Project"
+    url: /about/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research Team"
+    url: /team/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Findings"
+    url: /findings/    
     
   - title: "Consulting Services"
     url: /consulting/
     
-  - title: "Resources"
+  - title: "News"
     url: /resources/
             
-  - title: "CV/Resume"
-    url: /cv/
-
-
-# resouces links
-resources-sidebar:
-  - title: "Getting Started"
-    children:
-      - title: "Data Formatting"
-        url:  /resources/data_formatting/
-      - title: "Sample Size Calculator"
-        url:  /resources/sample_size_calculator/
-      - title: "Developing a Research Proposal"
-        url: /resources/research_protocol/
-
-  - title: "Clinical Trials"
-    children:
-      - title: "Study Design"
-        url: /resources/rct_design/
-      - title: "Randomization"
-        url: /resources/randomization/
-      - title: "Other Considerations"
-        url: /resources/rct_other/
- 
-  - title: "Other Study Designs"
-    children:
-      - title: "Case Control"
-        url: /resources/case_control/
-      - title: "Retrospective Chart Review"
-        url: /resources/chart_review/
-      - title: "Pilot Studies"
-        url: /resources/pilot_studies/
-      - title: "Case Reports"
-        url: /resources/case_report/
-      - title: "Systematic Reviews"
-        url: /resources/systematic_reviews/
-             
-  - title: "Regressions"
-    children:
-      - title: "Linear Regression"
-        url: /resources/linear_reg/
-      - title: "Logistic Regression"
-        url: /resources/logistic_reg/
-      - title: "Survival Analysis"
-        url: /resources/surival_reg/
-      - title: "Multilevel (Mixed) Models"
-        url: /resources/multilevel_models/
-             
-  - title: "Survey Design"
-    children:
-      - title: "Invitation and Follow-up"
-        url: /resources/survey1_invitation/
-      - title: "Desiging Effective Questions"
-        url: /resources/survey2_questions/
-
-  - title: "Other Topics"
-    children:
-      - title: "Statistical vs. Clinical Significance"
-        url:  /resources/stat_clin_significance/
-      - title: "Working with Categorical Data"
-        url: /resources/rd_rr_od/  
-      - title: "Confounding"
-        url: /resources/confounding/
-      - title: "Inter-rater Reliability"
-        url: /resources/inter_rater_reliability/
+  - title: "Contact"
+    url: /contact/

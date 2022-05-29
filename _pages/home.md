@@ -10,13 +10,13 @@ excerpt: "Simulation of Alcohol Control Policies for Health Equity (SIMAH). A  m
 feature_row:
   - image_path: "files/SIMAH Logo1.png"
     title: "About the Project"
-    url: "about/"
+    url: "/about/"
   - image_path: "files/SIMAH Logo1.png"
     title: "Research Team"
-    url: "team/"
+    url: "/team/"
   - image_path: "files/SIMAH Logo1.png"
     title: "Findings"
-    url: "findings/"
+    url: "/findings/"
 ---
 
 {% include feature_row id="intro" type="center" %}

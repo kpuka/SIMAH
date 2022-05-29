@@ -12,11 +12,11 @@ feature_row:
     btn_label: "About the Project"
     btn_class: "btn--large"
     url: "/about/"
-  - image_path: "/files/SIMAH Logo1.png"
+  - image_path: 
     btn_label: "Research Team"
     btn_class: "btn--large"
     url: "/team/"
-  - image_path: "/files/SIMAH Logo1.png"
+  - image_path: 
     btn_label: "Findings"
     btn_class: "btn--large"
     url: "/findings/"

@@ -56,10 +56,14 @@ Prior to joining the University of Sheffield, Charlotte received her PhD from th
 ### Klajdi Puka, Centre for Addiction and Mental Health (CAMH), Canada
 <img src='/images/Klajdi_Puka.png' align="left" width="150">
 Klajdi Puka, PhD, is a Project Scientist at the Institute for Mental Health Policy Research at CAMH, and an Adjust Professor of Epidemiology and Biostatistics at Western University. Dr. Puka’s research focuses on investigating modifiable factors of health outcomes and randomized trials. Specifically, he has focused on modeling mental health outcomes over time and examining their interactions with clinical characteristics, family environment, health behaviors, and socioeconomic status. This work has been used to inform his second line of research, focused on the implementation and evaluation of behavioural interventions through randomized control trials. The application of advanced quantitative methods and methods-development work are important aspects of his research program. 
+<br>
+<br>
 
 
 ### Yu Ye, Alcohol Research Group, US
-
+<br>
+<br>
+<br>
 
 
 
@@ -92,7 +96,9 @@ In her previous research, Dr. Kilian studied the role of gender and socioeconomi
 ### Yachen Zhu, Alcohol Research Group, US
 <img src='/images/Yachen_Zhu.png' align="left" width="150">
 Yachen Zhu, PhD, is a Biostatistician at the Alcohol Research Group, Public Health Institute. Yachen received her Ph.D. in Public Health with a concentration on Global Health from the University of California, Irvine. She obtained her Master's degree in Applied Statistics and Bachelor's degree in Statistics from the University of Science and Technology of China. In her doctoral dissertation, she used advanced statistical techniques to investigate the impacts of environmental risk factors on susceptible populations in the US. She has experience implementing Monte Carlo simulations and Approximate Bayesian Computation for complex environmental and pharmacokinetic models. She will bring her expertise in Statistics and Public Health into alcohol-related health studies.
-
+<br>
+<br>
+<br>
 
 
 ### Tessa Carr, Centre for Addiction and Mental Health, Canada

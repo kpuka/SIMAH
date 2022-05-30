@@ -84,7 +84,7 @@ She has experience in analyzing epidemiological data of alcohol use and alcohol-
 Carolin Kilian, PhD, holds a post-doctoral research fellow position at the Institute for Mental Health Policy Research at CAMH. Her research focuses on how alcohol policy interventions influence alcohol consumption as a function of gender and socioeconomic status. 
 
 In her previous research, Dr. Kilian studied the role of gender and socioeconomic status on alcohol consumption and alcohol-related mortality. She has been working in different pan-European projects and in collaboration with the European Office of the World Health Organisation.
-\pagebreak
+</div>
 
 ### Yachen Zhu, Alcohol Research Group, US
 <img src='/images/Yachen_Zhu.png' align="left" width="150">

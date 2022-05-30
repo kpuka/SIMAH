@@ -6,7 +6,7 @@ permalink: /team/
 ## Principal Investigator
 
 ### Charlotte Probst, Centre for Addiction and Mental Health (CAMH), Canada
-<img src="/images/Charlotte_Probst.png" align="left" width="150">
+<img src="/images/Charlotte_Probst.PNG" align="left" width="150">
 Charlotte Probst, PhD, is an Independent Scientist in CAMH’s Institute for Mental Health Policy Research. In addition to her work at CAMH, Dr. Probst is a Research Group Lead at the Heidelberg Institute of Global Health at Heidelberg University in Germany.
 
 Her research is concerned with substance use, alcohol use in particular and addictions across large populations, with a focus on the social determinants of substance use and the broad impacts on society. With her research, Dr. Probst aims to understand the mechanisms underlying the growing socioeconomic inequalities in health, with a focus on alcohol-related outcomes from a global perspective and develop tangible intervention strategies to reduce socioeconomic inequalities in alcohol-related health burden.
@@ -47,7 +47,6 @@ Prior to joining ARG, Nina was involved in HIV prevention and intervention resea
 ## Researchers
 
 ### Charlotte Buckley, University of Sheffield, UK
-<img src='/images/Charlotte_Buckley.png' align="left" width="150">
 Charlotte Buckley, PhD, is a Research Fellow at the University of Sheffield. Her research is focused on the development and utilization of advanced quantitative methods to understand and explore population-level health behaviors. She has developed a dynamic microsimulation model of population alcohol use in the United States and has used this to explore the relationship beween alcohol use and liver cirrhosis. This model is being extended on the SIMAH project, to investigate associations between socioeconomic inequalities, alcohol use and mortality. 
 
 Prior to joining the University of Sheffield, Charlotte received her PhD from the School of Psychological Science, University of Bristol. Her wider interests are in incorporating psychological factors into complex systems models of health behaviours and outcomes.

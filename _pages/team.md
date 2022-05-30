@@ -3,7 +3,7 @@ title: Research Team
 permalink: /team/
 ---
 
-<img src='/images/Charlotte_Probst.png'>
+<img src='/images/CharlotteProbst.png'>
 
 ## Principal Investigator
 

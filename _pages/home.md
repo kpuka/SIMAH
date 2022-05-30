@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#6E298D"
   overlay_filter: "0.5"
-excerpt: "**Sim**ulation of **A**lcohol Control Policies for **H**ealth Equity (SIMAH). A  major alcohol policy modeling project funded by the US National Institute on Alcohol Abuse and Alcoholism (NIAAA)."
+excerpt: "**Sim**ulation of **A**lcohol Control Policies for **H**ealth Equity (SIMAH).<br>A  major alcohol policy modeling project funded by the US National Institute on Alcohol Abuse and Alcoholism (NIAAA)."
 feature_row:
   - image_path: 
     btn_label: "About the Project"

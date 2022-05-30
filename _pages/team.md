@@ -2,7 +2,6 @@
 title: Research Team
 permalink: /team/
 ---
-<img src='SIMAH/images/data-example.png'>
 
 ## Principal Investigator
 

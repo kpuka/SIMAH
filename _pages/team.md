@@ -63,9 +63,7 @@ Klajdi Puka, PhD, is a Project Scientist at the Institute for Mental Health Poli
 
 ## Yu Ye
 **Alcohol Research Group, US**<br>
-<br>
-<br>
-<br>
+
 
 
 ## Aurélie Lasserre
@@ -87,17 +85,12 @@ Laura Llamosas-Falcón, MD, MPH, studied Medicine at the University of Cantabria
 **Centre for Addiction and Mental Health (CAMH), Canada**<br>
 Carolin Kilian, PhD, holds a post-doctoral research fellow position at the Institute for Mental Health Policy Research at CAMH. Her research focuses on how alcohol policy interventions influence alcohol consumption as a function of gender and socioeconomic status. In her previous research, Dr. Kilian studied the role of gender and socioeconomic status on alcohol consumption and alcohol-related mortality. She has been working in different pan-European projects and in collaboration with the European Office of the World Health Organisation.
 
-<br>
-<br>
-<br>
 
 ## Yachen Zhu
 <img src='/images/Yachen_Zhu.png' align="left" width="200" style="border:5px solid white">
 **Alcohol Research Group, US**<br>
 Yachen Zhu, PhD, is a Biostatistician at the Alcohol Research Group, Public Health Institute. Yachen received her Ph.D. in Public Health with a concentration on Global Health from the University of California, Irvine. She obtained her Master's degree in Applied Statistics and Bachelor's degree in Statistics from the University of Science and Technology of China. In her doctoral dissertation, she used advanced statistical techniques to investigate the impacts of environmental risk factors on susceptible populations in the US. She has experience implementing Monte Carlo simulations and Approximate Bayesian Computation for complex environmental and pharmacokinetic models. She will bring her expertise in Statistics and Public Health into alcohol-related health studies.
-<br>
-<br>
-<br>
+
 
 
 ## Tessa Carr

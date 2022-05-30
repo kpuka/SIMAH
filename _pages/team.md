@@ -3,13 +3,15 @@ title: Research Team
 permalink: /team/
 layout: single
 toc: true
+toc_label: "Research Team"
+toc_icon: "user-friends"
 ---
 
 # Principal Investigator
 
 ## Charlotte Probst
-**Centre for Addiction and Mental Health (CAMH), Canada**<br>
 <img src='/images/Charlotte_Probst.png' align="left" width="200" border="5">
+**Centre for Addiction and Mental Health (CAMH), Canada**<br>
 Charlotte Probst, PhD, is an Independent Scientist in CAMH’s Institute for Mental Health Policy Research. In addition to her work at CAMH, Dr. Probst is a Research Group Lead at the Heidelberg Institute of Global Health at Heidelberg University in Germany.
 
 Her research is concerned with substance use, alcohol use in particular and addictions across large populations, with a focus on the social determinants of substance use and the broad impacts on society. With her research, Dr. Probst aims to understand the mechanisms underlying the growing socioeconomic inequalities in health, with a focus on alcohol-related outcomes from a global perspective and develop tangible intervention strategies to reduce socioeconomic inequalities in alcohol-related health burden.
@@ -17,8 +19,8 @@ Her research is concerned with substance use, alcohol use in particular and addi
 
 # Co-Investigators 
 ## Jürgen Rehm
-**Centre for Addiction and Mental Health (CAMH), Canada**<br>
 <img src='/images/Jurgen_Rehm.png' align="left" width="200" border="50">
+**Centre for Addiction and Mental Health (CAMH), Canada**<br>
 Jürgen Rehm, PhD, is Senior Scientist in the Institute for Mental Health Policy Research and in the Campbell Family Mental Health Research Institute at CAMH. He is Professor and Inaugural Chair of Addiction Policy in the Dalla Lana School of Public Health at the University of Toronto.
 Dr. Rehm is a leader in generating and analyzing the scientific data needed to inform clinicians and policy-makers of strategies to reduce alcohol-, tobacco-, and other drug-related harm. His recent research has more and more included interactions between socio-economic status, poverty and substance use, including analysis of policies and interventions with respect to reducing or increasing inequalities. His work has been awarded with numerous awards and prizes, most importantly, the Jellinek Memorial Award (2003) and the European Addiction Research Award (2017).
 

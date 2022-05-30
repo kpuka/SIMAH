@@ -1,7 +1,6 @@
 ---
 title: Research Team
 permalink: /team/
-layout: archive
 ---
 
 ## Principal Investigator

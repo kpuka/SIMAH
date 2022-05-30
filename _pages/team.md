@@ -2,11 +2,9 @@
 title: Research Team
 permalink: /team/
 ---
-<img src='/images/data-example.png'>
-
-test
 
 <img src='/images/Charlotte_Probst.png'>
+
 ## Principal Investigator
 
 ### Charlotte Probst, Centre for Addiction and Mental Health (CAMH), Canada

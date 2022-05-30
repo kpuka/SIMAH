@@ -7,7 +7,7 @@ toc: true
 ## Principal Investigator
 
 ### Charlotte Probst
-<img src='/files/Charlotte_Probst.png'>
+<img src='/files/Charlotte_Probst.png' class="inline" width="500">
 **Centre for Addiction and Mental Health (CAMH), Canada**
 Charlotte Probst, PhD, is an Independent Scientist in CAMH’s Institute for Mental Health Policy Research. In addition to her work at CAMH, Dr. Probst is a Research Group Lead at the Heidelberg Institute of Global Health at Heidelberg University in Germany.
 

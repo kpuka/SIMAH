@@ -5,7 +5,7 @@ permalink: /about/
 
 {% include base_path %}
 
-SIMAH: Simulation of Alcohol Control Policies for Health Equity
+SIMAH: **Sim**ulation of **A**lcohol Control Policies for **H**ealth Equity
 
 SIMAH is a major alcohol policy modeling project funded by the US National Institute on Alcohol Abuse and Alcoholism (NIAAA). Project number 5R01AA028009.   
 

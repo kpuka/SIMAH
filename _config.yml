@@ -218,7 +218,7 @@ defaults:
     values:
       layout: splash
       header:
-        overlay_color: "#000"
+        overlay_color: "#6E298D"
         overlay_filter: "0.5"
       author_profile: false
  

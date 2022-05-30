@@ -2,6 +2,9 @@
 title: Research Team
 permalink: /team/
 ---
+<img src='/images/data-example.png'>
+
+test
 
 <img src='/images/CharlotteProbst.png'>
 

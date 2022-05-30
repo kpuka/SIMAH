@@ -47,6 +47,7 @@ Prior to joining ARG, Nina was involved in HIV prevention and intervention resea
 # Researchers
 
 ## Charlotte Buckley
+<img src='/images/Charlotte_Buckley.png' align="left" width="200" style="border:5px solid white">
 **University of Sheffield, UK**<br>
 Charlotte Buckley, PhD, is a Research Fellow at the University of Sheffield. Her research is focused on the development and utilization of advanced quantitative methods to understand and explore population-level health behaviors. She has developed a dynamic microsimulation model of population alcohol use in the United States and has used this to explore the relationship beween alcohol use and liver cirrhosis. This model is being extended on the SIMAH project, to investigate associations between socioeconomic inequalities, alcohol use and mortality. 
 

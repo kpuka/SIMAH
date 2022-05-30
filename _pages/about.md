@@ -7,12 +7,12 @@ permalink: /about/
 
 SIMAH: **Sim**ulation of **A**lcohol Control Policies for **H**ealth Equity
 
-SIMAH is a major alcohol policy modeling project funded by the US National Institute on Alcohol Abuse and Alcoholism (NIAAA). Project number 5R01AA028009.   
+SIMAH is a major alcohol policy modeling project funded by the US National Institute on Alcohol Abuse and Alcoholism (NIAAA). Project number [5R01AA028009](https://reporter.nih.gov/search/9oxAjOUESEyCT5gKAelzDw/project-details/10234001#description).   
 
 The project is an international collaboration between researchers at three world-leading centers in alcohol research and policy modeling:
-- the Institute for Mental Health Policy Research at the Centre for Addiction and Mental Health (Toronto, ON, Canada) 
-- the Alcohol Research Group at the Public Health Institute (Emeryville, CA, US) 
-- the Sheffield Alcohol Research Group at the University of Sheffield, (Sheffield, UK) 
+- [Institute for Mental Health Policy Research at the Centre for Addiction and Mental Health (Toronto, ON, Canada)](https://www.camh.ca/en/science-and-research/institutes-and-centres/institute-for-mental-health-policy-research) 
+- [Alcohol Research Group at the Public Health Institute (Emeryville, CA, US)](https://arg.org/)
+- [Sheffield Alcohol Research Group at the University of Sheffield, (Sheffield, UK)](https://www.sheffield.ac.uk/scharr/research/themes/alpol) 
 
 
 Life expectancy in the United States (US) has been stagnating and declining since about 2010. This trend is a result of increased mortality from specific causes of death (including alcohol-attributable mortality), especially among specific demographic subgroups. However, there have been no comprehensive evaluations of alcohol use as an underlying factor for mortality increases in specific socioeconomic and racial/ethnic groups in the US. SIMAH aims to fill this gap in knowledge. 

@@ -6,7 +6,7 @@ permalink: /team/
 ## Principal Investigator
 
 ### Charlotte Probst, Centre for Addiction and Mental Health (CAMH), Canada
-<img src='/images/Charlotte_Probst.png' align="left" width="150">
+<img src='/images/Charlotte_Probst.png' align="left" width="200>
 Charlotte Probst, PhD, is an Independent Scientist in CAMH’s Institute for Mental Health Policy Research. In addition to her work at CAMH, Dr. Probst is a Research Group Lead at the Heidelberg Institute of Global Health at Heidelberg University in Germany.
 
 Her research is concerned with substance use, alcohol use in particular and addictions across large populations, with a focus on the social determinants of substance use and the broad impacts on society. With her research, Dr. Probst aims to understand the mechanisms underlying the growing socioeconomic inequalities in health, with a focus on alcohol-related outcomes from a global perspective and develop tangible intervention strategies to reduce socioeconomic inequalities in alcohol-related health burden.
@@ -15,7 +15,7 @@ Her research is concerned with substance use, alcohol use in particular and addi
 ## Co-Investigators 
 
 ### Jürgen Rehm, Centre for Addiction and Mental Health (CAMH), Canada
-<img src='/images/Jurgen_Rehm.png' align="left" width="150">
+<img src='/images/Jurgen_Rehm.png' align="left" width="200">
 Jürgen Rehm, PhD, is Senior Scientist in the Institute for Mental Health Policy Research and in the Campbell Family Mental Health Research Institute at CAMH. He is Professor and Inaugural Chair of Addiction Policy in the Dalla Lana School of Public Health at the University of Toronto.
 Dr. Rehm is a leader in generating and analyzing the scientific data needed to inform clinicians and policy-makers of strategies to reduce alcohol-, tobacco-, and other drug-related harm. His recent research has more and more included interactions between socio-economic status, poverty and substance use, including analysis of policies and interventions with respect to reducing or increasing inequalities. His work has been awarded with numerous awards and prizes, most importantly, the Jellinek Memorial Award (2003) and the European Addiction Research Award (2017).
 
@@ -27,13 +27,8 @@ William Kerr, PhD, is a senior scientist at the Alcohol Research Group (ARG), Pu
 
 ### Robin Purshouse, University of Sheffield, UK
 <img src='/images/Robin_Purshouse.png' align="left" width="150">
-Robin Purshouse, PhD, is Professor of Decision Sciences at the University of Sheffield. He led the CASCADE project that developed the foundational microsimulation methods and tools now being used and extended in SIMAH.
+Robin Purshouse, PhD, is Professor of Decision Sciences at the University of Sheffield. He led the CASCADE project that developed the foundational microsimulation methods and tools now being used and extended in SIMAH. Dr. Purhouse’s research focuses on the development and application of advanced quantitative methods for informing population health policy. He has expertise in dynamical systems modelling, particularly exploring how agent-based models, capturing the bidirectional relationships between individuals and social structures, can explain change and stasis in population health outcomes over time. He is interested in how psychosocial theories and evidential uncertainty can be incorporated into computer models to both explain and estimate the effect of policy. He has pioneered machine learning methods that fuse theory with data to discover competing explanations for observed long-term population trends in alcohol use in the USA.
 
-Robin’s research focuses on the development and application of advanced quantitative methods for informing population health policy. He has expertise in dynamical systems modelling, particularly exploring how agent-based models, capturing the bidirectional relationships between individuals and social structures, can explain change and stasis in population health outcomes over time.
-
-Robin is interested in how psychosocial theories and evidential uncertainty can be incorporated into computer models to both explain and estimate the effect of policy. He has pioneered machine learning methods that fuse theory with data to discover competing explanations for observed long-term population trends in alcohol use in the USA.
-
-Robin holds an MEng in Control Systems Engineering (1999) and a PhD in Control Systems (2004). Before returning to academia in 2008, he worked as a management consultant at PA Consulting Group. He was recipient of an ESRC Future Research Leaders award (2012-2014). He teaches undergraduate and postgraduate courses on agent-based modelling and decision systems at the University of Sheffield.
 
 ### Nina Mulia, Alcohol Research Group, US
 <img src='/images/Nina_Mulia.png' align="left" width="150">

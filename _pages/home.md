@@ -3,7 +3,7 @@ title: "SIMAH"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
+  overlay_color: "#6E298D"
   overlay_filter: "0.5"
   overlay_image: files/SIMAH Logo1.png
 excerpt: "Simulation of Alcohol Control Policies for Health Equity (SIMAH). A  major alcohol policy modeling project funded by the US National Institute on Alcohol Abuse and Alcoholism (NIAAA)."
@@ -29,7 +29,7 @@ Over the past decade, the United States is experiencing stagnation and declines 
 # Who we work with:
 [Center for Addiction and Mental Health (CAMH)](https://camh.ca) <br>
 [Alcohol Research Group (ARG)](https://arg.org)  <br>
-Sheffield Alcohol Research Group (SARG)  <br>
-National Institute on Alcohol Abuse and Alcoholism (NIAAA)  
+[Sheffield Alcohol Research Group (SARG)](https://www.sheffield.ac.uk/scharr/research/themes/alpol)  <br>
+[National Institute on Alcohol Abuse and Alcoholism (NIAAA)](https://www.niaaa.nih.gov/)
 
 

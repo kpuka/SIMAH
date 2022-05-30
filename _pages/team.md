@@ -1,7 +1,7 @@
 ---
 title: Research Team
 permalink: /team/
-layout: wide
+layout: archive
 toc: true
 ---
 
@@ -16,8 +16,9 @@ Her research is concerned with substance use, alcohol use in particular and addi
 
 
 # Co-Investigators 
-## Jürgen Rehm, Centre for Addiction and Mental Health (CAMH), Canada
+## Jürgen Rehm
 <img src='/images/Jurgen_Rehm.png' align="left" width="200">
+**Centre for Addiction and Mental Health (CAMH), Canada**<br>
 Jürgen Rehm, PhD, is Senior Scientist in the Institute for Mental Health Policy Research and in the Campbell Family Mental Health Research Institute at CAMH. He is Professor and Inaugural Chair of Addiction Policy in the Dalla Lana School of Public Health at the University of Toronto.
 Dr. Rehm is a leader in generating and analyzing the scientific data needed to inform clinicians and policy-makers of strategies to reduce alcohol-, tobacco-, and other drug-related harm. His recent research has more and more included interactions between socio-economic status, poverty and substance use, including analysis of policies and interventions with respect to reducing or increasing inequalities. His work has been awarded with numerous awards and prizes, most importantly, the Jellinek Memorial Award (2003) and the European Addiction Research Award (2017).
 
@@ -46,8 +47,9 @@ Charlotte Buckley, PhD, is a Research Fellow at the University of Sheffield. Her
 Prior to joining the University of Sheffield, Charlotte received her PhD from the School of Psychological Science, University of Bristol. Her wider interests are in incorporating psychological factors into complex systems models of health behaviours and outcomes.
 
 
-## Klajdi Puka, Centre for Addiction and Mental Health (CAMH), Canada
+## Klajdi Puka
 <img src='/images/Klajdi_Puka.png' align="left" width="200">
+**Centre for Addiction and Mental Health (CAMH), Canada**<br>
 Klajdi Puka, PhD, is a Project Scientist at the Institute for Mental Health Policy Research at CAMH, and an Adjust Professor of Epidemiology and Biostatistics at Western University. Dr. Puka’s research focuses on investigating modifiable factors of health outcomes and randomized trials. Specifically, he has focused on modeling mental health outcomes over time and examining their interactions with clinical characteristics, family environment, health behaviors, and socioeconomic status. This work has been used to inform his second line of research, focused on the implementation and evaluation of behavioural interventions through randomized control trials. The application of advanced quantitative methods and methods-development work are important aspects of his research program. 
 <br>
 <br>

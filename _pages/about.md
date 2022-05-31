@@ -19,11 +19,9 @@ Life expectancy in the United States (US) has been stagnating and declining sinc
 
 SIMAH will integrate existing evidence with rich and diverse data sources to develop a unified computer model of mortality and alcohol use across different socioeconomic and racial/ethnic groups. This computer model will allow for a detailed investigation of the underlying causes for the recent declines in life expectancy in the US and offer novel insights to reverse these trends. 
 
-<a href="#" class="notice notice--primary">
 More specifically, SIMAH will:
 1. Investigate whether (and the extent to which) alcohol use has more harmful effects among disadvantaged socioeconomic and racial/ethnic groups. 
 2. Develop a unified computer model to identify population-level trends in mortality and their causes based on individual life trajectories.
 3. Inform public health policy by investigating different scenarios of alcohol-control interventions, with regard to their ability to reverse current decreases in life expectancy.
-</a>
 
 The computer model developed will be made publicly available and will allow knowledge users to obtain robust estimates of the direction and magnitude of intervention effects over time. Importantly, it will facilitate a fine-tuned knowledge translation platform that can be tailored to the needs of public health authorities on the state level. Instead of providing results in the form of a single point estimate, the computer model has the potential to flexibly analyze intervention scenarios upon request of stakeholders.

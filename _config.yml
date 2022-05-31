@@ -15,6 +15,7 @@ url                      : https://kpuka.ca # the base hostname & protocol for y
 baseurl                  : "/SIMAH" # the subpath of your site, e.g. "/blog"
 repository               : "kpuka/SIMAH"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+logo                     : /images/SIMAH_Logo2.png
 breadcrumbs              : false
 words_per_minute         : 160
 future                   : true

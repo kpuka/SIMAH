@@ -1,6 +1,7 @@
 ---
 title: Research Team
 permalink: /team/
+layout: single
 toc: true
 toc_label: "Research Team"
 toc_icon: "user-friends"

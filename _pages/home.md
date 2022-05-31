@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#6E298D"
-  overlay_filter: "0.5"
+  overlay_filter: "0.10"
   overlay_image: /images/SIMAH_Logo2.png
 excerpt: "**Sim**ulation of **A**lcohol Control Policies for **H**ealth Equity (SIMAH).<br>A  major alcohol policy modeling project funded by the US National Institute on Alcohol Abuse and Alcoholism (NIAAA)."
 feature_row:

@@ -26,6 +26,7 @@ Over the past decade, the United States is experiencing stagnation and declines 
 {% include feature_row %}
 
 # Who we work with:
+<img src='/images/institutions.png'>
 [Center for Addiction and Mental Health (CAMH)](https://camh.ca) <br>
 [Alcohol Research Group (ARG)](https://arg.org)  <br>
 [Sheffield Alcohol Research Group (SARG)](https://www.sheffield.ac.uk/scharr/research/themes/alpol)  <br>
